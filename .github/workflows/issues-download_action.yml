@@ -1,0 +1,65 @@
+name: Translation To GitHub
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  check-issue:
+    if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github')
+    name: Check Issue
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: issue check
+        run: |
+          echo "检测成功："${{github.event.issue.labels.*.name}}
+  Translation-To-GitHub:
+    name: Translation To GitHub
+    needs: check-issue
+    runs-on: ubuntu-latest
+    environment: PARATRANZ_ENV
+    env:
+      API_TOKEN: ${{secrets.API_KEY}}
+      FILE_PATH: ./
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PROJECT_ID: ${{vars.ID}}
+      GIT_PATH: https://github.com/Litchiiiiii/test.git
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+          pip install requests
+      - name: merge main
+        run: |
+          git init
+          git fetch origin
+          git config --global user.email "1592282237@qq.com"
+          git config --global user.name "Litchiiiiiii"
+          git checkout develop 
+          git reset --hard main
+      - name: Paratranz To zh_cn
+        run: |
+          python translationToGitHub.py
+      - name: Upload To Develop
+        run: |
+          git config --global pull.rebase false
+          git add .
+          git commit -m 'paratranz上传'
+          git pull origin develop --allow-unrelated-histories
+          git push -u origin develop
+  close-issue:
+    name: Close Issue
+    needs: check-issue
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2.0.0
+        with:
+          comment: |
+            此模板仅由内部人员使用，已自动关闭。
