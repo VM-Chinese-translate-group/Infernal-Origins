@@ -1,0 +1,24 @@
+{
+  "item.runicitems.mallet": "Mallet",
+  "item.runicitems.stone_tablet": "\u00A75Secrets of Life and Death\u00A7r",
+  "item.runicitems.archer_boots": "Archer Boots",
+  "item.runicitems.fighter_boots": "Fighter Boots",
+  "item.runicitems.wizard_boots": "Wizard Boots",
+  "item.runicitems.eagle_boots": "Eagle Boots",
+  "item.runicitems.warrior_boots": "Warrior Boots",
+  "item.runicitems.sorcerer_boots": "Sorcerer Boots",
+  "item.runicitems.ancient_staff": "Ancient Staff",
+
+  "enchantment.runicitems.freezing": "Freezing",
+  "enchantment.runicitems.target_cracker": "Target Cracker",
+  "enchantment.runicitems.radius": "Radius",
+  "enchantment.runicitems.ice_barrage": "Ice Barrage",
+  "enchantment.runicitems.blood_barrage": "Blood Barrage",
+
+  "tooltip.runicitems.archer_boots": "\u00A77Increases Projectile Damage\u00A7r",
+  "tooltip.runicitems.fighter_boots": "\u00A77Increases Melee Damage\u00A7r",
+  "tooltip.runicitems.wizard_boots": "\u00A77Increases Magic Damage\u00A7r",
+  "tooltip.runicitems.eagle_boots": "\u00A77Greatly Increases Projectile Damage\u00A7r",
+  "tooltip.runicitems.warrior_boots": "\u00A77Greatly Increases Melee Damage\u00A7r",
+  "tooltip.runicitems.sorcerer_boots": "\u00A77Greatly Increases Magic Damage\u00A7r"
+}
