@@ -1,0 +1,15 @@
+{
+    "block.entity_enchantment.enchantment_transfuser":"Enchantment Transfuser",
+    "command.entity_enchantment.apply":"Applied enchantment %1$s to %2$s targets",
+    "command.entity_enchantment.could_not_find":"Could not find enchantment %s",
+    "entity_enchantment.entity_enchantment.armor":"Armor",
+    "entity_enchantment.entity_enchantment.frostborn":"Frostborn",
+    "entity_enchantment.entity_enchantment.illusion":"Illusion",
+    "entity_enchantment.entity_enchantment.infernal":"Infernal",
+    "entity_enchantment.entity_enchantment.reflect":"Reflect",
+    "entity_enchantment.entity_enchantment.speed":"Speed",
+    "entity_enchantment.entity_enchantment.strength":"Strength",
+    "entity_enchantment.entity_enchantment.unstable":"Unstable",
+    "item.entity_enchantment.enchanted_scroll":"Enchanted Scroll",
+    "item.entity_enchantment.scroll":"Scroll"
+}
