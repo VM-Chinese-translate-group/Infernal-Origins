@@ -197,8 +197,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonbone_sword_fire>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_fire.1505"));
 <item:iceandfire:dragonbone_sword_fire>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_fire.1506"));
-<item:iceandfire:dragonbone_sword_fire>.anyDamage().removeTooltip("\\+8 damage against Ice Dragons");
-<item:iceandfire:dragonbone_sword_fire>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonbone_sword_fire>.anyDamage().removeTooltip("\\+8 \u51b0\u9f99\u514b\u5236");
+<item:iceandfire:dragonbone_sword_fire>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonbone_sword_fire>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_fire.1509"));
 <item:iceandfire:dragonbone_sword_fire>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_fire.1510"));
 <item:iceandfire:dragonbone_sword_fire>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_fire.1511"));
@@ -207,8 +207,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonbone_sword_ice>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_ice.1514"));
 <item:iceandfire:dragonbone_sword_ice>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_ice.1515"));
-<item:iceandfire:dragonbone_sword_ice>.anyDamage().removeTooltip("\\+8 damage against Fire Dragons");
-<item:iceandfire:dragonbone_sword_ice>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonbone_sword_ice>.anyDamage().removeTooltip("\\+8 \u706b\u9f99\u514b\u5236");
+<item:iceandfire:dragonbone_sword_ice>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonbone_sword_ice>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_ice.1518"));
 <item:iceandfire:dragonbone_sword_ice>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_ice.1519"));
 <item:iceandfire:dragonbone_sword_ice>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_ice.1520"));
@@ -217,8 +217,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonbone_sword_lightning>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_lightning.1523"));
 <item:iceandfire:dragonbone_sword_lightning>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_lightning.1524"));
-<item:iceandfire:dragonbone_sword_lightning>.anyDamage().removeTooltip("\\+4 damage against Fire Dragons and Ice Dragons");
-<item:iceandfire:dragonbone_sword_lightning>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonbone_sword_lightning>.anyDamage().removeTooltip("\\+4 \u51b0\u706b\u9f99\u514b\u5236");
+<item:iceandfire:dragonbone_sword_lightning>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonbone_sword_lightning>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_lightning.1527"));
 <item:iceandfire:dragonbone_sword_lightning>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_lightning.1528"));
 <item:iceandfire:dragonbone_sword_lightning>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonbone_sword_lightning.1529"));
@@ -228,35 +228,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonsteel_fire_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_sword.1532"));
 <item:iceandfire:dragonsteel_fire_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_sword.1533"));
-<item:iceandfire:dragonsteel_fire_sword>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonsteel_fire_sword>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonsteel_fire_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_sword.1535"));
 <item:iceandfire:dragonsteel_fire_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_sword.1536"));
 <item:iceandfire:dragonsteel_fire_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_sword.1537"));
 
 <item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_pickaxe.1538"));
 <item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_pickaxe.1539"));
-<item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_pickaxe.1541"));
 <item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_pickaxe.1542"));
 <item:iceandfire:dragonsteel_fire_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_pickaxe.1543"));
 
 <item:iceandfire:dragonsteel_fire_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_axe.1544"));
 <item:iceandfire:dragonsteel_fire_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_axe.1545"));
-<item:iceandfire:dragonsteel_fire_axe>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonsteel_fire_axe>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonsteel_fire_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_axe.1547"));
 <item:iceandfire:dragonsteel_fire_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_axe.1548"));
 <item:iceandfire:dragonsteel_fire_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_axe.1549"));
 
 <item:iceandfire:dragonsteel_fire_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_shovel.1550"));
 <item:iceandfire:dragonsteel_fire_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_shovel.1551"));
-<item:iceandfire:dragonsteel_fire_shovel>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonsteel_fire_shovel>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonsteel_fire_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_shovel.1553"));
 <item:iceandfire:dragonsteel_fire_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_shovel.1554"));
 <item:iceandfire:dragonsteel_fire_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_shovel.1555"));
 
 <item:iceandfire:dragonsteel_fire_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_hoe.1556"));
 <item:iceandfire:dragonsteel_fire_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_hoe.1557"));
-<item:iceandfire:dragonsteel_fire_hoe>.anyDamage().removeTooltip("Ignites and knocks back targets");
+<item:iceandfire:dragonsteel_fire_hoe>.anyDamage().removeTooltip("\u70b9\u71c3\u5e76\u5927\u5e45\u51fb\u9000\u76ee\u6807");
 <item:iceandfire:dragonsteel_fire_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_hoe.1559"));
 <item:iceandfire:dragonsteel_fire_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_hoe.1560"));
 <item:iceandfire:dragonsteel_fire_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_fire_hoe.1561"));
@@ -264,35 +264,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonsteel_ice_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_sword.1562"));
 <item:iceandfire:dragonsteel_ice_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_sword.1563"));
-<item:iceandfire:dragonsteel_ice_sword>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonsteel_ice_sword>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonsteel_ice_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_sword.1565"));
 <item:iceandfire:dragonsteel_ice_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_sword.1566"));
 <item:iceandfire:dragonsteel_ice_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_sword.1567"));
 
 <item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_pickaxe.1568"));
 <item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_pickaxe.1569"));
-<item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_pickaxe.1571"));
 <item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_pickaxe.1572"));
 <item:iceandfire:dragonsteel_ice_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_pickaxe.1573"));
 
 <item:iceandfire:dragonsteel_ice_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_axe.1574"));
 <item:iceandfire:dragonsteel_ice_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_axe.1575"));
-<item:iceandfire:dragonsteel_ice_axe>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonsteel_ice_axe>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonsteel_ice_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_axe.1577"));
 <item:iceandfire:dragonsteel_ice_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_axe.1578"));
 <item:iceandfire:dragonsteel_ice_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_axe.1579"));
 
 <item:iceandfire:dragonsteel_ice_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_shovel.1580"));
 <item:iceandfire:dragonsteel_ice_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_shovel.1581"));
-<item:iceandfire:dragonsteel_ice_shovel>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonsteel_ice_shovel>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonsteel_ice_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_shovel.1583"));
 <item:iceandfire:dragonsteel_ice_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_shovel.1584"));
 <item:iceandfire:dragonsteel_ice_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_shovel.1585"));
 
 <item:iceandfire:dragonsteel_ice_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_hoe.1586"));
 <item:iceandfire:dragonsteel_ice_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_hoe.1587"));
-<item:iceandfire:dragonsteel_ice_hoe>.anyDamage().removeTooltip("Freezes targets");
+<item:iceandfire:dragonsteel_ice_hoe>.anyDamage().removeTooltip("\u51b0\u51bb\u76ee\u6807");
 <item:iceandfire:dragonsteel_ice_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_hoe.1589"));
 <item:iceandfire:dragonsteel_ice_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_hoe.1590"));
 <item:iceandfire:dragonsteel_ice_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_ice_hoe.1591"));
@@ -300,35 +300,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:dragonsteel_lightning_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_sword.1592"));
 <item:iceandfire:dragonsteel_lightning_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_sword.1593"));
-<item:iceandfire:dragonsteel_lightning_sword>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonsteel_lightning_sword>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonsteel_lightning_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_sword.1595"));
 <item:iceandfire:dragonsteel_lightning_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_sword.1596"));
 <item:iceandfire:dragonsteel_lightning_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_sword.1597"));
 
 <item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_pickaxe.1598"));
 <item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_pickaxe.1599"));
-<item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_pickaxe.1601"));
 <item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_pickaxe.1602"));
 <item:iceandfire:dragonsteel_lightning_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_pickaxe.1603"));
 
 <item:iceandfire:dragonsteel_lightning_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_axe.1604"));
 <item:iceandfire:dragonsteel_lightning_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_axe.1605"));
-<item:iceandfire:dragonsteel_lightning_axe>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonsteel_lightning_axe>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonsteel_lightning_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_axe.1607"));
 <item:iceandfire:dragonsteel_lightning_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_axe.1608"));
 <item:iceandfire:dragonsteel_lightning_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_axe.1609"));
 
 <item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_shovel.1610"));
 <item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_shovel.1611"));
-<item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_shovel.1613"));
 <item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_shovel.1614"));
 <item:iceandfire:dragonsteel_lightning_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_shovel.1615"));
 
 <item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_hoe.1616"));
 <item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_hoe.1617"));
-<item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().removeTooltip("Strikes targets with lightning");
+<item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().removeTooltip("\u7535\u51fb\u76ee\u6807");
 <item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_hoe.1619"));
 <item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_hoe.1620"));
 <item:iceandfire:dragonsteel_lightning_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragonsteel_lightning_hoe.1621"));
@@ -336,7 +336,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1622"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1623"));
-<item:iceandfire:forest_troll_leather_helmet>.anyDamage().removeTooltip("\\-10% Projectile Damage");
+<item:iceandfire:forest_troll_leather_helmet>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1625"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1626"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1627"));
