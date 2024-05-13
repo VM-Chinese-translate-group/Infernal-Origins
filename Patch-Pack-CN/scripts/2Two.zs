@@ -6,8 +6,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1342"));
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1343"));
-<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("Right click on a block to slam your hammer, dealing AOE damage in a circle around you");
-<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("This item also acts as a Pickaxe and can use Pickaxe enchantments");
+<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("在主手时，若右击方块，则可进行范围攻击");
+<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("（仅供参考，这其实是一把镐子）");
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1346"));
 <item:cataclysm:infernal_forge>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1347"));
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1348"));
