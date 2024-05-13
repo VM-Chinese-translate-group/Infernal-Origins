@@ -486,8 +486,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:novelty_drinking_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.novelty_drinking_hat.1741"));
 <item:artifacts:novelty_drinking_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.novelty_drinking_hat.1742"));
-<item:artifacts:novelty_drinking_hat>.anyDamage().removeTooltip("Decreases the time it takes to drink drinkable items");
-<item:artifacts:novelty_drinking_hat>.anyDamage().removeTooltip("'Hey! I'm #1, and I let gravity do my drinking!'");
+<item:artifacts:novelty_drinking_hat>.anyDamage().removeTooltip("\u51cf\u5c11\u996e\u7528\u548c\u98df\u7528\u7269\u54c1\u6240\u9700\u65f6\u95f4");
+<item:artifacts:novelty_drinking_hat>.anyDamage().removeTooltip("'\u563f\uff01\u6211\u662fNo.1\uff01\u6211\u8ba9\u91cd\u529b\u5582\u6211\u996e\u6599\uff01'");
 <item:artifacts:novelty_drinking_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.novelty_drinking_hat.1745"));
 <item:artifacts:novelty_drinking_hat>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.novelty_drinking_hat.1746"));
 <item:artifacts:novelty_drinking_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.novelty_drinking_hat.1747"));
@@ -497,7 +497,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:snorkel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.snorkel.1750"));
 <item:artifacts:snorkel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.snorkel.1751"));
-<item:artifacts:snorkel>.anyDamage().removeTooltip("Allows the wearer to breathe underwater");
+<item:artifacts:snorkel>.anyDamage().removeTooltip("\u4f7f\u4f69\u6234\u8005\u53ef\u4ee5\u5728\u6c34\u4e0b\u547c\u5438");
 <item:artifacts:snorkel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.snorkel.1753"));
 <item:artifacts:snorkel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.snorkel.1754"));
 <item:artifacts:snorkel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.snorkel.1755"));
