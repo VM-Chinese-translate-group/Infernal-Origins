@@ -1,13 +1,13 @@
 import crafttweaker.api.item.IIngredient;
 import crafttweaker.api.util.text.MCTextComponent;
 
-<item:farmersdelight:milk_bottle>.anyDamage().removeTooltip("Clears 1 Effect");
+<item:farmersdelight:milk_bottle>.anyDamage().removeTooltip("\u6e05\u9664 1 \u4e2a\u6548\u679c");
 
 
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1342"));
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1343"));
-<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("在主手时，若右击方块，则可进行范围攻击");
-<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("（仅供参考，这其实是一把镐子）");
+<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("\u5728\u4e3b\u624b\u65f6\uff0c\u82e5\u53f3\u51fb\u65b9\u5757\uff0c\u5219\u53ef\u8fdb\u884c\u8303\u56f4\u653b\u51fb");
+<item:cataclysm:infernal_forge>.anyDamage().removeTooltip("\uff08\u4ec5\u4f9b\u53c2\u8003\uff0c\u8fd9\u5176\u5b9e\u662f\u4e00\u628a\u9550\u5b50\uff09");
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1346"));
 <item:cataclysm:infernal_forge>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1347"));
 <item:cataclysm:infernal_forge>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.infernal_forge.1348"));
@@ -161,35 +161,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:silver_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_sword.1475"));
 <item:iceandfire:silver_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_sword.1476"));
-<item:iceandfire:silver_sword>.anyDamage().removeTooltip("\\+2 damage against undead");
+<item:iceandfire:silver_sword>.anyDamage().removeTooltip("\u589e\u52a02\u70b9\u5bf9\u4ea1\u7075\u751f\u7269\u7684\u4f24\u5bb3");
 <item:iceandfire:silver_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_sword.1478"));
 <item:iceandfire:silver_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_sword.1479"));
 <item:iceandfire:silver_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_sword.1480"));
 
 <item:iceandfire:silver_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_shovel.1481"));
 <item:iceandfire:silver_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_shovel.1482"));
-<item:iceandfire:silver_shovel>.anyDamage().removeTooltip("\\+2 damage against undead");
+<item:iceandfire:silver_shovel>.anyDamage().removeTooltip("\u589e\u52a02\u70b9\u5bf9\u4ea1\u7075\u751f\u7269\u7684\u4f24\u5bb3");
 <item:iceandfire:silver_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_shovel.1484"));
 <item:iceandfire:silver_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_shovel.1485"));
 <item:iceandfire:silver_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_shovel.1486"));
 
 <item:iceandfire:silver_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_pickaxe.1487"));
 <item:iceandfire:silver_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_pickaxe.1488"));
-<item:iceandfire:silver_pickaxe>.anyDamage().removeTooltip("\\+2 damage against undead");
+<item:iceandfire:silver_pickaxe>.anyDamage().removeTooltip("\u589e\u52a02\u70b9\u5bf9\u4ea1\u7075\u751f\u7269\u7684\u4f24\u5bb3");
 <item:iceandfire:silver_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_pickaxe.1490"));
 <item:iceandfire:silver_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_pickaxe.1491"));
 <item:iceandfire:silver_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_pickaxe.1492"));
 
 <item:iceandfire:silver_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_axe.1493"));
 <item:iceandfire:silver_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_axe.1494"));
-<item:iceandfire:silver_axe>.anyDamage().removeTooltip("\\+2 damage against undead");
+<item:iceandfire:silver_axe>.anyDamage().removeTooltip("\u589e\u52a02\u70b9\u5bf9\u4ea1\u7075\u751f\u7269\u7684\u4f24\u5bb3");
 <item:iceandfire:silver_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_axe.1496"));
 <item:iceandfire:silver_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_axe.1497"));
 <item:iceandfire:silver_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_axe.1498"));
 
 <item:iceandfire:silver_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_hoe.1499"));
 <item:iceandfire:silver_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_hoe.1500"));
-<item:iceandfire:silver_hoe>.anyDamage().removeTooltip("\\+2 damage against undead");
+<item:iceandfire:silver_hoe>.anyDamage().removeTooltip("\\u589e\u52a02\u70b9\u5bf9\u4ea1\u7075\u751f\u7269\u7684\u4f24\u5bb3");
 <item:iceandfire:silver_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_hoe.1502"));
 <item:iceandfire:silver_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_hoe.1503"));
 <item:iceandfire:silver_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.silver_hoe.1504"));
