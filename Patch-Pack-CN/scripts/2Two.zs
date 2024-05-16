@@ -19,8 +19,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:bulwark_of_the_flame>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.bulwark_of_the_flame.1353"));
 <item:cataclysm:bulwark_of_the_flame>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.bulwark_of_the_flame.1354"));
-<item:cataclysm:bulwark_of_the_flame>.anyDamage().removeTooltip("If you stop holding right click while sneak, user will charge forward and give damage to the entities in front of you.");
-<item:cataclysm:bulwark_of_the_flame>.anyDamage().removeTooltip("if target get hitted by wall, target take more damage and gain stun");
+<item:cataclysm:bulwark_of_the_flame>.anyDamage().removeTooltip("\u6f5c\u884c\u72b6\u6001\u4e0b\uff0c\u624b\u6301\u6b64\u76fe\u53f3\u51fb\u4ee5\u5411\u524d\u51b2\u950b\uff0c\u5bf9\u524d\u65b9\u5b9e\u4f53\u9020\u6210\u4f24\u5bb3");
+<item:cataclysm:bulwark_of_the_flame>.anyDamage().removeTooltip("\u5982\u679c\u76ee\u6807\u53d7\u51fb\u540e\u649e\u5230\u4e86\u5899\uff0c\u90a3\u4e48\u5b83\u4f1a\u53d7\u5230\u66f4\u591a\u4f24\u5bb3\u5e76\u83b7\u5f97\u7729\u6655\u6548\u679c");
 <item:cataclysm:bulwark_of_the_flame>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.bulwark_of_the_flame.1357"));
 <item:cataclysm:bulwark_of_the_flame>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.bulwark_of_the_flame.1358"));
 <item:cataclysm:bulwark_of_the_flame>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.bulwark_of_the_flame.1359"));
@@ -36,9 +36,9 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:the_incinerator>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.the_incinerator.1368"));
 <item:cataclysm:the_incinerator>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.the_incinerator.1369"));
-<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("Full charge takes 3 seconds, If you stop holding right click after 3 second");
-<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("you can summon a flame strike in the direction of looking at.");
-<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("WARNING: The item may be lost as the flame strike explodes when it disappears.");
+<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("\u957f\u6309\u9f20\u6807\u53f3\u952e3\u79d2\u4ee5\u5145\u80fd\uff0c\u800c\u540e\u82e5\u677e\u5f00\u53f3\u952e\uff0c");
+<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("\u90a3\u4e48\u4e00\u884c\u706b\u7130\u8f70\u51fb\u5c06\u51fa\u73b0\u5728\u4f60\u770b\u5411\u7684\u5730\u65b9\u3002");
+<item:cataclysm:the_incinerator>.anyDamage().removeTooltip("\u8b66\u544a\uff1a\u751f\u7269\u6b7b\u4ea1\u65f6\u6389\u4e0b\u7684\u6218\u5229\u54c1\u53ef\u80fd\u4f1a\u5728\u706b\u7130\u8f70\u51fb\u7684\u7206\u70b8\u4e2d\u6d88\u5931");
 <item:cataclysm:the_incinerator>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.the_incinerator.1373"));
 <item:cataclysm:the_incinerator>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.the_incinerator.1374"));
 <item:cataclysm:the_incinerator>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.the_incinerator.1375"));
@@ -50,7 +50,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:ignitium_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_helmet.1380"));
 <item:cataclysm:ignitium_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_helmet.1381"));
-<item:cataclysm:ignitium_helmet>.anyDamage().removeTooltip("Lava Vision");
+<item:cataclysm:ignitium_helmet>.anyDamage().removeTooltip("\u7194\u5ca9\u4e0b\u62e5\u6709\u6e05\u6670\u89c6\u91ce");
 <item:cataclysm:ignitium_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_helmet.1383"));
 <item:cataclysm:ignitium_helmet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_helmet.1384"));
 <item:cataclysm:ignitium_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_helmet.1385"));
@@ -65,14 +65,14 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:ignitium_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_chestplate.1391"));
 <item:cataclysm:ignitium_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_chestplate.1392"));
-<item:cataclysm:ignitium_chestplate>.anyDamage().removeTooltip("Can Crafting with elytra");
+<item:cataclysm:ignitium_chestplate>.anyDamage().removeTooltip("\u53ef\u4ee5\u4e0e\u9798\u7fc5\u5408\u6210");
 <item:cataclysm:ignitium_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_chestplate.1394"));
 <item:cataclysm:ignitium_chestplate>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_chestplate.1395"));
 <item:cataclysm:ignitium_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_chestplate.1396"));
 
 <item:cataclysm:ignitium_elytra_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_elytra_chestplate.1397"));
 <item:cataclysm:ignitium_elytra_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_elytra_chestplate.1398"));
-<item:cataclysm:ignitium_elytra_chestplate>.anyDamage().removeTooltip("Can Crafting with elytra");
+<item:cataclysm:ignitium_elytra_chestplate>.anyDamage().removeTooltip("\u53ef\u4ee5\u4e0e\u9798\u7fc5\u5408\u6210");
 <item:cataclysm:ignitium_elytra_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_elytra_chestplate.1400"));
 <item:cataclysm:ignitium_elytra_chestplate>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_elytra_chestplate.1401"));
 <item:cataclysm:ignitium_elytra_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_elytra_chestplate.1402"));
@@ -81,7 +81,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:ignitium_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_leggings.1405"));
 <item:cataclysm:ignitium_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_leggings.1406"));
-<item:cataclysm:ignitium_leggings>.anyDamage().removeTooltip("Flame Reflex");
+<item:cataclysm:ignitium_leggings>.anyDamage().removeTooltip("\u7528\u706b\u7130\u707c\u70e7\u653b\u51fb\u8005");
 <item:cataclysm:ignitium_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_leggings.1408"));
 <item:cataclysm:ignitium_leggings>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_leggings.1409"));
 <item:cataclysm:ignitium_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_leggings.1410"));
@@ -90,7 +90,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:cataclysm:ignitium_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_boots.1413"));
 <item:cataclysm:ignitium_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_boots.1414"));
-<item:cataclysm:ignitium_boots>.anyDamage().removeTooltip("Lava Walker");
+<item:cataclysm:ignitium_boots>.anyDamage().removeTooltip("\u7194\u5ca9\u884c\u8005");
 <item:cataclysm:ignitium_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_boots.1416"));
 <item:cataclysm:ignitium_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_boots.1417"));
 <item:cataclysm:ignitium_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.ignitium_boots.1418"));
@@ -336,28 +336,28 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1622"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1623"));
-<item:iceandfire:forest_troll_leather_helmet>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:forest_troll_leather_helmet>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1625"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1626"));
 <item:iceandfire:forest_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_helmet.1627"));
 
 <item:iceandfire:forest_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_chestplate.1628"));
 <item:iceandfire:forest_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_chestplate.1629"));
-<item:iceandfire:forest_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:forest_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:forest_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_chestplate.1631"));
 <item:iceandfire:forest_troll_leather_chestplate>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_chestplate.1632"));
 <item:iceandfire:forest_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_chestplate.1633"));
 
 <item:iceandfire:forest_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_leggings.1634"));
 <item:iceandfire:forest_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_leggings.1635"));
-<item:iceandfire:forest_troll_leather_leggings>.anyDamage().removeTooltip("\\-20% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:forest_troll_leather_leggings>.anyDamage().removeTooltip("\\-20%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:forest_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_leggings.1637"));
 <item:iceandfire:forest_troll_leather_leggings>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_leggings.1638"));
 <item:iceandfire:forest_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_leggings.1639"));
 
 <item:iceandfire:forest_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_boots.1640"));
 <item:iceandfire:forest_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_boots.1641"));
-<item:iceandfire:forest_troll_leather_boots>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:forest_troll_leather_boots>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:forest_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_boots.1643"));
 <item:iceandfire:forest_troll_leather_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_boots.1644"));
 <item:iceandfire:forest_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.forest_troll_leather_boots.1645"));
@@ -365,28 +365,28 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:frost_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_helmet.1646"));
 <item:iceandfire:frost_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_helmet.1647"));
-<item:iceandfire:frost_troll_leather_helmet>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:frost_troll_leather_helmet>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:frost_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_helmet.1649"));
 <item:iceandfire:frost_troll_leather_helmet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_helmet.1650"));
 <item:iceandfire:frost_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_helmet.1651"));
 
 <item:iceandfire:frost_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_chestplate.1652"));
 <item:iceandfire:frost_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_chestplate.1653"));
-<item:iceandfire:frost_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:frost_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:frost_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_chestplate.1655"));
 <item:iceandfire:frost_troll_leather_chestplate>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_chestplate.1656"));
 <item:iceandfire:frost_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_chestplate.1657"));
 
 <item:iceandfire:frost_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_leggings.1658"));
 <item:iceandfire:frost_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_leggings.1659"));
-<item:iceandfire:frost_troll_leather_leggings>.anyDamage().removeTooltip("\\-20% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:frost_troll_leather_leggings>.anyDamage().removeTooltip("\\-20%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:frost_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_leggings.1661"));
 <item:iceandfire:frost_troll_leather_leggings>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_leggings.1662"));
 <item:iceandfire:frost_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_leggings.1663"));
 
 <item:iceandfire:frost_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_boots.1664"));
 <item:iceandfire:frost_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_boots.1665"));
-<item:iceandfire:frost_troll_leather_boots>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:frost_troll_leather_boots>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:frost_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_boots.1667"));
 <item:iceandfire:frost_troll_leather_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_boots.1668"));
 <item:iceandfire:frost_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.frost_troll_leather_boots.1669"));
@@ -394,28 +394,28 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:mountain_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_helmet.1670"));
 <item:iceandfire:mountain_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_helmet.1671"));
-<item:iceandfire:mountain_troll_leather_helmet>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:mountain_troll_leather_helmet>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:mountain_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_helmet.1673"));
 <item:iceandfire:mountain_troll_leather_helmet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_helmet.1674"));
 <item:iceandfire:mountain_troll_leather_helmet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_helmet.1675"));
 
 <item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_chestplate.1676"));
 <item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_chestplate.1677"));
-<item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().removeTooltip("\\-30%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_chestplate.1679"));
 <item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_chestplate.1680"));
 <item:iceandfire:mountain_troll_leather_chestplate>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_chestplate.1681"));
 
 <item:iceandfire:mountain_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_leggings.1682"));
 <item:iceandfire:mountain_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_leggings.1683"));
-<item:iceandfire:mountain_troll_leather_leggings>.anyDamage().removeTooltip("\\-20% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:mountain_troll_leather_leggings>.anyDamage().removeTooltip("\\-20%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:mountain_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_leggings.1685"));
 <item:iceandfire:mountain_troll_leather_leggings>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_leggings.1686"));
 <item:iceandfire:mountain_troll_leather_leggings>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_leggings.1687"));
 
 <item:iceandfire:mountain_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_boots.1688"));
 <item:iceandfire:mountain_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_boots.1689"));
-<item:iceandfire:mountain_troll_leather_boots>.anyDamage().removeTooltip("\\-10% \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:iceandfire:mountain_troll_leather_boots>.anyDamage().removeTooltip("\\-10%\u5f39\u5c04\u7269\u4f24\u5bb3");
 <item:iceandfire:mountain_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_boots.1691"));
 <item:iceandfire:mountain_troll_leather_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_boots.1692"));
 <item:iceandfire:mountain_troll_leather_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.mountain_troll_leather_boots.1693"));
@@ -505,7 +505,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:night_vision_goggles>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.night_vision_goggles.1756"));
 <item:artifacts:night_vision_goggles>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.night_vision_goggles.1757"));
-<item:artifacts:night_vision_goggles>.anyDamage().removeTooltip("Allows the wearer to see in the dark");
+<item:artifacts:night_vision_goggles>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u80fd\u5728\u9ed1\u6697\u4e2d\u770b\u6e05");
 <item:artifacts:night_vision_goggles>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.night_vision_goggles.1759"));
 <item:artifacts:night_vision_goggles>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.night_vision_goggles.1760"));
 <item:artifacts:night_vision_goggles>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.night_vision_goggles.1761"));
@@ -513,7 +513,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:villager_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.villager_hat.1762"));
 <item:artifacts:villager_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.villager_hat.1763"));
-<item:artifacts:villager_hat>.anyDamage().removeTooltip("Decreases trading prices and villagers occasionally give gifts to the wearer");
+<item:artifacts:villager_hat>.anyDamage().removeTooltip("\u964d\u4f4e\u6751\u6c11\u7684\u4ea4\u6613\u4ef7\u683c");
 <item:artifacts:villager_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.villager_hat.1765"));
 <item:artifacts:villager_hat>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.villager_hat.1766"));
 <item:artifacts:villager_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.villager_hat.1767"));
@@ -521,7 +521,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:superstitious_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.superstitious_hat.1768"));
 <item:artifacts:superstitious_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.superstitious_hat.1769"));
-<item:artifacts:superstitious_hat>.anyDamage().removeTooltip("Applies an extra level of looting to killed entities");
+<item:artifacts:superstitious_hat>.anyDamage().removeTooltip("\u63d0\u4f9b\u66f4\u9ad8\u7ea7\u7684\u62a2\u593a\u6548\u679c");
 <item:artifacts:superstitious_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.superstitious_hat.1771"));
 <item:artifacts:superstitious_hat>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.superstitious_hat.1772"));
 <item:artifacts:superstitious_hat>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.superstitious_hat.1773"));
@@ -529,7 +529,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:lucky_scarf>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.lucky_scarf.1774"));
 <item:artifacts:lucky_scarf>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.lucky_scarf.1775"));
-<item:artifacts:lucky_scarf>.anyDamage().removeTooltip("Applies an extra level of fortune to mined blocks");
+<item:artifacts:lucky_scarf>.anyDamage().removeTooltip("\u63d0\u4f9b\u66f4\u9ad8\u7ea7\u7684\u65f6\u8fd0\u6548\u679c");
 <item:artifacts:lucky_scarf>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.lucky_scarf.1777"));
 <item:artifacts:lucky_scarf>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.lucky_scarf.1778"));
 <item:artifacts:lucky_scarf>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.lucky_scarf.1779"));
@@ -537,7 +537,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:scarf_of_invisibility>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.scarf_of_invisibility.1780"));
 <item:artifacts:scarf_of_invisibility>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.scarf_of_invisibility.1781"));
-<item:artifacts:scarf_of_invisibility>.anyDamage().removeTooltip("Turns the wearer invisible");
+<item:artifacts:scarf_of_invisibility>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u9690\u8eab");
 <item:artifacts:scarf_of_invisibility>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.scarf_of_invisibility.1783"));
 <item:artifacts:scarf_of_invisibility>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.scarf_of_invisibility.1784"));
 <item:artifacts:scarf_of_invisibility>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.scarf_of_invisibility.1785"));
@@ -545,7 +545,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:cross_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cross_necklace.1786"));
 <item:artifacts:cross_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cross_necklace.1787"));
-<item:artifacts:cross_necklace>.anyDamage().removeTooltip("Increases the length of invincibility after taking damage");
+<item:artifacts:cross_necklace>.anyDamage().removeTooltip("\u5ef6\u957f\u7a7f\u6234\u8005\u53d7\u4f24\u540e\u65e0\u654c\u65f6\u95f4");
 <item:artifacts:cross_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cross_necklace.1789"));
 <item:artifacts:cross_necklace>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cross_necklace.1790"));
 <item:artifacts:cross_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cross_necklace.1791"));
@@ -553,7 +553,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:panic_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.panic_necklace.1792"));
 <item:artifacts:panic_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.panic_necklace.1793"));
-<item:artifacts:panic_necklace>.anyDamage().removeTooltip("Increases the wearer's movement speed after taking damage");
+<item:artifacts:panic_necklace>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u53d7\u4f24\u540e\u589e\u52a0\u79fb\u52a8\u901f\u5ea6");
 <item:artifacts:panic_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.panic_necklace.1795"));
 <item:artifacts:panic_necklace>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.panic_necklace.1796"));
 <item:artifacts:panic_necklace>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.panic_necklace.1797"));
@@ -561,7 +561,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:shock_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.shock_pendant.1798"));
 <item:artifacts:shock_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.shock_pendant.1799"));
-<item:artifacts:shock_pendant>.anyDamage().removeTooltip("Has a chance to strike attackers with lightning");
+<item:artifacts:shock_pendant>.anyDamage().removeTooltip("\u6709\u51e0\u7387\u96f7\u51fb\u8fdb\u653b\u8005");
 <item:artifacts:shock_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.shock_pendant.1801"));
 <item:artifacts:shock_pendant>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.shock_pendant.1802"));
 <item:artifacts:shock_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.shock_pendant.1803"));
@@ -569,7 +569,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:flame_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.flame_pendant.1804"));
 <item:artifacts:flame_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.flame_pendant.1805"));
-<item:artifacts:flame_pendant>.anyDamage().removeTooltip("Has a chance to light attackers on fire");
+<item:artifacts:flame_pendant>.anyDamage().removeTooltip("\u6709\u51e0\u7387\u70b9\u71c3\u8fdb\u653b\u8005");
 <item:artifacts:flame_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.flame_pendant.1807"));
 <item:artifacts:flame_pendant>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.flame_pendant.1808"));
 <item:artifacts:flame_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.flame_pendant.1809"));
@@ -577,7 +577,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:thorn_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.thorn_pendant.1810"));
 <item:artifacts:thorn_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.thorn_pendant.1811"));
-<item:artifacts:thorn_pendant>.anyDamage().removeTooltip("Has a chance to damage attackers");
+<item:artifacts:thorn_pendant>.anyDamage().removeTooltip("\u6709\u51e0\u7387\u4f24\u5bb3\u8fdb\u653b\u8005");
 <item:artifacts:thorn_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.thorn_pendant.1813"));
 <item:artifacts:thorn_pendant>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.thorn_pendant.1814"));
 <item:artifacts:thorn_pendant>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.thorn_pendant.1815"));
@@ -585,7 +585,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:obsidian_skull>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.obsidian_skull.1816"));
 <item:artifacts:obsidian_skull>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.obsidian_skull.1817"));
-<item:artifacts:obsidian_skull>.anyDamage().removeTooltip("The wearer becomes temporarily immune to fire damage when hurt by fire");
+<item:artifacts:obsidian_skull>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u53d7\u5230\u706b\u7130\u4f24\u5bb3\u540e\u6682\u65f6\u5bf9\u5176\u514d\u75ab");
 <item:artifacts:obsidian_skull>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.obsidian_skull.1819"));
 <item:artifacts:obsidian_skull>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.obsidian_skull.1820"));
 <item:artifacts:obsidian_skull>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.obsidian_skull.1821"));
@@ -593,7 +593,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:antidote_vessel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.antidote_vessel.1822"));
 <item:artifacts:antidote_vessel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.antidote_vessel.1823"));
-<item:artifacts:antidote_vessel>.anyDamage().removeTooltip("Greatly reduces the duration of negative effects");
+<item:artifacts:antidote_vessel>.anyDamage().removeTooltip("\u5927\u5e45\u5ea6\u964d\u4f4e\u8d1f\u9762\u6548\u679c\u7684\u6301\u7eed\u65f6\u95f4");
 <item:artifacts:antidote_vessel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.antidote_vessel.1825"));
 <item:artifacts:antidote_vessel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.antidote_vessel.1826"));
 <item:artifacts:antidote_vessel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.antidote_vessel.1827"));
@@ -601,7 +601,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:universal_attractor>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.universal_attractor.1828"));
 <item:artifacts:universal_attractor>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.universal_attractor.1829"));
-<item:artifacts:universal_attractor>.anyDamage().removeTooltip("Attracts nearby items");
+<item:artifacts:universal_attractor>.anyDamage().removeTooltip("\u5438\u5f15\u9644\u8fd1\u7684\u7269\u54c1");
 <item:artifacts:universal_attractor>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.universal_attractor.1831"));
 <item:artifacts:universal_attractor>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.universal_attractor.1832"));
 <item:artifacts:universal_attractor>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.universal_attractor.1833"));
@@ -609,7 +609,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:crystal_heart>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.crystal_heart.1834"));
 <item:artifacts:crystal_heart>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.crystal_heart.1835"));
-<item:artifacts:crystal_heart>.anyDamage().removeTooltip("Increases the wearer's maximum health");
+<item:artifacts:crystal_heart>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u7684\u6700\u5927\u751f\u547d\u503c");
 <item:artifacts:crystal_heart>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.crystal_heart.1837"));
 <item:artifacts:crystal_heart>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.crystal_heart.1838"));
 <item:artifacts:crystal_heart>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.crystal_heart.1839"));
@@ -617,7 +617,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:cloud_in_a_bottle>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cloud_in_a_bottle.1840"));
 <item:artifacts:cloud_in_a_bottle>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cloud_in_a_bottle.1841"));
-<item:artifacts:cloud_in_a_bottle>.anyDamage().removeTooltip("Allows the wearer to double jump");
+<item:artifacts:cloud_in_a_bottle>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u80fd\u591f\u4e8c\u6bb5\u8df3");
 <item:artifacts:cloud_in_a_bottle>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cloud_in_a_bottle.1843"));
 <item:artifacts:cloud_in_a_bottle>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cloud_in_a_bottle.1844"));
 <item:artifacts:cloud_in_a_bottle>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.cloud_in_a_bottle.1845"));
@@ -625,21 +625,21 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:digging_claws>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.digging_claws.1846"));
 <item:artifacts:digging_claws>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.digging_claws.1847"));
-<item:artifacts:digging_claws>.anyDamage().removeTooltip("Increases the wearer's mining speed and base mining level");
+<item:artifacts:digging_claws>.anyDamage().removeTooltip("\u589e\u52a0\u91c7\u6398\u901f\u5ea6\u548c\u57fa\u7840\u6316\u6398\u7b49\u7ea7");
 <item:artifacts:digging_claws>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.digging_claws.1849"));
 <item:artifacts:digging_claws>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.digging_claws.1850"));
 <item:artifacts:digging_claws>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.digging_claws.1851"));
 
 
-<item:artifacts:feral_claws>.anyDamage().removeTooltip("Increases the wearer's attack speed");
+<item:artifacts:feral_claws>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u7684\u653b\u51fb\u901f\u5ea6");
 
 
-<item:artifacts:power_glove>.anyDamage().removeTooltip("Increases damage dealt by the wearer");
+<item:artifacts:power_glove>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u9020\u6210\u7684\u653b\u51fb\u4f24\u5bb3");
 
 
 <item:artifacts:fire_gauntlet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.fire_gauntlet.1854"));
 <item:artifacts:fire_gauntlet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.fire_gauntlet.1855"));
-<item:artifacts:fire_gauntlet>.anyDamage().removeTooltip("Causes the wearer's melee attacks to deal fire damage");
+<item:artifacts:fire_gauntlet>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u7684\u8fd1\u6218\u653b\u51fb\u9020\u6210\u706b\u7130\u4f24\u5bb3");
 <item:artifacts:fire_gauntlet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.fire_gauntlet.1857"));
 <item:artifacts:fire_gauntlet>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.fire_gauntlet.1858"));
 <item:artifacts:fire_gauntlet>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.fire_gauntlet.1859"));
@@ -647,7 +647,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:pocket_piston>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.pocket_piston.1860"));
 <item:artifacts:pocket_piston>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.pocket_piston.1861"));
-<item:artifacts:pocket_piston>.anyDamage().removeTooltip("Increases knockback dealt by the wearer");
+<item:artifacts:pocket_piston>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u9020\u6210\u7684\u653b\u51fb\u51fb\u9000");
 <item:artifacts:pocket_piston>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.pocket_piston.1863"));
 <item:artifacts:pocket_piston>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.pocket_piston.1864"));
 <item:artifacts:pocket_piston>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.pocket_piston.1865"));
@@ -655,7 +655,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:vampiric_glove>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.vampiric_glove.1866"));
 <item:artifacts:vampiric_glove>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.vampiric_glove.1867"));
-<item:artifacts:vampiric_glove>.anyDamage().removeTooltip("Causes the wearer's melee attacks to absorb health");
+<item:artifacts:vampiric_glove>.anyDamage().removeTooltip("\u4f7f\u7a7f\u6234\u8005\u7684\u8fd1\u6218\u653b\u51fb\u5438\u6536\u751f\u547d\u503c");
 <item:artifacts:vampiric_glove>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.vampiric_glove.1869"));
 <item:artifacts:vampiric_glove>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.vampiric_glove.1870"));
 <item:artifacts:vampiric_glove>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.vampiric_glove.1871"));
@@ -663,7 +663,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:golden_hook>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.golden_hook.1872"));
 <item:artifacts:golden_hook>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.golden_hook.1873"));
-<item:artifacts:golden_hook>.anyDamage().removeTooltip("Increases experience dropped by creatures, especially those you have not recently killed.");
+<item:artifacts:golden_hook>.anyDamage().removeTooltip("\u589e\u52a0\u751f\u7269\u6389\u843d\u7684\u7ecf\u9a8c\u503c");
 <item:artifacts:golden_hook>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.golden_hook.1875"));
 <item:artifacts:golden_hook>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.golden_hook.1876"));
 <item:artifacts:golden_hook>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.golden_hook.1877"));
@@ -671,7 +671,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:bunny_hoppers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.bunny_hoppers.1878"));
 <item:artifacts:bunny_hoppers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.bunny_hoppers.1879"));
-<item:artifacts:bunny_hoppers>.anyDamage().removeTooltip("Increases the wearer's jump height and grants immunity to fall damage");
+<item:artifacts:bunny_hoppers>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u7684\u8df3\u8dc3\u9ad8\u5ea6\uff0c\u5e76\u4f7f\u5176\u514d\u75ab\u6454\u843d\u4f24\u5bb3");
 <item:artifacts:bunny_hoppers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.bunny_hoppers.1881"));
 <item:artifacts:bunny_hoppers>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.bunny_hoppers.1882"));
 <item:artifacts:bunny_hoppers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.bunny_hoppers.1883"));
@@ -679,7 +679,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:kitty_slippers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.kitty_slippers.1884"));
 <item:artifacts:kitty_slippers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.kitty_slippers.1885"));
-<item:artifacts:kitty_slippers>.anyDamage().removeTooltip("Creepers avoid the wearer");
+<item:artifacts:kitty_slippers>.anyDamage().removeTooltip("\u82e6\u529b\u6015\u4f1a\u907f\u5f00\u7a7f\u6234\u8005");
 <item:artifacts:kitty_slippers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.kitty_slippers.1887"));
 <item:artifacts:kitty_slippers>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.kitty_slippers.1888"));
 <item:artifacts:kitty_slippers>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.kitty_slippers.1889"));
@@ -687,21 +687,21 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:artifacts:running_shoes>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.running_shoes.1890"));
 <item:artifacts:running_shoes>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.running_shoes.1891"));
-<item:artifacts:running_shoes>.anyDamage().removeTooltip("Increases movement speed and step height while sprinting");
+<item:artifacts:running_shoes>.anyDamage().removeTooltip("\u589e\u52a0\u75be\u8dd1\u65f6\u7684\u79fb\u52a8\u901f\u5ea6\u548c\u62ac\u6b65\u9ad8\u5ea6");
 <item:artifacts:running_shoes>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.running_shoes.1893"));
 <item:artifacts:running_shoes>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.running_shoes.1894"));
 <item:artifacts:running_shoes>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.running_shoes.1895"));
 
 
-<item:artifacts:steadfast_spikes>.anyDamage().removeTooltip("Grants immunity to knockback");
+<item:artifacts:steadfast_spikes>.anyDamage().removeTooltip("\u514d\u75ab\u51fb\u9000");
 
 
-<item:artifacts:flippers>.anyDamage().removeTooltip("Improves agility in water");
+<item:artifacts:flippers>.anyDamage().removeTooltip("\u589e\u52a0\u6c34\u4e0b\u7684\u654f\u6377\u5ea6");
 
 
 <item:artifacts:whoopee_cushion>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.whoopee_cushion.1898"));
 <item:artifacts:whoopee_cushion>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.whoopee_cushion.1899"));
-<item:artifacts:whoopee_cushion>.anyDamage().removeTooltip("Increases the wearer's flatulence");
+<item:artifacts:whoopee_cushion>.anyDamage().removeTooltip("\u589e\u52a0\u7a7f\u6234\u8005\u7684\u80c3\u80a0\u6c14\u80c0");
 <item:artifacts:whoopee_cushion>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.whoopee_cushion.1901"));
 <item:artifacts:whoopee_cushion>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.whoopee_cushion.1902"));
 <item:artifacts:whoopee_cushion>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.whoopee_cushion.1903"));
@@ -709,35 +709,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:undergarden:froststeel_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_sword.1904"));
 <item:undergarden:froststeel_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_sword.1905"));
-<item:undergarden:froststeel_sword>.anyDamage().removeTooltip("Slows targets.");
+<item:undergarden:froststeel_sword>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u51cf\u901f\u3002");
 <item:undergarden:froststeel_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_sword.1907"));
 <item:undergarden:froststeel_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_sword.1908"));
 <item:undergarden:froststeel_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_sword.1909"));
 
 <item:undergarden:froststeel_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_pickaxe.1910"));
 <item:undergarden:froststeel_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_pickaxe.1911"));
-<item:undergarden:froststeel_pickaxe>.anyDamage().removeTooltip("Slows targets.");
+<item:undergarden:froststeel_pickaxe>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u51cf\u901f\u3002");
 <item:undergarden:froststeel_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_pickaxe.1913"));
 <item:undergarden:froststeel_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_pickaxe.1914"));
 <item:undergarden:froststeel_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_pickaxe.1915"));
 
 <item:undergarden:froststeel_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_axe.1916"));
 <item:undergarden:froststeel_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_axe.1917"));
-<item:undergarden:froststeel_axe>.anyDamage().removeTooltip("Slows targets.");
+<item:undergarden:froststeel_axe>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u51cf\u901f\u3002");
 <item:undergarden:froststeel_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_axe.1919"));
 <item:undergarden:froststeel_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_axe.1920"));
 <item:undergarden:froststeel_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_axe.1921"));
 
 <item:undergarden:froststeel_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_shovel.1922"));
 <item:undergarden:froststeel_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_shovel.1923"));
-<item:undergarden:froststeel_shovel>.anyDamage().removeTooltip("Slows targets.");
+<item:undergarden:froststeel_shovel>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u51cf\u901f\u3002");
 <item:undergarden:froststeel_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_shovel.1925"));
 <item:undergarden:froststeel_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_shovel.1926"));
 <item:undergarden:froststeel_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_shovel.1927"));
 
 <item:undergarden:froststeel_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_hoe.1928"));
 <item:undergarden:froststeel_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_hoe.1929"));
-<item:undergarden:froststeel_hoe>.anyDamage().removeTooltip("Slows targets.");
+<item:undergarden:froststeel_hoe>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u51cf\u901f\u3002");
 <item:undergarden:froststeel_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_hoe.1931"));
 <item:undergarden:froststeel_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_hoe.1932"));
 <item:undergarden:froststeel_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.froststeel_hoe.1933"));
@@ -745,35 +745,35 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:undergarden:utheric_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_sword.1934"));
 <item:undergarden:utheric_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_sword.1935"));
-<item:undergarden:utheric_sword>.anyDamage().removeTooltip("Deals 1.5x damage to Rotspawn.");
+<item:undergarden:utheric_sword>.anyDamage().removeTooltip("\u5bf9\u8150\u8870\u751f\u7269\u9020\u6210 1.5 \u500d\u7684\u4f24\u5bb3\u3002");
 <item:undergarden:utheric_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_sword.1937"));
 <item:undergarden:utheric_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_sword.1938"));
 <item:undergarden:utheric_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_sword.1939"));
 
 <item:undergarden:utheric_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_pickaxe.1940"));
 <item:undergarden:utheric_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_pickaxe.1941"));
-<item:undergarden:utheric_pickaxe>.anyDamage().removeTooltip("Deals 1.5x damage to Rotspawn.");
+<item:undergarden:utheric_pickaxe>.anyDamage().removeTooltip("\u5bf9\u8150\u8870\u751f\u7269\u9020\u6210 1.5 \u500d\u7684\u4f24\u5bb3\u3002");
 <item:undergarden:utheric_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_pickaxe.1943"));
 <item:undergarden:utheric_pickaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_pickaxe.1944"));
 <item:undergarden:utheric_pickaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_pickaxe.1945"));
 
 <item:undergarden:utheric_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_axe.1946"));
 <item:undergarden:utheric_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_axe.1947"));
-<item:undergarden:utheric_axe>.anyDamage().removeTooltip("Deals 1.5x damage to Rotspawn.");
+<item:undergarden:utheric_axe>.anyDamage().removeTooltip("\u5bf9\u8150\u8870\u751f\u7269\u9020\u6210 1.5 \u500d\u7684\u4f24\u5bb3\u3002");
 <item:undergarden:utheric_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_axe.1949"));
 <item:undergarden:utheric_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_axe.1950"));
 <item:undergarden:utheric_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_axe.1951"));
 
 <item:undergarden:utheric_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_shovel.1952"));
 <item:undergarden:utheric_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_shovel.1953"));
-<item:undergarden:utheric_shovel>.anyDamage().removeTooltip("Deals 1.5x damage to Rotspawn.");
+<item:undergarden:utheric_shovel>.anyDamage().removeTooltip("\u5bf9\u8150\u8870\u751f\u7269\u9020\u6210 1.5 \u500d\u7684\u4f24\u5bb3\u3002");
 <item:undergarden:utheric_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_shovel.1955"));
 <item:undergarden:utheric_shovel>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_shovel.1956"));
 <item:undergarden:utheric_shovel>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_shovel.1957"));
 
 <item:undergarden:utheric_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_hoe.1958"));
 <item:undergarden:utheric_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_hoe.1959"));
-<item:undergarden:utheric_hoe>.anyDamage().removeTooltip("Deals 1.5x damage to Rotspawn.");
+<item:undergarden:utheric_hoe>.anyDamage().removeTooltip("\u5bf9\u8150\u8870\u751f\u7269\u9020\u6210 1.5 \u500d\u7684\u4f24\u5bb3\u3002");
 <item:undergarden:utheric_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_hoe.1961"));
 <item:undergarden:utheric_hoe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_hoe.1962"));
 <item:undergarden:utheric_hoe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.utheric_hoe.1963"));
@@ -781,34 +781,34 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:undergarden:forgotten_battleaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_battleaxe.1964"));
 <item:undergarden:forgotten_battleaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_battleaxe.1965"));
-<item:undergarden:forgotten_battleaxe>.anyDamage().removeTooltip("Deals 2x damage to non-boss Undergarden mobs.");
+<item:undergarden:forgotten_battleaxe>.anyDamage().removeTooltip("\u5bf9\u975e Boss \u7684\u6df1\u56ed\u751f\u7269\u9020\u6210 2 \u500d\u4f24\u5bb3\u3002");
 <item:undergarden:forgotten_battleaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_battleaxe.1967"));
 <item:undergarden:forgotten_battleaxe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_battleaxe.1968"));
 <item:undergarden:forgotten_battleaxe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_battleaxe.1969"));
 
 <item:undergarden:forgotten_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_sword.1970"));
 <item:undergarden:forgotten_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_sword.1971"));
-<item:undergarden:forgotten_sword>.anyDamage().removeTooltip("Deals 2x damage to non-boss Undergarden mobs.");
+<item:undergarden:forgotten_sword>.anyDamage().removeTooltip("\u5bf9\u975e Boss \u7684\u6df1\u56ed\u751f\u7269\u9020\u6210 2 \u500d\u4f24\u5bb3\u3002");
 <item:undergarden:forgotten_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_sword.1973"));
 <item:undergarden:forgotten_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_sword.1974"));
 <item:undergarden:forgotten_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_sword.1975"));
 
-<item:undergarden:forgotten_pickaxe>.anyDamage().removeTooltip("Mines Undergarden blocks 1.5x as fast.");
+<item:undergarden:forgotten_pickaxe>.anyDamage().removeTooltip("\u6316\u6398\u6df1\u56ed\u65b9\u5757\u65f6\u6548\u7387\u589e\u52a0 0.5 \u500d\u3002");
 
 <item:undergarden:forgotten_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_axe.1977"));
 <item:undergarden:forgotten_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_axe.1978"));
-<item:undergarden:forgotten_axe>.anyDamage().removeTooltip("Deals 2x damage to non-boss Undergarden mobs.");
-<item:undergarden:forgotten_axe>.anyDamage().removeTooltip("Mines Undergarden blocks 1.5x as fast.");
+<item:undergarden:forgotten_axe>.anyDamage().removeTooltip("\u5bf9\u975e Boss \u7684\u6df1\u56ed\u751f\u7269\u9020\u6210 2 \u500d\u4f24\u5bb3\u3002");
+<item:undergarden:forgotten_axe>.anyDamage().removeTooltip("\u6316\u6398\u6df1\u56ed\u65b9\u5757\u65f6\u6548\u7387\u589e\u52a0 0.5 \u500d\u3002");
 <item:undergarden:forgotten_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_axe.1981"));
 <item:undergarden:forgotten_axe>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_axe.1982"));
 <item:undergarden:forgotten_axe>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.undergarden.forgotten_axe.1983"));
 
-<item:undergarden:forgotten_shovel>.anyDamage().removeTooltip("Mines Undergarden blocks 1.5x as fast.");
+<item:undergarden:forgotten_shovel>.anyDamage().removeTooltip("\u6316\u6398\u6df1\u56ed\u65b9\u5757\u65f6\u6548\u7387\u589e\u52a0 0.5 \u500d\u3002");
 
-<item:undergarden:forgotten_hoe>.anyDamage().removeTooltip("Mines Undergarden blocks 1.5x as fast.");
+<item:undergarden:forgotten_hoe>.anyDamage().removeTooltip("\u6316\u6398\u6df1\u56ed\u65b9\u5757\u65f6\u6548\u7387\u589e\u52a0 0.5 \u500d\u3002");
 
 
-<item:undergarden:cloggrum_boots>.anyDamage().removeTooltip("Scintling Goo doesn't slow you down when worn.");
+<item:undergarden:cloggrum_boots>.anyDamage().removeTooltip("\u7a7f\u5728\u811a\u4e0a\u65f6\u8699\u5a2b\u9ecf\u6d46\u4e0d\u4f1a\u4f7f\u4f60\u51cf\u901f\u3002");
 
 
 <item:skillcloaks:agility_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1987"));
@@ -1122,46 +1122,46 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:stalwart_dungeons:chorundum_shield>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.stalwart_dungeons.chorundum_shield.2221"));
 
 
-<item:cataclysm:void_core>.anyDamage().removeTooltip("Right click to summon a wave of void pillars in front of you");
+<item:cataclysm:void_core>.anyDamage().removeTooltip("\u53f3\u51fb\u65b9\u5757\u53ec\u5524\u865a\u7a7a\u7b26\u6587");
 <item:cataclysm:void_core>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.cataclysm.void_core.2223"));
 
 
-<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("Plant in grass");
-<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("Every half-day, the baby foliaath will get hungry");
-<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("Toss it any meat to feed it");
-<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("After 2 days, the foliaath will be fully grown");
+<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("\u79cd\u690d\u5728\u8349\u65b9\u5757\u4e0a");
+<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("\u6bcf\u9694\u534a\u5929\uff0c\u5de8\u566c\u53f6\u5e7c\u82d7\u5c31\u4f1a\u611f\u5230\u9965\u997f");
+<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("\u5411\u5b83\u4e22\u4efb\u4f55\u8089\u6765\u5582\u517b\u5b83");
+<item:mowziesmobs:foliaath_seed>.anyDamage().removeTooltip("\u4e24\u5929\u8fc7\u540e\uff0c\u5de8\u566c\u53f6\u5c31\u4f1a\u5b8c\u5168\u957f\u5927");
 
 
-<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("Charges quickly");
-<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("Short range");
-<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("Only shoot darts");
+<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("\u5feb\u901f\u88c5\u586b");
+<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("\u77ed\u5c04\u7a0b");
+<item:mowziesmobs:blowgun>.anyDamage().removeTooltip("\u4ec5\u80fd\u53d1\u5c04\u5439\u9556");
 
 
-<item:mowziesmobs:dart>.anyDamage().removeTooltip("Can only be used with blowgun");
-<item:mowziesmobs:dart>.anyDamage().removeTooltip("Poisons targets");
+<item:mowziesmobs:dart>.anyDamage().removeTooltip("\u4ec5\u7528\u4e8e\u5439\u7b52");
+<item:mowziesmobs:dart>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u4e2d\u6bd2");
 
 
-<item:mowziesmobs:ice_crystal>.anyDamage().removeTooltip("Hold right-click to channel an icy whirlwind");
-<item:mowziesmobs:ice_crystal>.anyDamage().removeTooltip("Recharges while in inventory");
+<item:mowziesmobs:ice_crystal>.anyDamage().removeTooltip("\u957f\u6309\u53f3\u952e\u4ee5\u5f15\u5bfc\u51b0\u971c\u65cb\u98ce");
+<item:mowziesmobs:ice_crystal>.anyDamage().removeTooltip("\u5728\u80cc\u5305\u4e2d\u81ea\u52a8\u6062\u590d\u8010\u4e45\u5ea6");
 <item:mowziesmobs:ice_crystal>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.ice_crystal.2235"));
 
 
-<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("Grants Sun's Blessing for 60 minutes");
-<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("With empty hand, right-click to call a sunstrike");
-<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("With empty hand, sneak-right-click to fire a solar beam costs");
+<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("\u6388\u4e88\u592a\u9633\u795d\u798f 60 \u5206\u949f");
+<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("\u7a7a\u624b\u53f3\u51fb\u4ee5\u53ec\u5524\u592a\u9633\u6253\u51fb");
+<item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("\u7a7a\u624b\u6f5c\u884c\u53f3\u51fb\u53d1\u5c04\u592a\u9633\u5149\u675f\uff08\u6d88\u8017 5 \u5206\u949f\uff09");
 <item:mowziesmobs:grant_suns_blessing>.anyDamage().removeTooltip("minutes");
 <item:mowziesmobs:grant_suns_blessing>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.grant_suns_blessing.2240"));
 <item:mowziesmobs:grant_suns_blessing>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.grant_suns_blessing.2241"));
 <item:mowziesmobs:grant_suns_blessing>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.grant_suns_blessing.2242"));
 
 
-<item:mowziesmobs:naga_fang>.anyDamage().removeTooltip("Used to brew Potion of Poison Resistance or craft a Naga Fang Dagger");
+<item:mowziesmobs:naga_fang>.anyDamage().removeTooltip("\u7528\u4e8e\u917f\u9020\u6297\u6bd2\u836f\u6c34\u6216\u5236\u4f5c\u5a1c\u8fe6\u6bd2\u7259\u5315\u9996");
 
 
 <item:mowziesmobs:naga_fang_dagger>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.naga_fang_dagger.2244"));
 <item:mowziesmobs:naga_fang_dagger>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.naga_fang_dagger.2245"));
-<item:mowziesmobs:naga_fang_dagger>.anyDamage().removeTooltip("Poisons targets");
-<item:mowziesmobs:naga_fang_dagger>.anyDamage().removeTooltip("Deals double damage from behind");
+<item:mowziesmobs:naga_fang_dagger>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u4e2d\u6bd2");
+<item:mowziesmobs:naga_fang_dagger>.anyDamage().removeTooltip("\u4ece\u80cc\u540e\u9020\u6210\u989d\u5916\u4f24\u5bb3");
 <item:mowziesmobs:naga_fang_dagger>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.naga_fang_dagger.2248"));
 <item:mowziesmobs:naga_fang_dagger>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.naga_fang_dagger.2249"));
 <item:mowziesmobs:naga_fang_dagger>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.naga_fang_dagger.2250"));
@@ -1173,8 +1173,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:spear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.spear.2255"));
 <item:mowziesmobs:spear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.spear.2256"));
-<item:mowziesmobs:spear>.anyDamage().removeTooltip("Extends attack range by 1.5 blocks");
-<item:mowziesmobs:spear>.anyDamage().removeTooltip("30% chance to instantly kill animals with less than 30 health");
+<item:mowziesmobs:spear>.anyDamage().removeTooltip("\u6269\u5927 3.5 \u653b\u51fb\u8303\u56f4");
+<item:mowziesmobs:spear>.anyDamage().removeTooltip("1/3 \u6982\u7387\u79d2\u6740\u751f\u547d\u503c\u5c11\u4e8e 30 \u7684\u52a8\u7269");
 <item:mowziesmobs:spear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.spear.2259"));
 <item:mowziesmobs:spear>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.spear.2260"));
 <item:mowziesmobs:spear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.spear.2261"));
@@ -1213,9 +1213,9 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barako_mask>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barako_mask.2286"));
 <item:mowziesmobs:barako_mask>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barako_mask.2287"));
-<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("Never breaks");
-<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("Equip, then right-click with Barakoa mask to spawn followers");
-<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("Right-click a follower to return it to its mask");
+<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("\u65e0\u6cd5\u7834\u574f");
+<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("\u88c5\u5907\u540e\u53f3\u51fb\u5df4\u9633\u5361\u62a4\u536b\u9762\u5177\u4ee5\u53ec\u5524\u8ffd\u968f\u8005");
+<item:mowziesmobs:barako_mask>.anyDamage().removeTooltip("\u53f3\u51fb\u8ffd\u968f\u8005\u53ef\u5c06\u5176\u9001\u56de\u9762\u5177");
 <item:mowziesmobs:barako_mask>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barako_mask.2291"));
 <item:mowziesmobs:barako_mask>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barako_mask.2292"));
 <item:mowziesmobs:barako_mask>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barako_mask.2293"));
@@ -1225,8 +1225,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_fury>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fury.2296"));
 <item:mowziesmobs:barakoa_mask_fury>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fury.2297"));
-<item:mowziesmobs:barakoa_mask_fury>.anyDamage().removeTooltip("Grants strength");
-<item:mowziesmobs:barakoa_mask_fury>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
+<item:mowziesmobs:barakoa_mask_fury>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u529b\u91cf");
+<item:mowziesmobs:barakoa_mask_fury>.anyDamage().removeTooltip("\u6216\u8bb8\u8fd8\u6709\u4ec0\u4e48\u7528\u2026\u2026\uff1f");
 <item:mowziesmobs:barakoa_mask_fury>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fury.2300"));
 <item:mowziesmobs:barakoa_mask_fury>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fury.2301"));
 <item:mowziesmobs:barakoa_mask_fury>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fury.2302"));
@@ -1235,8 +1235,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_fear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fear.2305"));
 <item:mowziesmobs:barakoa_mask_fear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fear.2306"));
-<item:mowziesmobs:barakoa_mask_fear>.anyDamage().removeTooltip("Grants swiftness");
-<item:mowziesmobs:barakoa_mask_fear>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
+<item:mowziesmobs:barakoa_mask_fear>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u901f\u5ea6");
+<item:mowziesmobs:barakoa_mask_fear>.anyDamage().removeTooltip("\u6216\u8bb8\u8fd8\u6709\u4ec0\u4e48\u7528\u2026\u2026\uff1f");
 <item:mowziesmobs:barakoa_mask_fear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fear.2309"));
 <item:mowziesmobs:barakoa_mask_fear>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fear.2310"));
 <item:mowziesmobs:barakoa_mask_fear>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_fear.2311"));
@@ -1245,8 +1245,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_rage>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_rage.2314"));
 <item:mowziesmobs:barakoa_mask_rage>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_rage.2315"));
-<item:mowziesmobs:barakoa_mask_rage>.anyDamage().removeTooltip("Grants haste");
-<item:mowziesmobs:barakoa_mask_rage>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
+<item:mowziesmobs:barakoa_mask_rage>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u6025\u8feb");
+<item:mowziesmobs:barakoa_mask_rage>.anyDamage().removeTooltip("\u6216\u8bb8\u8fd8\u6709\u4ec0\u4e48\u7528......\uff1f");
 <item:mowziesmobs:barakoa_mask_rage>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_rage.2318"));
 <item:mowziesmobs:barakoa_mask_rage>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_rage.2319"));
 <item:mowziesmobs:barakoa_mask_rage>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_rage.2320"));
@@ -1255,7 +1255,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_bliss>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_bliss.2323"));
 <item:mowziesmobs:barakoa_mask_bliss>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_bliss.2324"));
-<item:mowziesmobs:barakoa_mask_bliss>.anyDamage().removeTooltip("Grants jump boost");
+<item:mowziesmobs:barakoa_mask_bliss>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u8df3\u8dc3\u63d0\u5347");
 <item:mowziesmobs:barakoa_mask_bliss>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
 <item:mowziesmobs:barakoa_mask_bliss>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_bliss.2327"));
 <item:mowziesmobs:barakoa_mask_bliss>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_bliss.2328"));
@@ -1265,7 +1265,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_misery>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_misery.2332"));
 <item:mowziesmobs:barakoa_mask_misery>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_misery.2333"));
-<item:mowziesmobs:barakoa_mask_misery>.anyDamage().removeTooltip("Grants resistance");
+<item:mowziesmobs:barakoa_mask_misery>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u6297\u6027\u63d0\u5347");
 <item:mowziesmobs:barakoa_mask_misery>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
 <item:mowziesmobs:barakoa_mask_misery>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_misery.2336"));
 <item:mowziesmobs:barakoa_mask_misery>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_misery.2337"));
@@ -1275,7 +1275,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:mowziesmobs:barakoa_mask_faith>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_faith.2341"));
 <item:mowziesmobs:barakoa_mask_faith>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_faith.2342"));
-<item:mowziesmobs:barakoa_mask_faith>.anyDamage().removeTooltip("Grants health boost");
+<item:mowziesmobs:barakoa_mask_faith>.anyDamage().removeTooltip("\u7a7f\u6234\u540e\u83b7\u5f97\u751f\u547d\u63d0\u5347");
 <item:mowziesmobs:barakoa_mask_faith>.anyDamage().removeTooltip("Passive to the Barakoa when worn");
 <item:mowziesmobs:barakoa_mask_faith>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_faith.2345"));
 <item:mowziesmobs:barakoa_mask_faith>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.mowziesmobs.barakoa_mask_faith.2346"));
@@ -1291,60 +1291,60 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:iceandfire:dragon_flute>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.dragon_flute.2352"));
 
 
-<item:iceandfire:sea_serpent_arrow>.anyDamage().removeTooltip("Not Inundated by water!");
+<item:iceandfire:sea_serpent_arrow>.anyDamage().removeTooltip("\u4e0d\u4f1a\u88ab\u6c34\u541e\u6ca1\uff01");
 
-<item:iceandfire:amphithere_arrow>.anyDamage().removeTooltip("Knocks all mobs back with the power of an ampithere's wings!");
+<item:iceandfire:amphithere_arrow>.anyDamage().removeTooltip("\u501f\u7ffc\u86ba\u7fbd\u7ffc\u7684\u529b\u91cf\u963b\u51fb\u4e00\u5207\u6765\u72af\u4e4b\u654c\uff01");
 
-<item:iceandfire:stymphalian_arrow>.anyDamage().removeTooltip("The metallic fletching enables the arrow to soar like a bird.");
+<item:iceandfire:stymphalian_arrow>.anyDamage().removeTooltip("\u88c5\u4e0a\u4e86\u9752\u94dc\u9e57\u7fbd\u7684\u7bad\u77e2\u80fd\u50cf\u731b\u79bd\u4e00\u6837\u7ff1\u7fd4\u3002");
 
 
-<item:iceandfire:deathworm_gauntlet_white>.anyDamage().removeTooltip("Lashes target with its tongue for 3 damage");
-<item:iceandfire:deathworm_gauntlet_white>.anyDamage().removeTooltip("Pulls target to player");
+<item:iceandfire:deathworm_gauntlet_white>.anyDamage().removeTooltip("\u4ee5\u957f\u820c\u97ad\u51fb\u76ee\u6807\u5e76\u9020\u62103\u70b9\u4f24\u5bb3");
+<item:iceandfire:deathworm_gauntlet_white>.anyDamage().removeTooltip("\u5c06\u76ee\u6807\u62c9\u5411\u73a9\u5bb6");
 <item:iceandfire:deathworm_gauntlet_white>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.deathworm_gauntlet_white.2358"));
 
-<item:iceandfire:deathworm_gauntlet_red>.anyDamage().removeTooltip("Lashes target with its tongue for 3 damage");
-<item:iceandfire:deathworm_gauntlet_red>.anyDamage().removeTooltip("Pulls target to player");
+<item:iceandfire:deathworm_gauntlet_red>.anyDamage().removeTooltip("\u4ee5\u957f\u820c\u97ad\u51fb\u76ee\u6807\u5e76\u9020\u62103\u70b9\u4f24\u5bb3");
+<item:iceandfire:deathworm_gauntlet_red>.anyDamage().removeTooltip("\u5c06\u76ee\u6807\u62c9\u5411\u73a9\u5bb6");
 <item:iceandfire:deathworm_gauntlet_red>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.deathworm_gauntlet_red.2361"));
 
-<item:iceandfire:deathworm_gauntlet_yellow>.anyDamage().removeTooltip("Lashes target with its tongue for 3 damage");
-<item:iceandfire:deathworm_gauntlet_yellow>.anyDamage().removeTooltip("Pulls target to player");
+<item:iceandfire:deathworm_gauntlet_yellow>.anyDamage().removeTooltip("\u4ee5\u957f\u820c\u97ad\u51fb\u76ee\u6807\u5e76\u9020\u62103\u70b9\u4f24\u5bb3");
+<item:iceandfire:deathworm_gauntlet_yellow>.anyDamage().removeTooltip("\u5c06\u76ee\u6807\u62c9\u5411\u73a9\u5bb6");
 <item:iceandfire:deathworm_gauntlet_yellow>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.deathworm_gauntlet_yellow.2364"));
 
 
-<item:iceandfire:deathworm_tounge>.anyDamage().removeTooltip("Rare drop");
+<item:iceandfire:deathworm_tounge>.anyDamage().removeTooltip("\u7a00\u6709\u6389\u843d\u7269");
 
-<item:iceandfire:hippocampus_fin>.anyDamage().removeTooltip("Rare drop");
+<item:iceandfire:hippocampus_fin>.anyDamage().removeTooltip("\u7a00\u6709\u6389\u843d\u7269");
 
-<item:iceandfire:hippogryph_talon>.anyDamage().removeTooltip("Rare drop");
+<item:iceandfire:hippogryph_talon>.anyDamage().removeTooltip("\u7a00\u6709\u6389\u843d\u7269");
 
-<item:iceandfire:cockatrice_eye>.anyDamage().removeTooltip("Rare drop");
+<item:iceandfire:cockatrice_eye>.anyDamage().removeTooltip("\u7a00\u6709\u6389\u843d\u7269");
 
 
-<item:iceandfire:cyclops_eye>.anyDamage().removeTooltip("Area of Effect Weapon");
-<item:iceandfire:cyclops_eye>.anyDamage().removeTooltip("Inflicts weakness to all nearby hostiles when held");
+<item:iceandfire:cyclops_eye>.anyDamage().removeTooltip("\u8303\u56f4\u6548\u679c\u578b\u6b66\u5668");
+<item:iceandfire:cyclops_eye>.anyDamage().removeTooltip("\u624b\u6301\u65f6\u5411\u5468\u56f4\u654c\u4eba\u65bd\u52a0\u865a\u5f31\u6548\u679c");
 <item:iceandfire:cyclops_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.cyclops_eye.2371"));
 
 
 <item:iceandfire:cannoli>.anyDamage().removeTooltip("\"You may encounter dragons or ruffians\"");
 
 
-<item:iceandfire:summoning_crystal_fire>.anyDamage().removeTooltip("Right click on a dragon to bind it");
-<item:iceandfire:summoning_crystal_fire>.anyDamage().removeTooltip("Use when bound to teleport dragon");
+<item:iceandfire:summoning_crystal_fire>.anyDamage().removeTooltip("\u53f3\u51fb\u4e00\u6761\u9f99\u4e0e\u4e4b\u7ed1\u5b9a");
+<item:iceandfire:summoning_crystal_fire>.anyDamage().removeTooltip("\u7ed1\u5b9a\u540e\u53f3\u51fb\u53ef\u5c06\u9f99\u5524\u81f3\u8eab\u8fb9");
 <item:iceandfire:summoning_crystal_fire>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.summoning_crystal_fire.2375"));
 
-<item:iceandfire:summoning_crystal_ice>.anyDamage().removeTooltip("Right click on a dragon to bind it");
-<item:iceandfire:summoning_crystal_ice>.anyDamage().removeTooltip("Use when bound to teleport dragon");
+<item:iceandfire:summoning_crystal_ice>.anyDamage().removeTooltip("\u53f3\u51fb\u4e00\u6761\u9f99\u4e0e\u4e4b\u7ed1\u5b9a");
+<item:iceandfire:summoning_crystal_ice>.anyDamage().removeTooltip("\u7ed1\u5b9a\u540e\u53f3\u51fb\u53ef\u5c06\u9f99\u5524\u81f3\u8eab\u8fb9");
 <item:iceandfire:summoning_crystal_ice>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.summoning_crystal_ice.2378"));
 
-<item:iceandfire:summoning_crystal_lightning>.anyDamage().removeTooltip("Right click on a dragon to bind it");
-<item:iceandfire:summoning_crystal_lightning>.anyDamage().removeTooltip("Use when bound to teleport dragon");
+<item:iceandfire:summoning_crystal_lightning>.anyDamage().removeTooltip("\u53f3\u51fb\u4e00\u6761\u9f99\u4e0e\u4e4b\u7ed1\u5b9a");
+<item:iceandfire:summoning_crystal_lightning>.anyDamage().removeTooltip("\u7ed1\u5b9a\u540e\u53f3\u51fb\u53ef\u5c06\u9f99\u5524\u81f3\u8eab\u8fb9");
 <item:iceandfire:summoning_crystal_lightning>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.summoning_crystal_lightning.2381"));
 
 
 <item:iceandfire:tide_trident>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.tide_trident.2382"));
 <item:iceandfire:tide_trident>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.tide_trident.2383"));
-<item:iceandfire:tide_trident>.anyDamage().removeTooltip("Very strong trident weapon");
-<item:iceandfire:tide_trident>.anyDamage().removeTooltip("Pierces through multiple enemies");
+<item:iceandfire:tide_trident>.anyDamage().removeTooltip("\u5f3a\u5927\u7684\u4e09\u53c9\u621f\u7c7b\u6b66\u5668");
+<item:iceandfire:tide_trident>.anyDamage().removeTooltip("\u80fd\u8d2f\u7a7f\u591a\u4e2a\u654c\u4eba");
 <item:iceandfire:tide_trident>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.tide_trident.2386"));
 <item:iceandfire:tide_trident>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.tide_trident.2387"));
 <item:iceandfire:tide_trident>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.tide_trident.2388"));
@@ -1354,8 +1354,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:amphithere_macuahuitl>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_macuahuitl.2391"));
 <item:iceandfire:amphithere_macuahuitl>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_macuahuitl.2392"));
-<item:iceandfire:amphithere_macuahuitl>.anyDamage().removeTooltip("Knocks entities up and back");
-<item:iceandfire:amphithere_macuahuitl>.anyDamage().removeTooltip("Disables shields");
+<item:iceandfire:amphithere_macuahuitl>.anyDamage().removeTooltip("\u628a\u5b9e\u4f53\u6311\u98de\u5e76\u6454\u4e0b\u6765");
+<item:iceandfire:amphithere_macuahuitl>.anyDamage().removeTooltip("\u80fd\u4f7f\u53d7\u653b\u51fb\u8005\u65e0\u529b\u4e3e\u76fe\u62b5\u6321");
 <item:iceandfire:amphithere_macuahuitl>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_macuahuitl.2395"));
 <item:iceandfire:amphithere_macuahuitl>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_macuahuitl.2396"));
 <item:iceandfire:amphithere_macuahuitl>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_macuahuitl.2397"));
@@ -1365,8 +1365,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:hippogryph_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippogryph_sword.2400"));
 <item:iceandfire:hippogryph_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippogryph_sword.2401"));
-<item:iceandfire:hippogryph_sword>.anyDamage().removeTooltip("Always slashes target, dealing extra damage");
-<item:iceandfire:hippogryph_sword>.anyDamage().removeTooltip("Every use of it is a sweeping attack");
+<item:iceandfire:hippogryph_sword>.anyDamage().removeTooltip("\u6052\u4ee5\u5288\u65a9\u654c\uff0c\u9020\u6210\u989d\u5916\u4f24\u5bb3");
+<item:iceandfire:hippogryph_sword>.anyDamage().removeTooltip("\u6325\u51fa\u7684\u6bcf\u4e00\u5200\u90fd\u662f\u6a2a\u626b\u653b\u51fb");
 <item:iceandfire:hippogryph_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippogryph_sword.2404"));
 <item:iceandfire:hippogryph_sword>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippogryph_sword.2405"));
 <item:iceandfire:hippogryph_sword>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippogryph_sword.2406"));
@@ -1374,22 +1374,22 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:iceandfire:hippocampus_slapper>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippocampus_slapper.2407"));
 <item:iceandfire:hippocampus_slapper>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippocampus_slapper.2408"));
-<item:iceandfire:hippocampus_slapper>.anyDamage().removeTooltip("Comical Weapon");
-<item:iceandfire:hippocampus_slapper>.anyDamage().removeTooltip("Dazes and slows targets; it's quite confusing to be hit with a fish tail");
+<item:iceandfire:hippocampus_slapper>.anyDamage().removeTooltip("\u6ed1\u7a3d\u6b66\u5668");
+<item:iceandfire:hippocampus_slapper>.anyDamage().removeTooltip("\u4f7f\u76ee\u6807\u6655\u7729\u548c\u51cf\u901f\uff1b\u88ab\u9c7c\u5c3e\u5df4\u62cd\u4e2d\u53ef\u662f\u4f1a\u8ba9\u4eba\u597d\u597d\u611f\u53d7\u5929\u65cb\u5730\u8f6c\u7684\u6ecb\u5473\u7684\u54e6");
 <item:iceandfire:hippocampus_slapper>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippocampus_slapper.2411"));
 <item:iceandfire:hippocampus_slapper>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippocampus_slapper.2412"));
 <item:iceandfire:hippocampus_slapper>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hippocampus_slapper.2413"));
 
 
-<item:iceandfire:cockatrice_scepter>.anyDamage().removeTooltip("Withers target when used");
-<item:iceandfire:cockatrice_scepter>.anyDamage().removeTooltip("Can target multiple close entities");
+<item:iceandfire:cockatrice_scepter>.anyDamage().removeTooltip("\u51cb\u96f6\u76ee\u6807");
+<item:iceandfire:cockatrice_scepter>.anyDamage().removeTooltip("\u53ef\u540c\u65f6\u5bf9\u5f7c\u6b64\u9760\u8fd1\u7684\u591a\u4e2a\u5b9e\u4f53\u751f\u6548");
 <item:iceandfire:cockatrice_scepter>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.cockatrice_scepter.2416"));
 
 
-<item:iceandfire:stymphalian_bird_dagger>.anyDamage().removeTooltip("Extremely fast attack speed");
+<item:iceandfire:stymphalian_bird_dagger>.anyDamage().removeTooltip("\u653b\u901f\u6781\u9ad8");
 
 
-<item:iceandfire:stymphalian_feather_bundle>.anyDamage().removeTooltip("Launches sharp feathers in 8 directions around the user");
+<item:iceandfire:stymphalian_feather_bundle>.anyDamage().removeTooltip("\u5411\u4e0a\u671d\u4f7f\u7528\u8005\u8eab\u8fb9\u7684\u516b\u4e2a\u65b9\u5411\u629b\u5c04\u9510\u5229\u7684\u9752\u94dc\u9e57\u7fbd");
 <item:iceandfire:stymphalian_feather_bundle>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.stymphalian_feather_bundle.2419"));
 
 
@@ -1398,10 +1398,10 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:quark:soul_bead>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.quark.soul_bead.2421"));
 
 
-<item:artifacts:everlasting_beef>.anyDamage().removeTooltip("Not consumed when eaten");
+<item:artifacts:everlasting_beef>.anyDamage().removeTooltip("\u98df\u7528\u540e\u4e0d\u4f1a\u88ab\u6d88\u8017");
 <item:artifacts:everlasting_beef>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.everlasting_beef.2423"));
 
-<item:artifacts:eternal_steak>.anyDamage().removeTooltip("Not consumed when eaten");
+<item:artifacts:eternal_steak>.anyDamage().removeTooltip("\u98df\u7528\u540e\u4e0d\u4f1a\u88ab\u6d88\u8017");
 <item:artifacts:eternal_steak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.artifacts.eternal_steak.2425"));
 
 
@@ -1493,50 +1493,50 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:infernal_origins_extras:block_command_block>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.infernal_origins_extras.block_command_block.2479"));
 
 
-<item:endrem:old_eye>.anyDamage().removeTooltip("1/12, Used to open the End Portal. Obtained from the Desert Pyramid loot table.");
+<item:endrem:old_eye>.anyDamage().removeTooltip("\u4f20\u8bf4\u8fd9\u9897\u773c\u775b\u66fe\u5c5e\u4e8e\u4e00\u53ea\u5de8\u6c99\u866b");
 <item:endrem:old_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.old_eye.2481"));
 
-<item:endrem:rogue_eye>.anyDamage().removeTooltip("2/12, Used to open the End Portal. Obtained from the Jungle Pyramid loot table.");
+<item:endrem:rogue_eye>.anyDamage().removeTooltip("\u636e\u8bf4\u5b83\u8d4b\u4e88\u4e86\u7956\u5148\u5173\u4e8e\u7ea2\u77f3\u7684\u77e5\u8bc6");
 <item:endrem:rogue_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.rogue_eye.2483"));
 
-<item:endrem:nether_eye>.anyDamage().removeTooltip("3/12, Used to open the End Portal. Obtained from the Nether Fortress loot table.");
+<item:endrem:nether_eye>.anyDamage().removeTooltip("\u5728\u4e0b\u754c\u4e0e\u5929\u754c\u7684\u6218\u6597\u4e2d\uff0c\u4e00\u4e2a\u6076\u9b54\u5f04\u4e22\u4e86\u5b83");
 <item:endrem:nether_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.nether_eye.2485"));
 
-<item:endrem:cold_eye>.anyDamage().removeTooltip("4/12, Used to open the End Portal. Obtained from the Igloo loot table.");
+<item:endrem:cold_eye>.anyDamage().removeTooltip("\u5b83\u662f\u51b0\u672f\u5e08\u706d\u7edd\u4e4b\u524d\u7559\u4e0b\u7684\u6700\u7ec8\u795e\u5668\u4e4b\u4e00");
 <item:endrem:cold_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.cold_eye.2487"));
 
-<item:endrem:magical_eye>.anyDamage().removeTooltip("5/12, Used to open the End Portal. Obtained from slaying Evokers.");
+<item:endrem:magical_eye>.anyDamage().removeTooltip("\u82e5\u65e0\u6b64\u773c\uff0c\u5524\u9b54\u8005\u65e0\u5f02\u4e8e\u877c\u8681");
 <item:endrem:magical_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.magical_eye.2489"));
 
-<item:endrem:black_eye>.anyDamage().removeTooltip("6/12, Used to open the End Portal. Obtained from the Burried Chest loot table.");
+<item:endrem:black_eye>.anyDamage().removeTooltip("\u6d77\u76d7\u8bf4\u5b83\u53ef\u4ee5\u8ba9\u4eba\u770b\u5230\u4f20\u8bf4\u4e2d\u7684\u9ed1\u73cd\u73e0\u53f7");
 <item:endrem:black_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.black_eye.2491"));
 
-<item:endrem:lost_eye>.anyDamage().removeTooltip("7/12, Used to open the End Portal. Obtained from the Mineshaft loot table.");
+<item:endrem:lost_eye>.anyDamage().removeTooltip("\u636e\u6089\u5b83\u662f\u7531\u6700\u65e9\u7684\u94c1\u5320\u953b\u9020\u800c\u6210\u7684");
 <item:endrem:lost_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.lost_eye.2493"));
 
-<item:endrem:wither_eye>.anyDamage().removeTooltip("8/12, Used to open the End Portal. Obtained from slaying the Wither.");
+<item:endrem:wither_eye>.anyDamage().removeTooltip("\u5b83\u89c1\u8bc1\u4e86\u6bc1\u706d\uff0c\u4e5f\u8bb8\u8fd8\u4f1a\u89c1\u8bc1\u4f60\u7684\u7269\u54c1\u6d88\u5931");
 <item:endrem:wither_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.wither_eye.2495"));
 
-<item:endrem:guardian_eye>.anyDamage().removeTooltip("9/12, Used to open the End Portal. Obtained from slaying the Elder Guardian.");
+<item:endrem:guardian_eye>.anyDamage().removeTooltip("\u5b83\u89c1\u8bc1\u4e86\u8bb8\u591a\u6218\u58eb\u6c89\u6ca6\u4e8e\u6df1\u6e0a");
 <item:endrem:guardian_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.guardian_eye.2497"));
 
-<item:endrem:end_crystal_eye>.anyDamage().removeTooltip("10/12, Used to open the End Portal. Obtained from crafting with End Crystal Fragments mined from Blackstone in the Nether.");
+<item:endrem:end_crystal_eye>.anyDamage().removeTooltip("\u636e\u8bf4\u5b83\u662f\u672b\u5f71\u9f99\u4e4b\u9b42\u7684\u788e\u7247");
 <item:endrem:end_crystal_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.end_crystal_eye.2499"));
 
-<item:endrem:corrupted_eye>.anyDamage().removeTooltip("11/12, Used to open the End Portal. Obtained from the Pillager Outpost loot table.");
+<item:endrem:corrupted_eye>.anyDamage().removeTooltip("\u901d\u4e8e\u5b64\u72ec\u7684\u8d2a\u5a6a\u56fd\u738b\u4e4b\u773c\u3002\u4f20\u8bf4\u5b83\u4f1a\u5e26\u6765\u65e0\u5c3d\u7684\u8d22\u5bcc");
 <item:endrem:corrupted_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.corrupted_eye.2501"));
 
-<item:endrem:witch_eye>.anyDamage().removeTooltip("12/12, Used to open the End Portal. Obtained from crafting with a Witch Eye.");
+<item:endrem:witch_eye>.anyDamage().removeTooltip("\u4eba\u4eec\u76f8\u4fe1\u5b83\u8574\u542b\u7740\u6d88\u5931\u5728\u65f6\u95f4\u4e2d\u7684\u53e4\u8001\u917f\u9020\u914d\u65b9");
 <item:endrem:witch_eye>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.endrem.witch_eye.2503"));
 
 
-<item:endrem:end_crystal_helmet>.anyDamage().removeTooltip("Diamond armor covered with a crystal plating.");
+<item:endrem:end_crystal_helmet>.anyDamage().removeTooltip("\u66b4\u51fb\u65f6\u4f60\u4f1a\u83b7\u5f971\u79d2\u7684\u751f\u547d\u6062\u590d II");
 
-<item:endrem:end_crystal_chestplate>.anyDamage().removeTooltip("Diamond armor covered with a crystal plating.");
+<item:endrem:end_crystal_chestplate>.anyDamage().removeTooltip("\u66b4\u51fb\u65f6\u4f60\u4f1a\u83b7\u5f971\u79d2\u7684\u751f\u547d\u6062\u590d II");
 
-<item:endrem:end_crystal_leggings>.anyDamage().removeTooltip("Diamond armor covered with a crystal plating.");
+<item:endrem:end_crystal_leggings>.anyDamage().removeTooltip("\u66b4\u51fb\u65f6\u4f60\u4f1a\u83b7\u5f971\u79d2\u7684\u751f\u547d\u6062\u590d II");
 
-<item:endrem:end_crystal_boots>.anyDamage().removeTooltip("Diamond armor covered with a crystal plating.");
+<item:endrem:end_crystal_boots>.anyDamage().removeTooltip("\u66b4\u51fb\u65f6\u4f60\u4f1a\u83b7\u5f971\u79d2\u7684\u751f\u547d\u6062\u590d II");
 
 
 <item:pirates_armoury:bottle_o_rum>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.pirates_armoury.bottle_o_rum.2508"));
@@ -1726,8 +1726,8 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:dreadsteel:dreadsteel_ingot>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.dreadsteel.dreadsteel_ingot.2661"));
 
 
-<item:ba_bt:monolith_key_land>.anyDamage().removeTooltip("Hold shift for more information.");
-<item:ba_bt:monolith_key_land>.anyDamage().removeTooltip("Place 3 keys in a Monolith to summon a Battle Golem.");
+<item:ba_bt:monolith_key_land>.anyDamage().removeTooltip("\u957f\u6309shift\u67e5\u770b\u66f4\u591a\u4fe1\u606f");
+<item:ba_bt:monolith_key_land>.anyDamage().removeTooltip("\u5c063\u628a\u94a5\u5319\u63d2\u5165\u77f3\u7891\u6765\u53ec\u5524\u6218\u6597\u9b54\u50cf");
 
 
 <item:minecraft:elytra>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.minecraft.elytra.2664"));
@@ -1741,11 +1741,11 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:minecraft:elytra>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.minecraft.elytra.2672"));
 
 
-<item:farmersdelight:hot_cocoa>.anyDamage().removeTooltip("Clears 1 Harmful Effect");
+<item:farmersdelight:hot_cocoa>.anyDamage().removeTooltip("\u6e05\u96641\u4e2a\u6709\u5bb3\u6548\u679c");
 <item:farmersdelight:hot_cocoa>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.farmersdelight.hot_cocoa.2674"));
 
 
-<item:iceandfire:hydra_arrow>.anyDamage().removeTooltip("Poisons and leeches life from target");
+<item:iceandfire:hydra_arrow>.anyDamage().removeTooltip("\u65bd\u52a0\u4e2d\u6bd2\u5e76\u4ece\u76ee\u6807\u8eab\u4e0a\u5438\u53d6\u751f\u547d\u503c");
 <item:iceandfire:hydra_arrow>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.hydra_arrow.2676"));
 
 <item:iceandfire:amphithere_arrow>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.iceandfire.amphithere_arrow.2677"));
@@ -2002,14 +2002,14 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:runicitems:archer_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.archer_boots.2856"));
 <item:runicitems:archer_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.archer_boots.2857"));
-<item:runicitems:archer_boots>.anyDamage().removeTooltip("Increases \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:runicitems:archer_boots>.anyDamage().removeTooltip("Increases Projectile Damage");
 <item:runicitems:archer_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.archer_boots.2859"));
 <item:runicitems:archer_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.archer_boots.2860"));
 <item:runicitems:archer_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.archer_boots.2861"));
 
 <item:runicitems:eagle_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.eagle_boots.2862"));
 <item:runicitems:eagle_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.eagle_boots.2863"));
-<item:runicitems:eagle_boots>.anyDamage().removeTooltip("Greatly Increases \u5f39\u5c04\u7269\u4f24\u5bb3");
+<item:runicitems:eagle_boots>.anyDamage().removeTooltip("Greatly Increases Projectile Damage");
 <item:runicitems:eagle_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.eagle_boots.2865"));
 <item:runicitems:eagle_boots>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.eagle_boots.2866"));
 <item:runicitems:eagle_boots>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.runicitems.eagle_boots.2867"));
@@ -2082,5 +2082,4 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 
 <item:witherstormmod:golden_apple_stew>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.witherstormmod.golden_apple_stew.2913"));
-
 
