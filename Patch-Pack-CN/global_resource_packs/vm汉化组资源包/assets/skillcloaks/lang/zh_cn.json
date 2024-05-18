@@ -1,5 +1,5 @@
 {
-    "curios.identifier.cloak":"Cloak",
+    "curios.identifier.cloak":"斗篷",
     "curios.modifiers.cloak":"When worn:",
     "item.skillcloaks.agility_cloak":"Agility Cloak",
     "item.skillcloaks.agility_hood":"Agility Hood",
@@ -24,7 +24,7 @@
     "item.skillcloaks.fishing_hood":"Fishing Hood",
     "item.skillcloaks.fletching_cloak":"Fletching Cloak",
     "item.skillcloaks.fletching_hood":"Fletching Hood",
-    "item.skillcloaks.green_sack":"Green Sack",
+    "item.skillcloaks.green_sack":"绿色战利品袋",
     "item.skillcloaks.herblore_cloak":"Herblore Cloak",
     "item.skillcloaks.herblore_hood":"Herblore Hood",
     "item.skillcloaks.hitpoints_cloak":"Hitpoints Cloak",
