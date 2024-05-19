@@ -1,0 +1,502 @@
+[
+    {
+        "name": "VM汉化组汉化包",
+        "desc": "infernal origins 硬编码汉化",
+        "mods": "infernal-origins-extras-v1.0.0-EXP1359",
+        "authors": "Litchiiiiiii",
+        "dynamic": false
+    },
+    {
+        "target_classes": [
+            {
+                "name": "net.union.infernaloriginsextras.procedures.QuestSlayerGemFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.CommandSlayerTaskResetFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.QuestSlayerGemKillFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuGuiWindow",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuTwoGuiWindow",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.gui.GuiTaskMenuThreeGuiWindow",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuFourGuiWindow",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure",
+                "method": ""
+            }
+        ],
+        "pairs": [
+            {
+                "key": "§7Skill Points: §e",
+                "value": "   §7技能点：§e"
+            },
+            {
+                "key": "§7Armor",
+                "value": "§7护甲值"
+            },
+            {
+                "key": "§7Cost: §e",
+                "value": "§7消耗：§e"
+            },
+            {
+                "key": "§7Toughness",
+                "value": "§7盔甲韧性"
+            },
+            {
+                "key": "§7Melee Atk.",
+                "value": "§7近战伤害"
+            },
+            {
+                "key": "§7Melee Spd.",
+                "value": "§7近战攻速"
+            },
+            {
+                "key": "§7Ranged Atk.",
+                "value": "§7远程伤害"
+            },
+            {
+                "key": "§7Skills Page 1",
+                "value": "   §7技能页 1"
+            },
+            {
+                "key": "§7Crit Dmg.",
+                "value": "§7暴击伤害"
+            },
+            {
+                "key": "§7Crit Chance",
+                "value": "§7暴击率"
+            },
+            {
+                "key": "§7Move Spd.",
+                "value": "§7移动速度"
+            },
+            {
+                "key": "§7Health",
+                "value": "§7生命值"
+            },
+            {
+                "key": "§7Luck",
+                "value": "§7幸运"
+            },
+            {
+                "key": "§7Skills Page 2",
+                "value": "   §7技能页 2"
+            },
+            {
+                "key": "§7Health Regen.",
+                "value": "§7生命回复"
+            },
+            {
+                "key": "§7Dodge Chance",
+                "value": "§7闪避率"
+            },
+            {
+                "key": "§7Swim Spd.",
+                "value": "§7游泳速度"
+            },
+            {
+                "key": "§7Skills Page 3",
+                "value": "   §7技能页 3"
+            },
+            {
+                "key": "§7Slayer Task",
+                "value": "   §7杀手任务"
+            },
+            {
+                "key": "§7Difficulty: §e",
+                "value": "§7难度：§e"
+            },
+            {
+                "key": "§7Kills Left: §e",
+                "value": "§7剩余击杀：§e"
+            },
+            {
+                "key": "§7Mob Health: §e",
+                "value": " §7怪物生命值：§e"
+            },
+            {
+                "key": "§7Reward: §e",
+                "value": "      §7奖励：§e"
+            },
+            {
+                "key": "§7Task Streak: §e",
+                "value": "  §7任务连胜：§e"
+            },
+            {
+                "key": "New Task",
+                "value": "新任务"
+            },
+            {
+                "key": " Skill Points",
+                "value": " 技能点"
+            },
+            {
+                "key": "§f<Slayer Master> Need a new task? I've got a job for you.",
+                "value": "§f<资深杀手> 想要一个新任务？我正好有一份任务给你。"
+            },
+            {
+                "key": "§f<Slayer Master> New threats have been spotted, I need you to wipe them out.",
+                "value": "§f<资深杀手> 发现新的敌人，我需要你消灭它们。"
+            },
+            {
+                "key": "§f<Slayer Master> You know the drill. Kill them until the job is done.",
+                "value": "§f<资深杀手> 你知道该怎么做，击杀它们直到任务完成。"
+            },
+            {
+                "key": "§f<Slayer Master> Fresh blood's been scented. Get it done.",
+                "value": "§f<资深杀手> 鲜血散发着香味，快干掉它。"
+            },
+            {
+                "key": "§f<Slayer Master> I've got a new task for you. Good luck.",
+                "value": "§f<资深杀手> 我有一个新任务要给你，祝你好运。"
+            },
+            {
+                "key": "§f<Slayer Master> What do you want? You've got a job to do.",
+                "value": "§f<资深杀手> 你还想要什么？你的任务还没完成呢。"
+            },
+            {
+                "key": "§f<Slayer Master> Stop bothering me. Get to the task.",
+                "value": "§f<资深杀手> 别再烦我了，快去做任务。"
+            },
+            {
+                "key": "§f<Slayer Master> You're not getting another task until you finish this one.",
+                "value": "§f<资深杀手> 你不能开始新任务，除非你完成当前任务。"
+            },
+            {
+                "key": "§f<Slayer Master> Complete your mission, then come back to me.",
+                "value": "§f<资深杀手> 完成你的任务之后再回来找我。"
+            },
+            {
+                "key": "§f<Slayer Master> I'm not going to give you another task until this one is done. Get to it.",
+                "value": "§f<资深杀手> 我不想给你新任务，除非你完成当前任务，快去做。"
+            },
+            {
+                "key": "§eMobs left to kill: §6",
+                "value": "§e剩余击杀怪物：§6"
+            },
+            {
+                "key": "§eMob minimum health required to count: §6",
+                "value": "§e需求怪物最小生命值：§6"
+            },
+            {
+                "key": "§eYou've completed your slayer task and have been awarded ",
+                "value": "§e你完成了杀手任务并且获得"
+            },
+            {
+                "key": "§ePress Z to access the slayer and skill menu.",
+                "value": "§e按Z键进入杀手任务界面和技能界面。"
+            },
+            {
+                "key": "§eMob kills remaining: §6",
+                "value": "§e击杀怪物还需：§6"
+            },
+            {
+                "key": "§cYou don't have a Slayer Task, Press Z!",
+                "value": "§c你没有杀手任务，按Z键获取！"
+            },
+            {
+                "key": "§e skill points.",
+                "value": "§e 技能点。"
+            },
+            {
+                "key": "Your Slayer Task and Task Streak have been reset.",
+                "value": "你的杀手任务和任务连胜已被重置。"
+            },
+            {
+                "key": "§c<Wither> We've been waiting.",
+                "value": "§c<凋灵> 我们一直在等待。"
+            },
+            {
+                "key": "§c<Wither> We've been watching.",
+                "value": "§c<凋灵> 我们一直在注视着。"
+            },
+            {
+                "key": "§c<Wither> Join us.",
+                "value": "§c<凋灵> 加入我们。"
+            },
+            {
+                "key": "§c<Wither> Death has arrived.",
+                "value": "§c<凋灵> 死亡已经到来。"
+            },
+            {
+                "key": "§c<Wither> Your end is near.",
+                "value": "§c<凋灵> 你的末日即将来临。"
+            },
+            {
+                "key": "§c<Wither> Darkness surrounds you.",
+                "value": "§c<凋灵> 黑暗包围着你。"
+            },
+            {
+                "key": "§c<Wither> We will not fall.",
+                "value": "§c<凋灵> 我们不会陨落。"
+            },
+            {
+                "key": "§c<Wither> We will not be consumed.",
+                "value": "§c<凋灵> 我们不会被耗尽。"
+            },
+            {
+                "key": "§c<Wither> We will be reborn.",
+                "value": "§c<凋灵> 我们重获新生。"
+            },
+            {
+                "key": "§cThe boss enrages, and their scales harden!",
+                "value": "§c首领被激怒了，它们的鳞片变得坚硬无比！"
+            },
+            {
+                "key": "§c<Elder Guardian> My domain will not be challenged!",
+                "value": "§c<Elder Guardian> My domain will not be challenged!"
+            },
+            {
+                "key": "§c<Elder Guardian> My domain will not be challenged!",
+                "value": "§c<Elder Guardian> My domain will not be challenged!"
+            },
+            {
+                "key": "§c<Elder Guardian> Drown to my power!",
+                "value": "§c<Elder Guardian> Drown to my power!"
+            },
+            {
+                "key": "§c<Elder Guardian> The waves will crush you!",
+                "value": "§c<Elder Guardian> The waves will crush you!"
+            },
+            {
+                "key": "§c<Elder Guardian> Minions, protect me!",
+                "value": "§c<Elder Guardian> Minions, protect me!"
+            },
+            {
+                "key": "§c<Elder Guardian> Protect your prince!",
+                "value": "§c<Elder Guardian> Protect your prince!"
+            },
+            {
+                "key": "§c<Elder Guardian> This is treachery!",
+                "value": "§c<Elder Guardian> This is treachery!"
+            },
+            {
+                "key": "§4The Elder Guardian has become enraged!",
+                "value": "§4The Elder Guardian has become enraged!"
+            },
+            {
+                "key": "§c<Elder Guardian> I will not die like this!",
+                "value": "§c<Elder Guardian> I will not die like this!"
+            },
+            {
+                "key": "§c<Elder Guardian> I was promised to rule!",
+                "value": "§c<Elder Guardian> I was promised to rule!"
+            },
+            {
+                "key": "§c<Elder Guardian> My kingdom will conquer!",
+                "value": "§c<Elder Guardian> My kingdom will conquer!"
+            },
+            {
+                "key": "§c<Ender Guardian> Whispers of the void...",
+                "value": "§c<Ender Guardian> Whispers of the void..."
+            },
+            {
+                "key": "§c<Ender Guardian> Come closer...",
+                "value": "§c<Ender Guardian> Come closer..."
+            },
+            {
+                "key": "§c<Ender Guardian> Hear me from the shadows...",
+                "value": "§c<Ender Guardian> Hear me from the shadows..."
+            },
+            {
+                "key": "§c<Ender Guardian> They are watching us...",
+                "value": "§c<Ender Guardian> They are watching us..."
+            },
+            {
+                "key": "§c<Ender Guardian> Every move we make they see...",
+                "value": "§c<Ender Guardian> Every move we make they see..."
+            },
+            {
+                "key": "§c<Ender Guardian> We cannot hide...",
+                "value": "§c<Ender Guardian> We cannot hide..."
+            },
+            {
+                "key": "§4The Ender Guardian has become enraged!",
+                "value": "§4The Ender Guardian has become enraged!"
+            },
+            {
+                "key": "§c<Ender Guardian> You will not know their pain...",
+                "value": "§c<Ender Guardian> You will not know their pain..."
+            },
+            {
+                "key": "§c<Ender Guardian> Their suffering will continue...",
+                "value": "§c<Ender Guardian> Their suffering will continue..."
+            },
+            {
+                "key": "§c<Ender Guardian> Not even I could help them...",
+                "value": "§c<Ender Guardian> Not even I could help them..."
+            },
+            {
+                "key": "§c<Ender Guardian> You will not know their pain...",
+                "value": "§c<Ender Guardian> You will not know their pain..."
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> You dare challenge me!?",
+                "value": "§c<Ferrous Wroughtnaut> You dare challenge me!?"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!",
+                "value": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Slumber be damned!",
+                "value": "§c<Ferrous Wroughtnaut> Slumber be damned!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> HERETIC!",
+                "value": "§c<Ferrous Wroughtnaut> HERETIC!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!",
+                "value": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Ha! Weakling!",
+                "value": "§c<Ferrous Wroughtnaut> Ha! Weakling!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> I will not fall!",
+                "value": "§c<Ferrous Wroughtnaut> I will not fall!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Throne give me strength!",
+                "value": "§c<Ferrous Wroughtnaut> Throne give me strength!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> KNEEL!",
+                "value": "§c<Ferrous Wroughtnaut> KNEEL!"
+            },
+            {
+                "key": "§c<Hoar Frost> Fall t' the throne o' ice!",
+                "value": "§c<Hoar Frost> Fall t' the throne o' ice!"
+            },
+            {
+                "key": "§c<Hoar Frost> Ye dare attack the cap'n o' winter's bane!?",
+                "value": "§c<Hoar Frost> Ye dare attack the cap'n o' winter's bane!?"
+            },
+            {
+                "key": "§c<Hoar Frost> Davy jones' locker couldn't stop me, wha' makes ye reckon ye can!?",
+                "value": "§c<Hoar Frost> Davy jones' locker couldn't stop me, wha' makes ye reckon ye can!?"
+            },
+            {
+                "key": "§c<Hoar Frost> Get out here 'n help yer cap'n!",
+                "value": "§c<Hoar Frost> Get out here 'n help yer cap'n!"
+            },
+            {
+                "key": "§c<Hoar Frost> Avast ye maties!",
+                "value": "§c<Hoar Frost> Avast ye maties!"
+            },
+            {
+                "key": "§c<Hoar Frost> Ye'll nah be leavin' here alive!",
+                "value": "§c<Hoar Frost> Ye'll nah be leavin' here alive!"
+            },
+            {
+                "key": "§4Hoar Frost has become enraged!",
+                "value": "§4Hoar Frost has become enraged!"
+            },
+            {
+                "key": "§c<Hoar Frost> Ye'll ne'er scuttle me ye yellow-bellied cur!",
+                "value": "§c<Hoar Frost> Ye'll ne'er scuttle me ye yellow-bellied cur!"
+            },
+            {
+                "key": "§c<Hoar Frost> I'll fight till me last breath!",
+                "value": "§c<Hoar Frost> I'll fight till me last breath!"
+            },
+            {
+                "key": "§c<Hoar Frost> I've come closer t' death than this!",
+                "value": "§c<Hoar Frost> I've come closer t' death than this!"
+            },
+            {
+                "key": "§c<Frostmaw> RAAAARGH!",
+                "value": "§c<Frostmaw> RAAAARGH!"
+            },
+            {
+                "key": "§4Frostmaw has become enraged!",
+                "value": "§4Frostmaw has become enraged!"
+            },
+            {
+                "key": "§c<Ignis> Your death will be swift!",
+                "value": "§c<Ignis> Your death will be swift!"
+            },
+            {
+                "key": "§c<Ignis> You dare hit your king!?",
+                "value": "§c<Ignis> You dare hit your king!?"
+            },
+            {
+                "key": "§c<Ignis> Die to my blade!",
+                "value": "§c<Ignis> Die to my blade!"
+            },
+            {
+                "key": "§c<Ignis> War is in my blood!",
+                "value": "§c<Ignis> War is in my blood!"
+            },
+            {
+                "key": "§c<Ignis> Nothing but a scratch!",
+                "value": "§c<Ignis> Nothing but a scratch!"
+            },
+            {
+                "key": "§c<Ignis> Feed my blade!",
+                "value": "§c<Ignis> Feed my blade!"
+            },
+            {
+                "key": "§4Ignis has become enraged!",
+                "value": "§4Ignis has become enraged!"
+            },
+            {
+                "key": "§c<Ignis> Honor the throne!",
+                "value": "§c<Ignis> Honor the throne!"
+            },
+            {
+                "key": "§c<Ignis> I still stand!",
+                "value": "§c<Ignis> I still stand!"
+            },
+            {
+                "key": "§c<Ignis> For glory!",
+                "value": "§c<Ignis> For glory!"
+            },
+    }
+]
