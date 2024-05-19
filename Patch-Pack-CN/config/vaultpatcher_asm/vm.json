@@ -21,22 +21,6 @@
                 "method": ""
             },
             {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure",
-                "method": ""
-            },
-            {
                 "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuGuiWindow",
                 "method": ""
             },
@@ -50,26 +34,6 @@
             },
             {
                 "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuFourGuiWindow",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure",
-                "method": ""
-            },
-            {
-                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure",
                 "method": ""
             }
         ],
@@ -249,7 +213,25 @@
             {
                 "key": "Your Slayer Task and Task Streak have been reset.",
                 "value": "你的杀手任务和任务连胜已被重置。"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsWitherProcedure",
+                "method": ""
             },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesWitherProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.BossWitherStormSummonProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
             {
                 "key": "§c<Wither> We've been waiting.",
                 "value": "§c<凋灵> 我们一直在等待。"
@@ -287,9 +269,63 @@
                 "value": "§c<凋灵> 我们重获新生。"
             },
             {
-                "key": "§cThe boss enrages, and their scales harden!",
-                "value": "§c首领被激怒了，它们的鳞片变得坚硬无比！"
+                "key": "§dCorruption Level: ",
+                "value": "§dCorruption Level: "
             },
+            {
+                "key": "§c<Wither> Trapped in an eternal hell.",
+                "value": "§c<Wither> Trapped in an eternal hell."
+            },
+            {
+                "key": "§c<Wither> An unmoving tortuous fate.",
+                "value": "§c<Wither> An unmoving tortuous fate."
+            },
+            {
+                "key": "§c<Wither> Stopped by destiny.",
+                "value": "§c<Wither> Stopped by destiny."
+            },
+            {
+                "key": "§c<Wither> Share our pain.",
+                "value": "§c<Wither> Share our pain."
+            },
+            {
+                "key": "§c<Wither> Our retribution follows.",
+                "value": "§c<Wither> Our retribution follows."
+            },
+            {
+                "key": "§4The Wither is charging up! Prepare to block!",
+                "value": "§4The Wither is charging up! Prepare to block!"
+            },
+            {
+                "key": "§c<Wither> Death is inevitable.",
+                "value": "§c<Wither> Death is inevitable."
+            },
+            {
+                "key": "§c<Wither> I will be your unmaker.",
+                "value": "§c<Wither> I will be your unmaker."
+            },
+            {
+                "key": "§c<Wither> Your corruption feeds me.",
+                "value": "§c<Wither> Your corruption feeds me."
+            },
+            {
+                "key": "§cWhat have you done...",
+                "value": "§cWhat have you done..."
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name":"net.union.infernaloriginsextras.procedures.AllBossMinionsElderGuardianProcedure",
+                "method":""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesElderGuardianProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
             {
                 "key": "§c<Elder Guardian> My domain will not be challenged!",
                 "value": "§c<Elder Guardian> My domain will not be challenged!"
@@ -335,6 +371,76 @@
                 "value": "§c<Elder Guardian> My kingdom will conquer!"
             },
             {
+                "key": "§c<Elder Guardian> Beacon! Heal me immediately!",
+                "value": "§c<Elder Guardian> Beacon! Heal me immediately!"
+            },
+            {
+                "key": "§c<Elder Guardian> Beacon! I require healing!",
+                "value": "§c<Elder Guardian> Beacon! I require healing!"
+            },
+            {
+                "key": "§c<Elder Guardian> Beacon! Heal your prince!",
+                "value": "§c<Elder Guardian> Beacon! Heal your prince!"
+            },
+            {
+                "key": "§4Kill the Elder Guardian's summoned beacon before it heals!",
+                "value": "§4Kill the Elder Guardian's summoned beacon before it heals!"
+            },
+            {
+                "key": "§c<Elder Guardian> Damage yourself, filth!",
+                "value": "§c<Elder Guardian> Damage yourself, filth!"
+            },
+            {
+                "key": "§c<Elder Guardian> Hands off your prince!",
+                "value": "§c<Elder Guardian> Hands off your prince!"
+            },
+            {
+                "key": "§c<Elder Guardian> Die to your own blade!",
+                "value": "§c<Elder Guardian> Die to your own blade!"
+            },
+            {
+                "key": "§c<Elder Guardian> Overcharge your core!",
+                "value": "§c<Elder Guardian> Overcharge your core!"
+            },
+            {
+                "key": "§4Get away from your friends, you're about to overcharge!",
+                "value": "§4Get away from your friends, you're about to overcharge!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsEnderGuardianProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure$8",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure$8$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure$8$1$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure$8$1$1$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesEnderGuardianProcedure$8$1$1$1$1",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
                 "key": "§c<Ender Guardian> Whispers of the void...",
                 "value": "§c<Ender Guardian> Whispers of the void..."
             },
@@ -375,45 +481,125 @@
                 "value": "§c<Ender Guardian> Not even I could help them..."
             },
             {
-                "key": "§c<Ender Guardian> You will not know their pain...",
-                "value": "§c<Ender Guardian> You will not know their pain..."
+                "key": "§c<Ender Guardian> Let your sins be cleansed.",
+                "value": "§c<Ender Guardian> Let your sins be cleansed."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> You dare challenge me!?",
-                "value": "§c<Ferrous Wroughtnaut> You dare challenge me!?"
+                "key": "§c<Ender Guardian> Purge yourself from your sins.",
+                "value": "§c<Ender Guardian> Purge yourself from your sins."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!",
-                "value": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!"
+                "key": "§c<Ender Guardian> Fate will cleanse you.",
+                "value": "§c<Ender Guardian> Fate will cleanse you."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> Slumber be damned!",
-                "value": "§c<Ferrous Wroughtnaut> Slumber be damned!"
+                "key": "§c<Ender Guardian> Your shadows reveal themselves.",
+                "value": "§c<Ender Guardian> Your shadows reveal themselves."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> HERETIC!",
-                "value": "§c<Ferrous Wroughtnaut> HERETIC!"
+                "key": "§c<Ender Guardian> The shadows come for revenge.",
+                "value": "§c<Ender Guardian> The shadows come for revenge."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!",
-                "value": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!"
+                "key": "§c<Ender Guardian> Shadows from the void.",
+                "value": "§c<Ender Guardian> Shadows from the void."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> Ha! Weakling!",
-                "value": "§c<Ferrous Wroughtnaut> Ha! Weakling!"
+                "key": "§c<Ender Guardian> Each of you... colors in this blank void?",
+                "value": "§c<Ender Guardian> Each of you... colors in this blank void?"
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> I will not fall!",
-                "value": "§c<Ferrous Wroughtnaut> I will not fall!"
+                "key": "§c<Ender Guardian> Curious, your souls are different...",
+                "value": "§c<Ender Guardian> Curious, your souls are different..."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> Throne give me strength!",
-                "value": "§c<Ferrous Wroughtnaut> Throne give me strength!"
+                "key": "§c<Ender Guardian> Beautiful colors... I've missed them so...",
+                "value": "§c<Ender Guardian> Beautiful colors... I've missed them so..."
             },
             {
-                "key": "§c<Ferrous Wroughtnaut> KNEEL!",
-                "value": "§c<Ferrous Wroughtnaut> KNEEL!"
+                "key": "§f§lYour color is white.",
+                "value": "§f§lYour color is white."
             },
+            {
+                "key": "§4§lYour color is red.",
+                "value": "§4§lYour color is red."
+            },
+            {
+                "key": "§5§lYour color is purple.",
+                "value": "§5§lYour color is purple."
+            },
+            {
+                "key": "§e§lYour color is yellow.",
+                "value": "§e§lYour color is yellow."
+            },
+            {
+                "key": "§c<Ender Guardian> 5",
+                "value": "§c<Ender Guardian> 5"
+            },
+            {
+                "key": "§c<Ender Guardian> 4",
+                "value": "§c<Ender Guardian> 4"
+            },
+            {
+                "key": "§c<Ender Guardian> 3",
+                "value": "§c<Ender Guardian> 3"
+            },
+            {
+                "key": "§c<Ender Guardian> 2",
+                "value": "§c<Ender Guardian> 2"
+            },
+            {
+                "key": "§c<Ender Guardian> 1",
+                "value": "§c<Ender Guardian> 1"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFrostmawProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesFrostmawProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§c<Frostmaw> RAAAARGH!",
+                "value": "§c<Frostmaw> RAAAARGH!"
+            },
+            {
+                "key": "§4Frostmaw has become enraged!",
+                "value": "§4Frostmaw has become enraged!"
+            },
+            {
+                "key": "§c<Frostmaw> GRAAAH!",
+                "value": "§c<Frostmaw> GRAAAH!"
+            },
+            {
+                "key": "§c<Frostmaw> URGH!",
+                "value": "§c<Frostmaw> URGH!"
+            },
+            {
+                "key": "§c<Frostmaw> UROOO!",
+                "value": "§c<Frostmaw> UROOO!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsHoarFrostProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesHoarFrostProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
             {
                 "key": "§c<Hoar Frost> Fall t' the throne o' ice!",
                 "value": "§c<Hoar Frost> Fall t' the throne o' ice!"
@@ -455,13 +641,105 @@
                 "value": "§c<Hoar Frost> I've come closer t' death than this!"
             },
             {
-                "key": "§c<Frostmaw> RAAAARGH!",
-                "value": "§c<Frostmaw> RAAAARGH!"
+                "key": "§c<Hoar Frost> Ye'll freeze where ye stand!",
+                "value": "§c<Hoar Frost> Ye'll freeze where ye stand!"
             },
             {
-                "key": "§4Frostmaw has become enraged!",
-                "value": "§4Frostmaw has become enraged!"
+                "key": "§c<Hoar Frost> Fall t' me frost!",
+                "value": "§c<Hoar Frost> Fall t' me frost!"
             },
+            {
+                "key": "§c<Hoar Frost> The sea be mine t' freeze!",
+                "value": "§c<Hoar Frost> The sea be mine t' freeze!"
+            },
+            {
+                "key": "§c<Hoar Frost> Rain 'em wit' cannonballs whelps!",
+                "value": "§c<Hoar Frost> Rain 'em wit' cannonballs whelps!"
+            },
+            {
+                "key": "§c<Hoar Frost> Rip 'em apart, shoot the cannons!",
+                "value": "§c<Hoar Frost> Rip 'em apart, shoot the cannons!"
+            },
+            {
+                "key": "§c<Hoar Frost> All cannons fire fore!",
+                "value": "§c<Hoar Frost> All cannons fire fore!"
+            },
+            {
+                "key": "§c<Hoar Frost> Me crystal will make quick work o' ye!",
+                "value": "§c<Hoar Frost> Me crystal will make quick work o' ye!"
+            },
+            {
+                "key": "§c<Hoar Frost> See if ye can handle me crystal bomb ye wee scallywag!",
+                "value": "§c<Hoar Frost> See if ye can handle me crystal bomb ye wee scallywag!"
+            },
+            {
+                "key": "§c<Hoar Frost> Ye bore me! Hit 'em wit' the crystal bomb!",
+                "value": "§c<Hoar Frost> Ye bore me! Hit 'em wit' the crystal bomb!"
+            },
+            {
+                "key": "§4Kill Hoar Frost's summoned crystal before it explodes!",
+                "value": "§4Kill Hoar Frost's summoned crystal before it explodes!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsFerrousWroughtnautProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§c<Ferrous Wroughtnaut> You dare challenge me!?",
+                "value": "§c<Ferrous Wroughtnaut> You dare challenge me!?"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!",
+                "value": "§c<Ferrous Wroughtnaut> The high throne will hear of this treason!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Slumber be damned!",
+                "value": "§c<Ferrous Wroughtnaut> Slumber be damned!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> HERETIC!",
+                "value": "§c<Ferrous Wroughtnaut> HERETIC!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!",
+                "value": "§c<Ferrous Wroughtnaut> Fall to the throne's guard!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Ha! Weakling!",
+                "value": "§c<Ferrous Wroughtnaut> Ha! Weakling!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> I will not fall!",
+                "value": "§c<Ferrous Wroughtnaut> I will not fall!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Throne give me strength!",
+                "value": "§c<Ferrous Wroughtnaut> Throne give me strength!"
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> KNEEL!",
+                "value": "§c<Ferrous Wroughtnaut> KNEEL!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesIgnisProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
             {
                 "key": "§c<Ignis> Your death will be swift!",
                 "value": "§c<Ignis> Your death will be swift!"
@@ -501,6 +779,490 @@
             {
                 "key": "§c<Ignis> For glory!",
                 "value": "§c<Ignis> For glory!"
+            },
+            {
+                "key": "§c<Ignis> Taste true power!",
+                "value": "§c<Ignis> Taste true power!"
+            },
+            {
+                "key": "§c<Ignis> Dragon's rage be free!",
+                "value": "§c<Ignis> Dragon's rage be free!"
+            },
+            {
+                "key": "§c<Ignis> Stand and die!",
+                "value": "§c<Ignis> Stand and die!"
+            },
+            {
+                "key": "§c<Ignis> Back off!",
+                "value": "§c<Ignis> Back off!"
+            },
+            {
+                "key": "§c<Ignis> Away from me!",
+                "value": "§c<Ignis> Away from me!"
+            },
+            {
+                "key": "§c<Ignis> Be gone!",
+                "value": "§c<Ignis> Be gone!"
+            },
+            {
+                "key": "§c<Ignis> Run while you still can!",
+                "value": "§c<Ignis> Run while you still can!"
+            },
+            {
+                "key": "§c<Ignis> I will shatter you from your core!",
+                "value": "§c<Ignis> I will shatter you from your core!"
+            },
+            {
+                "key": "§c<Ignis> Get closer if you dare!",
+                "value": "§c<Ignis> Get closer if you dare!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsNetheriteMonstrosityProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesNetheriteMonstrosityProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesNetheriteMonstrosityProcedure$4",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesNetheriteMonstrosityProcedure$4$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesNetheriteMonstrosityProcedure$4$1$1",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§c<Netherite Monstrosity> [ENGAGE: MOVEMENT DETECTED]",
+                "value": "§c<Netherite Monstrosity> [ENGAGE: MOVEMENT DETECTED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [ENGAGE: ENEMIES APPROACHING]",
+                "value": "§c<Netherite Monstrosity> [ENGAGE: ENEMIES APPROACHING]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [ENGAGE: HOSTILES ENCOUNTERED]",
+                "value": "§c<Netherite Monstrosity> [ENGAGE: HOSTILES ENCOUNTERED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BACKUP: DAMAGE SUSTAINED]",
+                "value": "§c<Netherite Monstrosity> [BACKUP: DAMAGE SUSTAINED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BACKUP: INTERNAL MALFUNCTION]",
+                "value": "§c<Netherite Monstrosity> [BACKUP: INTERNAL MALFUNCTION]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BACKUP: REQUESTED]",
+                "value": "§c<Netherite Monstrosity> [BACKUP: REQUESTED]"
+            },
+            {
+                "key": "§4Netherite Monstrosity has become enraged!",
+                "value": "§4Netherite Monstrosity has become enraged!"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CRITICAL: IMPENDING SHUTDOWN]",
+                "value": "§c<Netherite Monstrosity> [CRITICAL: IMPENDING SHUTDOWN]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CRITICAL: POWER LOW]",
+                "value": "§c<Netherite Monstrosity> [CRITICAL: POWER LOW]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CRITICAL: MELTDOWN DETECTED]",
+                "value": "§c<Netherite Monstrosity> [CRITICAL: MELTDOWN DETECTED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CORE: EXPLOSIVE IMPLANTED]",
+                "value": "§c<Netherite Monstrosity> [CORE: EXPLOSIVE IMPLANTED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CORE: COMBUSTION TRANSFERRED]",
+                "value": "§c<Netherite Monstrosity> [CORE: COMBUSTION TRANSFERRED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [CORE: INJECTION SUCCESSFUL]",
+                "value": "§c<Netherite Monstrosity> [CORE: INJECTION SUCCESSFUL]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [EXECUTE: SHATTER]",
+                "value": "§c<Netherite Monstrosity> [EXECUTE: SHATTER]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [EXAMINATION: DISTANCE REQUIRED]",
+                "value": "§c<Netherite Monstrosity> [EXAMINATION: DISTANCE REQUIRED]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [EXAMINATION: CLOSE PROXIMITY]",
+                "value": "§c<Netherite Monstrosity> [EXAMINATION: CLOSE PROXIMITY]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [EXAMINATION: TELEPORTATION]",
+                "value": "§c<Netherite Monstrosity> [EXAMINATION: TELEPORTATION]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [3]",
+                "value": "§c<Netherite Monstrosity> [3]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [2]",
+                "value": "§c<Netherite Monstrosity> [2]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [1]",
+                "value": "§c<Netherite Monstrosity> [1]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BOMBARDMENT: LOCKING]",
+                "value": "§c<Netherite Monstrosity> [BOMBARDMENT: LOCKING]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BOMBARDMENT: ACQUIRING TARGET]",
+                "value": "§c<Netherite Monstrosity> [BOMBARDMENT: ACQUIRING TARGET]"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [BOMBARDMENT: SEEKING]",
+                "value": "§c<Netherite Monstrosity> [BOMBARDMENT: SEEKING]"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsTheBigOneProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesTheBigOneProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesTheBigOneProcedure$6",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesTheBigOneProcedure$6$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesTheBigOneProcedure$6$1$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossPhasesTheBigOneProcedure$6$1$1$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.BossTheBigOneNameFailsafeProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.BossTheBigOneNameFailsafeProcedure$1",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§c<The Big One> TINY CREATURE HIT ME??",
+                "value": "§c<The Big One> TINY CREATURE HIT ME??"
+            },
+            {
+                "key": "§c<The Big One> SO SMALL HAHA!",
+                "value": "§c<The Big One> SO SMALL HAHA!"
+            },
+            {
+                "key": "§c<The Big One> GRAAAAAAAHH",
+                "value": "§c<The Big One> GRAAAAAAAHH"
+            },
+            {
+                "key": "§c<The Big One> ME CRUSH TINY CREATURE!",
+                "value": "§c<The Big One> ME CRUSH TINY CREATURE!"
+            },
+            {
+                "key": "§c<The Big One> ANT BITE ME HAHA!",
+                "value": "§c<The Big One> ANT BITE ME HAHA!"
+            },
+            {
+                "key": "§c<The Big One> AAAAAGGH",
+                "value": "§c<The Big One> AAAAAGGH"
+            },
+            {
+                "key": "§4The Big One has become enraged!",
+                "value": "§4The Big One has become enraged!"
+            },
+            {
+                "key": "§c<The Big One> SMALL THING STRONG??",
+                "value": "§c<The Big One> SMALL THING STRONG??"
+            },
+            {
+                "key": "§c<The Big One> ME HATE TINY CREATURE!",
+                "value": "§c<The Big One> ME HATE TINY CREATURE!"
+            },
+            {
+                "key": "§c<The Big One> FIGHT NO FAIR!",
+                "value": "§c<The Big One> FIGHT NO FAIR!"
+            },
+            {
+                "key": "§c<The Big One> TINY CREATURE GO UP!",
+                "value": "§c<The Big One> TINY CREATURE GO UP!"
+            },
+            {
+                "key": "§c<The Big One> UP UP!",
+                "value": "§c<The Big One> UP UP!"
+            },
+            {
+                "key": "§c<The Big One> HAHAHA WEE!",
+                "value": "§c<The Big One> HAHAHA WEE!"
+            },
+            {
+                "key": "§c<The Big One> FE!",
+                "value": "§c<The Big One> FE!"
+            },
+            {
+                "key": "§c<The Big One> FI!",
+                "value": "§c<The Big One> FI!"
+            },
+            {
+                "key": "§c<The Big One> FO!",
+                "value": "§c<The Big One> FO!"
+            },
+            {
+                "key": "§c<The Big One> FUM!",
+                "value": "§c<The Big One> FUM!"
+            },
+            {
+                "key": "§c<The Big One> HAHAHA!",
+                "value": "§c<The Big One> HAHAHA!"
+            },
+            {
+                "key": "§c<The Big One> C'MERE TASTY!",
+                "value": "§c<The Big One> C'MERE TASTY!"
+            },
+            {
+                "key": "§c<The Big One> SO HUNGRY!",
+                "value": "§c<The Big One> SO HUNGRY!"
+            },
+            {
+                "key": "The Big One",
+                "value": "The Big One"
+            },
+            {
+                "key": "Magma Monster",
+                "value": "Magma Monster"
+            },
+            {
+                "key": "Magma Monster Grunt",
+                "value": "Magma Monster Grunt"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§c<Land Golem> Finally, a challenge!",
+                "value": "§c<Land Golem> Finally, a challenge!"
+            },
+            {
+                "key": "§c<Land Golem> You dare challenge me!?",
+                "value": "§c<Land Golem> You dare challenge me!?"
+            },
+            {
+                "key": "§c<Land Golem> You are nothing!",
+                "value": "§c<Land Golem> You are nothing!"
+            },
+            {
+                "key": "§c<Land Golem> I will not be killed so easily!",
+                "value": "§c<Land Golem> I will not be killed so easily!"
+            },
+            {
+                "key": "§c<Land Golem> My minions will protect me!",
+                "value": "§c<Land Golem> My minions will protect me!"
+            },
+            {
+                "key": "§c<Land Golem> Quit messing around, get them!",
+                "value": "§c<Land Golem> Quit messing around, get them!"
+            },
+            {
+                "key": "§4The Land Golem has become enraged!",
+                "value": "§4The Land Golem has become enraged!"
+            },
+            {
+                "key": "§c<Land Golem> This tower will not fall!",
+                "value": "§c<Land Golem> This tower will not fall!"
+            },
+            {
+                "key": "§c<Land Golem> Your efforts are meaningless!",
+                "value": "§c<Land Golem> Your efforts are meaningless!"
+            },
+            {
+                "key": "§c<Land Golem> NO, THIS CANNOT BE!",
+                "value": "§c<Land Golem> NO, THIS CANNOT BE!"
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossEnrageSerpentDragonAntiCheeseProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllDeathCheckProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllDeathCheckProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllDragonKillGrantProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllLevelApplyProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllLevelApplyProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllMobsSpecialChanceProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllMobsSpecialChanceProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllScrollDropProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.BlockArrowBundleFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.CommandResetDifficultyFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.CommandRollFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.CommandSkillPointsFunctionProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§cThe boss enrages, and their scales harden!",
+                "value": "§c首领被激怒了，它们的鳞片变得坚硬无比！"
+            },
+            {
+                "key": "§cYour life is ticking...",
+                "value": "§cYour life is ticking..."
+            },
+            {
+                "key": "§cYou notice a command block floating high above the portal... it looks mineable?",
+                "value": "§cYou notice a command block floating high above the portal... it looks mineable?"
+            },
+            {
+                "key": "§fLevel: §f",
+                "value": "§fLevel: §f"
+            },
+            {
+                "key": "§fLevel: §a",
+                "value": "§fLevel: §a"
+            },
+            {
+                "key": "§fLevel: §b",
+                "value": "§fLevel: §b"
+            },
+            {
+                "key": "§fLevel: §5",
+                "value": "§fLevel: §5"
+            },
+            {
+                "key": "§fLevel: §e",
+                "value": "§fLevel: §e"
+            },
+            {
+                "key": "§fLevel: §c",
+                "value": "§fLevel: §c"
+            },
+            {
+                "key": "§fLevel: §0§k",
+                "value": "§fLevel: §0§k"
+            },
+            {
+                "key": "§d☣ Special §r",
+                "value": "§d☣ Special §r"
+            },
+            {
+                "key": "§fTier 1 Boss: ",
+                "value": "§fTier 1 Boss: "
+            },
+            {
+                "key": " §fhas been slain!",
+                "value": " §fhas been slain!"
+            },
+            {
+                "key": "§fTier 2 Boss: ",
+                "value": "§fTier 2 Boss: "
+            },
+            {
+                "key": "§fTier 3 Boss: ",
+                "value": "§fTier 3 Boss: "
+            },
+            {
+                "key": "§fTier 4 Boss: ",
+                "value": "§fTier 4 Boss: "
+            },
+            {
+                "key": "§fTier 5 Boss: ",
+                "value": "§fTier 5 Boss: "
+            },
+            {
+                "key": "§eYou break open the arrow bundle.",
+                "value": "§eYou break open the arrow bundle."
+            },
+            {
+                "key": "World difficulty has been reset back to day 0.",
+                "value": "World difficulty has been reset back to day 0."
+            },
+            {
+                "key": "Use /slayertaskreset to get a new task.",
+                "value": "Use /slayertaskreset to get a new task."
+            },
+            {
+                "key": "§e rolled §6",
+                "value": "§e rolled §6"
+            },
+            {
+                "key": "You receive ",
+                "value": "You receive "
+            },
+            {
+                "key": " Skill Points.",
+                "value": " Skill Points."
             }
         ]
     }
