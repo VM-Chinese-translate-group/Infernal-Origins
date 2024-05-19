@@ -67,6 +67,10 @@
             {
                 "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsIgnisProcedure",
                 "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.AllBossMinionsLandGolemProcedure",
+                "method": ""
             }
         ],
         "pairs": [
