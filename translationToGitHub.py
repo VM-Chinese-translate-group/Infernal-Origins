@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import re
 from github import Github
 from github import Auth
 token = os.environ["API_TOKEN"]
@@ -52,6 +53,7 @@ if __name__ == '__main__':
         zh_cn = zh_cn.fromkeys(key)
         for k in zh_cn:
             zh_cn[k] = value[i]
+            zh_cn[k] = re.sub(r'\\n','\n',zh_cn[k])#替换正确的换行符
             i = i+1
         zh_cnList.append(zh_cn)
     #print(zh_cnList[1])
