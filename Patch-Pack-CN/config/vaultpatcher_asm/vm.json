@@ -35,6 +35,10 @@
             {
                 "name": "net.union.infernaloriginsextras.gui.GuiSkillMenuFourGuiWindow",
                 "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.GuiButtonSlayerTaskCancelProcedure",
+                "method": ""
             }
         ],
         "pairs": [
@@ -213,6 +217,18 @@
             {
                 "key": "Your Slayer Task and Task Streak have been reset.",
                 "value": "你的杀手任务和任务连胜已被重置。"
+            },
+            {
+                "key": "§cYou've canceled your slayer task. Your task streak has been reset.",
+                "value": "§cYou've canceled your slayer task. Your task streak has been reset."
+            },
+            {
+                "key": "§cYou cannot cancel your task unless you tick the checkbox.",
+                "value": "§cYou cannot cancel your task unless you tick the checkbox."
+            },
+            {
+                "key": "§cYou currently do not have a slayer task assigned.",
+                "value": "§cYou currently do not have a slayer task assigned."
             }
         ]
     },
@@ -1169,6 +1185,134 @@
             {
                 "name": "net.union.infernaloriginsextras.procedures.CommandSkillPointsFunctionProcedure",
                 "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure$2",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure$3",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure$4",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionOnDeathProcedure$5",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EasterEggUnionProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectBossBombInjectionAlertFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectBossBombInjectionAlertFunctionProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectBossBombInjectionFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectBossResetFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectBossResetWitherFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectElixirEnhancerFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectSkillfulMobApplyFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectSkillfulMobApplyOffhandFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EffectTemperatureSystemFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EntityBossCrystalHoarFrostFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.EntityBossCrystalHoarFrostFunctionProcedure$1",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.FishTreasureCrateChanceProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemHardcoreReviveStoneFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemTemperatureCheckerFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemTreasureChestFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemWeatherConduitFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemWeatherDiamondFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ItemWeatherNetheriteFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.PotionArmorIncreaseFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.PotionHealthIncreaseFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.PotionLuckIncreaseFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.PotionSpeedIncreaseFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RandomPassRollTooltipMsgProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RandomPassTooltipsProcedure",
+                "method": ""
             }
         ],
         "pairs":[
@@ -1263,6 +1407,546 @@
             {
                 "key": " Skill Points.",
                 "value": " Skill Points."
+            },
+            {
+                "key": "§c<Infori> *shakes butt*",
+                "value": "§c<Infori> *shakes butt*"
+            },
+            {
+                "key": "§c<Infori> L",
+                "value": "§c<Infori> L"
+            },
+            {
+                "key": "§c<Infori> Nuh uh",
+                "value": "§c<Infori> Nuh uh"
+            },
+            {
+                "key": "§c<Infori> GUH",
+                "value": "§c<Infori> GUH"
+            },
+            {
+                "key": "§c<Infori> Don't care, didn't ask.",
+                "value": "§c<Infori> Don't care, didn't ask."
+            },
+            {
+                "key": "§c<Infori> Oh look who joined... the creator of Infernal Origins.",
+                "value": "§c<Infori> Oh look who joined... the creator of Infernal Origins."
+            },
+            {
+                "key": " §4was injected with a bomb! Get away from them!",
+                "value": " §4was injected with a bomb! Get away from them!"
+            },
+            {
+                "key": "§4You were hit by the bomb from ",
+                "value": "§4You were hit by the bomb from "
+            },
+            {
+                "key": "§c<Hoar Frost> Fair winds t' ye in Davy Jones' locker! Hahaha!",
+                "value": "§c<Hoar Frost> Fair winds t' ye in Davy Jones' locker! Hahaha!"
+            },
+            {
+                "key": "§c<Ignis> Not even a worthy challenge.",
+                "value": "§c<Ignis> Not even a worthy challenge."
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [MISSION: COMPLETE]",
+                "value": "§c<Netherite Monstrosity> [MISSION: COMPLETE]"
+            },
+            {
+                "key": "§c<Frostmaw> GRUHUHU!",
+                "value": "§c<Frostmaw> GRUHUHU!"
+            },
+            {
+                "key": "§c<The Big One> SCAREDY CAT! HAHAHA!",
+                "value": "§c<The Big One> SCAREDY CAT! HAHAHA!"
+            },
+            {
+                "key": "§c<Wither> Pity.",
+                "value": "§c<Wither> Pity."
+            },
+            {
+                "key": "§c<Ender Guardian> As expected.",
+                "value": "§c<Ender Guardian> As expected."
+            },
+            {
+                "key": "§c<Elder Guardian> Know your place!",
+                "value": "§c<Elder Guardian> Know your place!"
+            },
+            {
+                "key": "§c<Land Golem> The tower remains.",
+                "value": "§c<Land Golem> The tower remains."
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> Your weakness disgusts me!",
+                "value": "§c<Ferrous Wroughtnaut> Your weakness disgusts me!"
+            },
+            {
+                "key": "§c<Hoar Frost> All o' that power... gone t' waste...",
+                "value": "§c<Hoar Frost> All o' that power... gone t' waste..."
+            },
+            {
+                "key": "§c<Ignis> YOU KNOW NOT OF WHAT YOU HAVE DONE!",
+                "value": "§c<Ignis> YOU KNOW NOT OF WHAT YOU HAVE DONE!"
+            },
+            {
+                "key": "§c<Netherite Monstrosity> [MISSION: FAILURE]",
+                "value": "§c<Netherite Monstrosity> [MISSION: FAILURE]"
+            },
+            {
+                "key": "§c<Frostmaw> AROOOOO!",
+                "value": "§c<Frostmaw> AROOOOO!"
+            },
+            {
+                "key": "§c<The Big One> NOOOOOOOOOO!! ME NO LOSE!",
+                "value": "§c<The Big One> NOOOOOOOOOO!! ME NO LOSE!"
+            },
+            {
+                "key": "§c<Wither> One with death... once again...",
+                "value": "§c<Wither> One with death... once again..."
+            },
+            {
+                "key": "§c<Ender Guardian> Void... claim my soul...",
+                "value": "§c<Ender Guardian> Void... claim my soul..."
+            },
+            {
+                "key": "§c<Elder Guardian> My... kingdom...",
+                "value": "§c<Elder Guardian> My... kingdom..."
+            },
+            {
+                "key": "§c<Land Golem> Crumble... as I do...",
+                "value": "§c<Land Golem> Crumble... as I do..."
+            },
+            {
+                "key": "§c<Ferrous Wroughtnaut> I wasn't... strong... enough..",
+                "value": "§c<Ferrous Wroughtnaut> I wasn't... strong... enough.."
+            },
+            {
+                "key": "§eYour healer consumes the elixir, increasing your health as well.",
+                "value": "§eYour healer consumes the elixir, increasing your health as well."
+            },
+            {
+                "key": "§eYour Skillful rune awards you ",
+                "value": "§eYour Skillful rune awards you "
+            },
+            {
+                "key": "§e Skill Points!",
+                "value": "§e Skill Points!"
+            },
+            {
+                "key": "§eCurrent Temperature: §6",
+                "value": "§eCurrent Temperature: §6"
+            },
+            {
+                "key": "§4The crystal detonated...",
+                "value": "§4The crystal detonated..."
+            },
+            {
+                "key": "§eYou fish up a §5Mega Rare Treasure Crate§e!",
+                "value": "§eYou fish up a §5Mega Rare Treasure Crate§e!"
+            },
+            {
+                "key": "§eYou fish up a §bRare Treasure Crate§e!",
+                "value": "§eYou fish up a §bRare Treasure Crate§e!"
+            },
+            {
+                "key": "§eYou fish up a §aBrewing Crate§e!",
+                "value": "§eYou fish up a §aBrewing Crate§e!"
+            },
+            {
+                "key": "§eYou fish up a §aFarming Crate§e!",
+                "value": "§eYou fish up a §aFarming Crate§e!"
+            },
+            {
+                "key": "§eYou fish up a §fCommon Treasure Crate§e!",
+                "value": "§eYou fish up a §fCommon Treasure Crate§e!"
+            },
+            {
+                "key": "§eYou fish up a §fMaterial Crate§e!",
+                "value": "§eYou fish up a §fMaterial Crate§e!"
+            },
+            {
+                "key": "§e used a resurrection stone!",
+                "value": "§e used a resurrection stone!"
+            },
+            {
+                "key": "§eYou are currently experiencing a normal temperature.",
+                "value": "§eYou are currently experiencing a normal temperature."
+            },
+            {
+                "key": "§eYou are currently experiencing moderate heat.",
+                "value": "§eYou are currently experiencing moderate heat."
+            },
+            {
+                "key": "§cHunger 10 is consuming you...",
+                "value": "§cHunger 10 is consuming you..."
+            },
+            {
+                "key": "§eYou are currently experiencing extreme heat!",
+                "value": "§eYou are currently experiencing extreme heat!"
+            },
+            {
+                "key": "§cSprinting will cause massive damage.",
+                "value": "§cSprinting will cause massive damage."
+            },
+            {
+                "key": "§eYou are currently experiencing a moderate cold.",
+                "value": "§eYou are currently experiencing a moderate cold."
+            },
+            {
+                "key": "§cYour arms grow weary with Mining Fatigue 4...",
+                "value": "§cYour arms grow weary with Mining Fatigue 4..."
+            },
+            {
+                "key": "§eYou are currently experiencing extreme frost!",
+                "value": "§eYou are currently experiencing extreme frost!"
+            },
+            {
+                "key": "§cEvery 6 seconds you have a 33% chance to become frozen for 2 seconds.",
+                "value": "§cEvery 6 seconds you have a 33% chance to become frozen for 2 seconds."
+            },
+            {
+                "key": "§cYou are dying!",
+                "value": "§cYou are dying!"
+            },
+            {
+                "key": "§eYou break open the treasure crate.",
+                "value": "§eYou break open the treasure crate."
+            },
+            {
+                "key": "§eYou break open the material crate.",
+                "value": "§eYou break open the material crate."
+            },
+            {
+                "key": "§eYou break open the brewing crate.",
+                "value": "§eYou break open the brewing crate."
+            },
+            {
+                "key": "§eYou break open the farming crate.",
+                "value": "§eYou break open the farming crate."
+            },
+            {
+                "key": " §6has set the weather to: §eRaining",
+                "value": " §6has set the weather to: §eRaining"
+            },
+            {
+                "key": " §6has set the weather to: §eClear",
+                "value": " §6has set the weather to: §eClear"
+            },
+            {
+                "key": " §6has set the weather to: §eThundering",
+                "value": " §6has set the weather to: §eThundering"
+            },
+            {
+                "key": "§eYou consume the elixir, increasing your armor by +0.5.",
+                "value": "§eYou consume the elixir, increasing your armor by +0.5."
+            },
+            {
+                "key": "§eYou consume the elixir, increasing your health.",
+                "value": "§eYou consume the elixir, increasing your health."
+            },
+            {
+                "key": "§eYou consume the elixir, increasing your luck by +0.25.",
+                "value": "§eYou consume the elixir, increasing your luck by +0.25."
+            },
+            {
+                "key": "§eYou consume the elixir, increasing your speed by +0.0025.",
+                "value": "§eYou consume the elixir, increasing your speed by +0.0025."
+            },
+            {
+                "key": "§d[Hold to check for runes!]",
+                "value": "§d[Hold to check for runes!]"
+            },
+            {
+                "key": "§7☐ Empty Rune",
+                "value": "§7☐ Empty Rune"
+            },
+            {
+                "key": "§d☒ Rune:§f Smoldering",
+                "value": "§d☒ Rune:§f Smoldering"
+            },
+            {
+                "key": "§7Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range.",
+                "value": "§7Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range."
+            },
+            {
+                "key": "§d☒ Rune:§f Glass Cannon",
+                "value": "§d☒ Rune:§f Glass Cannon"
+            },
+            {
+                "key": "§7Deal +50% additional physical damage per empty armor slot.",
+                "value": "§7Deal +50% additional physical damage per empty armor slot."
+            },
+            {
+                "key": "§d☒ Rune:§f Berserker",
+                "value": "§d☒ Rune:§f Berserker"
+            },
+            {
+                "key": "§7Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
+                "value": "§7Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities."
+            },
+            {
+                "key": "§d☒ Rune:§f Combat Medic",
+                "value": "§d☒ Rune:§f Combat Medic"
+            },
+            {
+                "key": "§7Kills apply Regeneration for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
+                "value": "§7Kills apply Regeneration for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities."
+            },
+            {
+                "key": "§d☒ Rune:§f Initiative",
+                "value": "§d☒ Rune:§f Initiative"
+            },
+            {
+                "key": "§7Attacking entities with at least 90% health deals 4x additional physical damage.",
+                "value": "§7Attacking entities with at least 90% health deals 4x additional physical damage."
+            },
+            {
+                "key": "§d☒ Rune:§f Slayer Master",
+                "value": "§d☒ Rune:§f Slayer Master"
+            },
+            {
+                "key": "§7Deal additional magic damage based on your current Slayer Task streak.",
+                "value": "§7Deal additional magic damage based on your current Slayer Task streak."
+            },
+            {
+                "key": "§d☒ Rune:§f Plague Bomb",
+                "value": "§d☒ Rune:§f Plague Bomb"
+            },
+            {
+                "key": "§7Kills apply Wither 10 for 5 seconds to all entities within 8 blocks.",
+                "value": "§7Kills apply Wither 10 for 5 seconds to all entities within 8 blocks."
+            },
+            {
+                "key": "§d☒ Rune:§f Dark Pact",
+                "value": "§d☒ Rune:§f Dark Pact"
+            },
+            {
+                "key": "§7Kills have a 20% chance to summon a friendly Vindicator to attack nearby entities for 30 seconds. Can only proc from monster entities.",
+                "value": "§7Kills have a 20% chance to summon a friendly Vindicator to attack nearby entities for 30 seconds. Can only proc from monster entities."
+            },
+            {
+                "key": "§d☒ Rune:§f Boss Ripper",
+                "value": "§d☒ Rune:§f Boss Ripper"
+            },
+            {
+                "key": "§7Deal 3x additional damage to bosses. Damage dealt is typeless and pierces defence.",
+                "value": "§7Deal 3x additional damage to bosses. Damage dealt is typeless and pierces defence."
+            },
+            {
+                "key": "§d☒ Rune:§f Death Toll",
+                "value": "§d☒ Rune:§f Death Toll"
+            },
+            {
+                "key": "§7Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
+                "value": "§7Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld."
+            },
+            {
+                "key": "§d☒ Rune:§f Metal Shell",
+                "value": "§d☒ Rune:§f Metal Shell"
+            },
+            {
+                "key": "§7Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death.",
+                "value": "§7Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death."
+            },
+            {
+                "key": "§d☒ Rune:§f Phase Shift",
+                "value": "§d☒ Rune:§f Phase Shift"
+            },
+            {
+                "key": "§7Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified.",
+                "value": "§7Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified."
+            },
+            {
+                "key": "§d☒ Rune:§f Skillful",
+                "value": "§d☒ Rune:§f Skillful"
+            },
+            {
+                "key": "§7Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities.",
+                "value": "§7Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities."
+            },
+            {
+                "key": "§d☒ Rune:§f Health Frenzy",
+                "value": "§d☒ Rune:§f Health Frenzy"
+            },
+            {
+                "key": "§7Your Health Regeneration skill heals twice as fast while this item is held.",
+                "value": "§7Your Health Regeneration skill heals twice as fast while this item is held."
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyBerserkerProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyBossRipperProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyCombatMedicProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyDarkPactProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyDeathTollProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyGlassCannonProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyHealthFrenzyProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyInitiativeProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyMetalShellProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyPhaseShiftProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyPlagueBombProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyRemovalProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplySkillfulProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplySlayerMasterProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplySmolderingProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RuneApplyRemovalProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.RunePassiveTooltipsProcedure",
+                "method": ""
+            }
+        ],
+        "pairs":[
+            {
+                "key": "§cYou cannot add the same rune to one item.",
+                "value": "§cYou cannot add the same rune to one item."
+            },
+            {
+                "key": "§cYou cannot add more than 3 runes to one item.",
+                "value": "§cYou cannot add more than 3 runes to one item."
+            },
+            {
+                "key": "§eAll runes have been removed from this item.",
+                "value": "§eAll runes have been removed from this item."
+            },
+            {
+                "key": "§cThere are no runes to remove from this item.",
+                "value": "§cThere are no runes to remove from this item."
+            },
+            {
+                "key": "§9[Hold Crouch for more details]",
+                "value": "§9[Hold Crouch for more details]"
+            },
+            {
+                "key": "§7- Effect: Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range.",
+                "value": "§7- Effect: Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range."
+            },
+            {
+                "key": "§7- Effect: Deal +50% additional physical damage per empty armor slot.",
+                "value": "§7- Effect: Deal +50% additional physical damage per empty armor slot."
+            },
+            {
+                "key": "§7- Effect: Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
+                "value": "§7- Effect: Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities."
+            },
+            {
+                "key": "§7- Effect: Kills apply Regeneration for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
+                "value": "§7- Effect: Kills apply Regeneration for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities."
+            },
+            {
+                "key": "§7- Effect: Attacking entities with at least 90% health deals 4x additional physical damage.",
+                "value": "§7- Effect: Attacking entities with at least 90% health deals 4x additional physical damage."
+            },
+            {
+                "key": "§7- Effect: Deal additional magic damage based on your current Slayer Task streak.",
+                "value": "§7- Effect: Deal additional magic damage based on your current Slayer Task streak."
+            },
+            {
+                "key": "§7- Effect: Kills apply Wither 10 for 5 seconds to all entities within 8 blocks.",
+                "value": "§7- Effect: Kills apply Wither 10 for 5 seconds to all entities within 8 blocks."
+            },
+            {
+                "key": "§7- Effect: Deal 3x additional damage to bosses. Damage dealt is typeless and pierces defence.",
+                "value": "§7- Effect: Deal 3x additional damage to bosses. Damage dealt is typeless and pierces defence."
+            },
+            {
+                "key": "§7- Effect: Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
+                "value": "§7- Effect: Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld."
+            },
+            {
+                "key": "§7- Effect: Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death.",
+                "value": "§7- Effect: Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death."
+            },
+            {
+                "key": "§7- Effect: Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified.",
+                "value": "§7- Effect: Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified."
+            },
+            {
+                "key": "§7- Effect: Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities.",
+                "value": "§7- Effect: Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities."
+            },
+            {
+                "key": "§7- Effect: Your Health Regeneration skill heals twice as fast while this item is held.",
+                "value": "§7- Effect: Your Health Regeneration skill heals twice as fast while this item is held."
+            },
+            {
+                "key": "§7- Effect: Kills have a 20% chance to summon a friendly Vindicator to attack nearby entities for 30 seconds. Can only proc from monster entities.",
+                "value": "§7- Effect: Kills have a 20% chance to summon a friendly Vindicator to attack nearby entities for 30 seconds. Can only proc from monster entities."
+            }
+        ]
+    },
+    {
+        "target_classes":[
+            {
+                "name": "net.union.infernaloriginsextras.procedures.SackGearFunctionProcedure",
+                "method": ""
+            },
+            {
+                "name": "net.union.infernaloriginsextras.procedures.ServerStartupMessageProcedure",
+                "method": ""
+            }   
+        ],
+        "pairs":[
+            {
+                "key": "You open the bag and claim its rewards!",
+                "value": "You open the bag and claim its rewards!"
+            },
+            {
+                "key": "§4-------------------- §cServer Notice §4--------------------",
+                "value": "§4-------------------- §cServer Notice §4--------------------"
+            },
+            {
+                "key": "§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.",
+                "value": "§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this."
             }
         ]
     }
