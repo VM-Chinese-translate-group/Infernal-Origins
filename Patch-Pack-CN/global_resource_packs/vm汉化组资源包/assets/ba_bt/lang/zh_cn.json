@@ -1,0 +1,16 @@
+{
+    "item.ba_bt.platinum_helmet": "\u00A7a白金骑士头盔",
+	"item.ba_bt.platinum_chestplate": "\u00A7a白金骑士胸甲",
+	"item.ba_bt.platinum_leggings": "\u00A7a白金骑士护腿",
+	"item.ba_bt.platinum_boots": "\u00A7a白金骑士靴子",
+	"item.ba_bt.platinum_sword": "\u00A7a白金骑士剑",
+	"item.ba_bt.platinum_ingot": "\u00A7a白金骑士锭",
+	"item.ba_bt.platinum_shard": "\u00A7a白金骑士碎片",
+	"item.ba_bt.monolith_key_land": "\u00A7a大地石碑之钥",
+	"item.ba_bt.guardian_eye_land": "\u00A7b大地守卫之眼",
+	"block.ba_bt.platinum_block": "\u00A7a白金骑士方块",
+	"container.ba_bt.land_golem_chest": "\u00A7f大地魔像宝箱",
+	"container.ba_bt.golem_chest_double": "\u00A7f巨型大地魔像宝箱",
+	"container.ba_bt.land_chest": "\u00A7f大地宝箱",
+	"container.ba_bt.stone_chest_double": "\u00A7f巨型大地宝箱"
+}
