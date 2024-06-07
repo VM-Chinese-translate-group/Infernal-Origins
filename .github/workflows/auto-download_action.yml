@@ -24,14 +24,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyGithub
           pip install requests
-      - name: merge main
-        run: |
-          git init
-          git fetch origin
-          git config --global user.email "1592282237@qq.com"
-          git config --global user.name "Litchiiiiiii"
-          git checkout develop 
-          git reset --hard main
+      # - name: merge main
+      #   run: |
+      #     git init
+      #     git fetch origin
+      #     git config --global user.email "1592282237@qq.com"
+      #     git config --global user.name "Litchiiiiiii"
+      #     git checkout develop 
+      #     git reset --hard main
       - name: Paratranz To zh_cn
         run: |
           python translationToGitHub.py
