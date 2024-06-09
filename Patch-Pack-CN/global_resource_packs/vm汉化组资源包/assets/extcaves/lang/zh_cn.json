@@ -1,0 +1,17 @@
+{
+	"block.extcaves.treasure_pot": "\u00A7f宝藏罐",
+	"block.extcaves.treasure_pot_short": "\u00A7f小宝藏罐",
+	"block.extcaves.treasure_pot_long": "\u00A7f宝藏双耳瓶",
+	"block.extcaves.treasure_pot_quartz_short": "\u00A7f小石英宝藏罐",
+	"block.extcaves.treasure_pot_quartz_long": "\u00A7f石英宝藏双耳瓶",
+	"item.extcaves.picker_stone": "\u00A7f石小镐",
+	"item.extcaves.picker_flint": "\u00A7f燧石小镐",
+	"item.extcaves.butcher_knife": "\u00A7a屠刀",
+	"item.extcaves.chef_knife": "\u00A7a厨刀",
+	"item.extcaves.gourmet_fork": "\u00A7a餐叉",
+	"item.extcaves.gourmet_spoon": "\u00A7a餐勺",
+	"item.extcaves.iron_dagger": "\u00A7a铁匕首",
+	"item.extcaves.rusty_sword": "\u00A7f锈剑",
+	"item.extcaves.rusty_pickaxe": "\u00A7f锈镐",
+	"item.extcaves.wooden_cane": "\u00A7f木拐杖"
+}
