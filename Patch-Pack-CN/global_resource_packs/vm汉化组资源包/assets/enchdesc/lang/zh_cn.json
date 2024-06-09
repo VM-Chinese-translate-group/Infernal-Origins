@@ -1,9 +1,7 @@
 { 
-    "_comment": "Travel Anchors Descriptions",
     "enchantment.travel_anchors.teleportation.desc": "允许附魔的物品代替旅行权杖使用。",
     "enchantment.travel_anchors.range.desc": "增加最大传送范围。",
   
-    "_comment": "ColdsEnchants",
     "enchantment.coldenchants.summoner.desc": "有概率生成一个帮助你战斗的守卫者。",
     "enchantment.coldenchants.cat_paw.desc": "苦力怕会因为恐惧远离穿戴者。",
     "enchantment.coldenchants.poison_cloud.desc": "攻击有概率生成中毒效果云，影响非玩家生物。",
@@ -23,7 +21,6 @@
     "enchantment.coldenchants.smithing.desc": "使用所有收集的经验球恢复耐久度。",
     "enchantment.coldenchants.restfull.desc": "睡醒时神清气爽，恢复所有生命值并获得一些增益。",
     
-    "_comment": "Addditional Modded Descriptions",
     "enchantment.stalwart_dungeons.thunder_strike.desc": "When applied to Stalwart Hammers, crouch + left click to summon a thunder bolt projectile, causing a thunder strike where it lands.",
     "enchantment.twist.cluster.desc": "Your Slugger shoots additional bullets.",
     "enchantment.twist.cooldown.desc": "Lowers the reload time of the Slugger.",
@@ -60,6 +57,5 @@
     "enchantment.wonderful_enchantments.magic_protection.desc": "This enchantment seems to be powerless. You should probably grindstone this for experience.",
     "enchantment.wonderful_enchantments.sixth_sense.desc": "This enchantment seems to be powerless. You should probably grindstone this for experience.",
   
-    "__comment": "JEI Compat",
     "enchdesc.jei.compatible_items.title": "兼容物品"
   }
