@@ -1,0 +1,21 @@
+{
+    "enhancedcelestials.name.blood_moon": "§c地狱之月",
+    "enhancedcelestials.name.blue_moon": "§9蓝月",
+    "enhancedcelestials.name.harvest_moon": "§a丰收之月",
+    "enhancedcelestials.name.moon": "§f普通月亮",
+    "enhancedcelestials.name.super_blood_moon": "§c超级地狱之月",
+    "enhancedcelestials.name.super_blue_moon": "§9超级蓝月",
+    "enhancedcelestials.name.super_harvest_moon": "§a超级丰收之月",
+    "enhancedcelestials.notification.blood_moon.rise": "§c“地狱之月”升起……",
+    "enhancedcelestials.notification.blood_moon.set": "§c“地狱之月”落下。",
+    "enhancedcelestials.notification.blue_moon.rise": "§9“蓝月”升起。你感到自己开始幸运起来！",
+    "enhancedcelestials.notification.blue_moon.set": "§9“蓝月”落下。",
+    "enhancedcelestials.notification.harvest_moon.rise": "§a“丰收之月”升起。你的庄稼将会有更好的收成。",
+    "enhancedcelestials.notification.harvest_moon.set": "§a“丰收之月”落下。",
+    "enhancedcelestials.notification.super_blood_moon.rise": "§c“超级地狱之月”升起……",
+    "enhancedcelestials.notification.super_blood_moon.set": "§c“超级地狱之月”落下。",
+    "enhancedcelestials.notification.super_blue_moon.rise": "§9“超级蓝月”升起。你感到自己开始幸运起来！",
+    "enhancedcelestials.notification.super_blue_moon.set": "§9“超级蓝月”落下。",
+    "enhancedcelestials.notification.super_harvest_moon.rise": "§a“超级丰收之月”升起。你的庄稼将会有更好的收成。",
+    "enhancedcelestials.notification.super_harvest_moon.set": "§a“超级丰收之月”落下。"
+  }
