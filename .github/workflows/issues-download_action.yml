@@ -61,13 +61,16 @@ jobs:
              sleep 1
              gh pr merge develop --merge
              git checkout main
-             git branch -D develop || echo 'develop branch already deleted'
+             git branch -D develop
+             git push origin --delete develop
            else
              echo '译文未更改'
+             git branch -D develop
+             git push origin --delete develop
            fi
   close-issue:
     name: Close Issue
-    needs: check-issue
+    needs: Translation-To-GitHub
     runs-on: ubuntu-latest
     steps:
       - name: Close Issue
