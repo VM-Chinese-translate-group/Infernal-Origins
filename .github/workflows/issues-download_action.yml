@@ -51,7 +51,7 @@ jobs:
         run: |
            git config --global pull.rebase false
            git add .
-           if [[ -n $(git diff --stat)  ]]
+           if [[ -n $(git status -s)  ]]
            then
              echo '译文更改'
              git diff --quiet || git commit -m 'paratranz上传'
