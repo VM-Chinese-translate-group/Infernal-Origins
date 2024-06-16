@@ -65,7 +65,9 @@ jobs:
              git push origin --delete develop
            else
              echo '译文未更改'
+             git checkout main
              git branch -D develop
+             git worktree
              git push origin --delete develop
            fi
   close-issue:
