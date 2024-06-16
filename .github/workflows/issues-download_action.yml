@@ -8,7 +8,7 @@ jobs:
     name: Check Issue
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.1.7
       - name: issue check
         run: |
           echo "检测成功："${{github.event.issue.labels.*.name}}
@@ -24,7 +24,7 @@ jobs:
       PROJECT_ID: ${{vars.ID}}
       GIT_PATH: ${{vars.G_PATH}}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.1.7
       - name: Set up Python 3.9
         uses: actions/setup-python@v3
         with:
@@ -72,7 +72,7 @@ jobs:
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.3.3
         with:
-          name: 'Infernal Origins汉化包-VM汉化组'
+          name: Infernal Origins汉化包-VM汉化组.zip
           path: ./Patch-Pack-CN
   close-issue:
     name: Close Issue
