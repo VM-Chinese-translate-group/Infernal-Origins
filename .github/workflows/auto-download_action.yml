@@ -28,6 +28,8 @@ jobs:
         run: |
           git init
           git fetch origin
+          git branch develop
+          git push -u origin develop
           git config --global user.email "1592282237@qq.com"
           git config --global user.name "Litchiiiiiii"
           git branch develop
