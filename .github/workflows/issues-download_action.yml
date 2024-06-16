@@ -69,6 +69,11 @@ jobs:
              git branch -D develop
              git push origin --delete develop
            fi
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4.3.3
+        with:
+          name: 'Infernal Origins汉化包-VM汉化组'
+          path: ./Patch-Pack-CN
   close-issue:
     name: Close Issue
     needs: Translation-To-GitHub
