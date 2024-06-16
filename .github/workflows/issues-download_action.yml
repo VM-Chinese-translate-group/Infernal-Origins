@@ -2,7 +2,8 @@ name: Translation To GitHub
 on:
   issues:
     types: [opened]
-
+permissions:
+   pull-requests: write
 jobs:
   check-issue:
     if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github')
