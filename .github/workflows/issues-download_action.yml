@@ -2,9 +2,6 @@ name: Translation To GitHub
 on:
   issues:
     types: [opened]
-permissions:
-   contents: write
-   pull-requests: write
 jobs:
   check-issue:
     if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github')
@@ -43,25 +40,24 @@ jobs:
           git fetch origin
           git config --global user.email "1592282237@qq.com"
           git config --global user.name "Litchiiiiiii"
-          git branch develop
-          git push -u origin develop
-          git checkout develop 
+          git branch feature-branch
+          git push -u origin feature-branch
+          git checkout feature-branch 
           git reset --hard main
       - name: Paratranz To zh_cn
         run: |
           python translationToGitHub.py
-      - name: Upload To Develop
+      - name: Upload To feature-branch
         run: |
           git config --global pull.rebase false
           git add .
           git commit -m 'paratranz上传'
-          git pull origin develop --allow-unrelated-histories
-          git push -u origin develop
-      - name: AutoPR
-        run: |
-          gh pr create --title 'paratranz上传' --body 'paratranz上传' 
-          sleep 1 
-          gh pr merge feature-branch --merge 
+          git pull origin feature-branch --allow-unrelated-histories
+          git push -u origin feature-branch
+      - name: Do AutoPR
+        uses: tejasmr/do-autopr@v1.0
+        with:
+            message: '自动上传译文'
   close-issue:
     name: Close Issue
     needs: check-issue
