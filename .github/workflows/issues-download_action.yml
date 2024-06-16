@@ -72,7 +72,7 @@ jobs:
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.3.3
         with:
-          name: Infernal Origins汉化包-VM汉化组.zip
+          name: Infernal-Origins汉化包-VM汉化组
           path: ${{ github.workspace }}/Patch-Pack-CN
   close-issue:
     name: Close Issue
