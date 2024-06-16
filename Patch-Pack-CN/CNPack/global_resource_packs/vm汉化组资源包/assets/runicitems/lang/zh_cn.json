@@ -13,10 +13,10 @@
     "item.runicitems.stone_tablet":"§5生死之密§r",
     "item.runicitems.warrior_boots":"§5勇士之靴",
     "item.runicitems.wizard_boots":"§b法师之靴",
-    "tooltip.runicitems.archer_boots":"",
-    "tooltip.runicitems.eagle_boots":"",
-    "tooltip.runicitems.fighter_boots":"",
-    "tooltip.runicitems.sorcerer_boots":"",
-    "tooltip.runicitems.warrior_boots":"",
-    "tooltip.runicitems.wizard_boots":""
+    "tooltip.runicitems.archer_boots":"§7Increases Projectile Damage§r",
+    "tooltip.runicitems.eagle_boots":"§7Greatly Increases Projectile Damage§r",
+    "tooltip.runicitems.fighter_boots":"§7Increases Melee Damage§r",
+    "tooltip.runicitems.sorcerer_boots":"§7Greatly Increases Magic Damage§r",
+    "tooltip.runicitems.warrior_boots":"§7Greatly Increases Melee Damage§r",
+    "tooltip.runicitems.wizard_boots":"§7Increases Magic Damage§r"
 }
