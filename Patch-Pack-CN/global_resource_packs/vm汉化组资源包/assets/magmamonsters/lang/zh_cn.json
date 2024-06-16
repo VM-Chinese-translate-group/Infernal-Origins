@@ -1,7 +1,7 @@
 {
     "_comment":"Entities",
     "entity.magma_monsters.magma_monster":"岩浆怪兽",
-    "entity.magma_monsters.magma_monster_grunt":"小型岩浆怪兽",
+    "entity.magma_monsters.magma_monster_grunt":"岩浆怪兽：咕哝",
     "item.magma_monsters.magma_monster_grunt_spawn_egg":"小型岩浆怪兽刷怪蛋",
     "item.magma_monsters.magma_monster_spawn_egg":"岩浆怪兽刷怪蛋",
     "itemGroup.magma_monsters":"岩浆怪兽"
