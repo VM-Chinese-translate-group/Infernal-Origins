@@ -30,6 +30,7 @@ jobs:
           git fetch origin
           git config --global user.email "1592282237@qq.com"
           git config --global user.name "Litchiiiiiii"
+          git branch develop
           git checkout develop 
           git reset --hard main
       - name: Paratranz To zh_cn
@@ -42,3 +43,10 @@ jobs:
           git commit -m 'paratranz上传'
           git pull origin develop --allow-unrelated-histories
           git push -u origin develop
+      - name: AutoPR
+        run: |
+           gh pr create --title 'paratranz上传' --body '自动PR'
+           sleep 1
+           gh pr merge develop --merge
+           git checkout main
+           git branch -D develop || echo 'develop branch already deleted'
