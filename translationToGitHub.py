@@ -22,7 +22,7 @@ def translate(id):
     transilationJson = urlRequests.json()
     for i in transilationJson:
         key.append(i["key"])
-        if i["translation"] == "" and (i["stage"]== 0 || i["stage"] == -1):
+        if i["translation"] == "" and (i["stage"]== 0 or i["stage"] == -1):
             value.append(i["original"])
         else:
             value.append(i["translation"])
