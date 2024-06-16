@@ -73,7 +73,7 @@ jobs:
         uses: actions/upload-artifact@v4.3.3
         with:
           name: Infernal Origins汉化包-VM汉化组.zip
-          path: ./Patch-Pack-CN
+          path: ${{ github.workspace }}/Patch-Pack-CN
   close-issue:
     name: Close Issue
     needs: Translation-To-GitHub
