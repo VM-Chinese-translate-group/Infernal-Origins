@@ -288,11 +288,11 @@
 			},
 			{
 				"key":"§7- Right click while holding any weapon or",
-				"value":"§7-主手持武器或工具"
+				"value":"§7-主手持武器或工具右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7tool in your main hand to attempt to roll",
-				"value":"§7右击以尝试叠加一级"
+				"value":""
 			},
 			{
 				"key":"§7a level of this scroll's curse.",
@@ -300,7 +300,7 @@
 			},
 			{
 				"key":"§7- Scroll of the Magician deals +2.5% magic",
-				"value":"§7-魔法师卷轴每级+2.5%魔法7伤害，至多15级。"
+				"value":"§7-魔法师卷轴每级+2.5%魔法伤害，至多15级。"
 			},
 			{
 				"key":"§7damage per level, capping at level 15.",
@@ -662,6 +662,14 @@
 			},
 			{
 				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll12Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll20Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll20Item$ItemCustom",
 				"method":""
 			}
 		],
