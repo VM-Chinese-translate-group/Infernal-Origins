@@ -55,10 +55,11 @@ jobs:
           git commit -m 'paratranz上传'
           git pull origin develop --allow-unrelated-histories
           git push -u origin develop
-      - name: Do AutoPR
-        uses: tejasmr/do-autopr@v1.0
-        with:
-          message: '自动上传译文'                    
+      - name: AutoPR
+        run: |
+          gh pr create --title 'paratranz上传' --body 'paratranz上传' 
+          sleep 1 
+          gh pr merge feature-branch --merge 
   close-issue:
     name: Close Issue
     needs: check-issue
