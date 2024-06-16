@@ -56,7 +56,7 @@ jobs:
            git push -u origin develop
       - name: AutoPR
         run: |
-           gh pr create --title 'paratranz上传' --body 'paratranz上传'
+           gh pr create --title 'paratranz上传' --body '自动PR'
            sleep 1
            gh pr merge develop --merge
            git checkout main
