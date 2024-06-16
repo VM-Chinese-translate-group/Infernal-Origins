@@ -59,3 +59,8 @@ jobs:
              git branch -D develop
              git push origin --delete develop
            fi
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4.3.3
+        with:
+          name: CNPack
+          path: ${{ github.workspace }}/Patch-Pack-CN/CNPack

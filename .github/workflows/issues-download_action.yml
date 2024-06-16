@@ -73,7 +73,7 @@ jobs:
         uses: actions/upload-artifact@v4.3.3
         with:
           name: CNPack
-          path: ${{ github.workspace }}/Patch-Pack-CN
+          path: ${{ github.workspace }}/Patch-Pack-CN/CNPack
   close-issue:
     name: Close Issue
     needs: Translation-To-GitHub

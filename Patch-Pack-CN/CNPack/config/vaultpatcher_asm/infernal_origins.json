@@ -1,6 +1,6 @@
 [
 	{
-		"name":"VM汉化组infernal origins Mod汉化包",
+		"name":"VM汉化组汉化包",
 		"desc":"infernal origins 硬编码汉化",
 		"mods":"infernal-origins-extras-v1.0.0-EXP1359",
 		"authors":"Litchiiiiiii",
@@ -724,7 +724,7 @@
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Fall to the throne's guard!",
-				"value":"§c<Ferrous Wroughtnaut> Fall to the throne's guard!"
+				"value":"§c<钢铁守护者> 臣服于王位的护卫之下！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Ha! Weakling!",
@@ -778,7 +778,7 @@
 			},
 			{
 				"key":"§c<Ignis> Feed my blade!",
-				"value":"§c<Ignis> Feed my blade!"
+				"value":"§c<焰魔> 吃我一剑！"
 			},
 			{
 				"key":"§4Ignis has become enraged!",
@@ -990,87 +990,87 @@
 		"pairs":[
 			{
 				"key":"§c<The Big One> TINY CREATURE HIT ME??",
-				"value":"§c<The Big One> TINY CREATURE HIT ME??"
+				"value":"§c<大块头> 小小生物竟敢打我？"
 			},
 			{
 				"key":"§c<The Big One> SO SMALL HAHA!",
-				"value":"§c<The Big One> SO SMALL HAHA!"
+				"value":"§c<大块头> 太小了！哈哈哈！"
 			},
 			{
 				"key":"§c<The Big One> GRAAAAAAAHH",
-				"value":"§c<The Big One> GRAAAAAAAHH"
+				"value":"§c<大块头> 啊啊啊——！！"
 			},
 			{
 				"key":"§c<The Big One> ME CRUSH TINY CREATURE!",
-				"value":"§c<The Big One> ME CRUSH TINY CREATURE!"
+				"value":"§c<大块头> 我会碾碎你这些小生物！"
 			},
 			{
 				"key":"§c<The Big One> ANT BITE ME HAHA!",
-				"value":"§c<The Big One> ANT BITE ME HAHA!"
+				"value":"§c<大块头> 蚂蚁在咬我哈哈！"
 			},
 			{
 				"key":"§c<The Big One> AAAAAGGH",
-				"value":"§c<The Big One> AAAAAGGH"
+				"value":"§c<大块头> 啊啊——！"
 			},
 			{
 				"key":"§4The Big One has become enraged!",
-				"value":"§4The Big One has become enraged!"
+				"value":"§4大块头已被激怒！"
 			},
 			{
 				"key":"§c<The Big One> SMALL THING STRONG??",
-				"value":"§c<The Big One> SMALL THING STRONG??"
+				"value":"§c<大块头> 小垃圾，强？"
 			},
 			{
 				"key":"§c<The Big One> ME HATE TINY CREATURE!",
-				"value":"§c<The Big One> ME HATE TINY CREATURE!"
+				"value":"§c<大块头> 我讨厌微小的生物！"
 			},
 			{
 				"key":"§c<The Big One> FIGHT NO FAIR!",
-				"value":"§c<The Big One> FIGHT NO FAIR!"
+				"value":"§c<大块头> 这不是一场公平的战斗！"
 			},
 			{
 				"key":"§c<The Big One> TINY CREATURE GO UP!",
-				"value":"§c<The Big One> TINY CREATURE GO UP!"
+				"value":"§c<大块头> 小东西继续啊！"
 			},
 			{
 				"key":"§c<The Big One> UP UP!",
-				"value":"§c<The Big One> UP UP!"
+				"value":"§c<大块头> 来啊！来啊！"
 			},
 			{
 				"key":"§c<The Big One> HAHAHA WEE!",
-				"value":"§c<The Big One> HAHAHA WEE!"
+				"value":"§c<大块头> 哈哈哈！呼！"
 			},
 			{
 				"key":"§c<The Big One> FE!",
-				"value":"§c<The Big One> FE!"
+				"value":"§c<大块头> 嘿！"
 			},
 			{
 				"key":"§c<The Big One> FI!",
-				"value":"§c<The Big One> FI!"
+				"value":"§c<大块头> 哎！"
 			},
 			{
 				"key":"§c<The Big One> FO!",
-				"value":"§c<The Big One> FO!"
+				"value":"§c<大块头> 嚯！"
 			},
 			{
 				"key":"§c<The Big One> FUM!",
-				"value":"§c<The Big One> FUM!"
+				"value":"§c<大块头> 吼！"
 			},
 			{
 				"key":"§c<The Big One> HAHAHA!",
-				"value":"§c<The Big One> HAHAHA!"
+				"value":"§c<大块头> 哈哈哈！"
 			},
 			{
 				"key":"§c<The Big One> C'MERE TASTY!",
-				"value":"§c<The Big One> C'MERE TASTY!"
+				"value":"§c<大块头> 快来这儿，可口的食物！"
 			},
 			{
 				"key":"§c<The Big One> SO HUNGRY!",
-				"value":"§c<The Big One> SO HUNGRY!"
+				"value":"§c<大块头> 我好饿！"
 			},
 			{
 				"key":"The Big One",
-				"value":"The Big One"
+				"value":"大块头"
 			},
 			{
 				"key":"Magma Monster",
@@ -1078,7 +1078,7 @@
 			},
 			{
 				"key":"Magma Monster Grunt",
-				"value":"Magma Monster Grunt"
+				"value":"岩浆怪兽小兵"
 			}
 		]
 	},
@@ -1092,7 +1092,7 @@
 		"pairs":[
 			{
 				"key":"§c<Land Golem> Finally, a challenge!",
-				"value":"§c<Land Golem> Finally, a challenge!"
+				"value":"§c<大地傀儡>终于来了，一个挑战！"
 			},
 			{
 				"key":"§c<Land Golem> You dare challenge me!?",
@@ -1438,7 +1438,7 @@
 			},
 			{
 				"key":"§4You were hit by the bomb from ",
-				"value":"§4You were hit by the bomb from "
+				"value":"§4你被炸弹击中了，它来自"
 			},
 			{
 				"key":"§c<Hoar Frost> Fair winds t' ye in Davy Jones' locker! Hahaha!",
@@ -1458,7 +1458,7 @@
 			},
 			{
 				"key":"§c<The Big One> SCAREDY CAT! HAHAHA!",
-				"value":"§c<The Big One> SCAREDY CAT! HAHAHA!"
+				"value":"§c<大块头> 胆小猫！哈哈哈！"
 			},
 			{
 				"key":"§c<Wither> Pity.",
@@ -1498,7 +1498,7 @@
 			},
 			{
 				"key":"§c<The Big One> NOOOOOOOOOO!! ME NO LOSE!",
-				"value":"§c<The Big One> NOOOOOOOOOO!! ME NO LOSE!"
+				"value":"§c<大块头> 不！！！！！！！！我从不会输！"
 			},
 			{
 				"key":"§c<Wither> One with death... once again...",
@@ -1662,7 +1662,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Smoldering",
-				"value":"§d☒ Rune:§f Smoldering"
+				"value":"§d☒符文：§f暗火"
 			},
 			{
 				"key":"§7Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range.",
@@ -1674,7 +1674,7 @@
 			},
 			{
 				"key":"§7Deal +50% additional physical damage per empty armor slot.",
-				"value":"§7Deal +50% additional physical damage per empty armor slot."
+				"value":"§7每有一个空的装备槽，造成的物理伤害额外+50%。"
 			},
 			{
 				"key":"§d☒ Rune:§f Berserker",
@@ -1694,7 +1694,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Initiative",
-				"value":"§d☒ Rune:§f Initiative"
+				"value":"§d☒ 符文:§f 先发制人"
 			},
 			{
 				"key":"§7Attacking entities with at least 90% health deals 4x additional physical damage.",
@@ -1734,11 +1734,11 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Death Toll",
-				"value":"§d☒ Rune:§f Death Toll"
+				"value":"§d☒ 符文:§f 死亡通行证"
 			},
 			{
 				"key":"§7Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
-				"value":"§7Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld."
+				"value":"§7持有此物品时受到致命伤害时将记录您的位置。死亡后，你将被传送到受到致命伤害时的地方。只在主世界生效。"
 			},
 			{
 				"key":"§d☒ Rune:§f Metal Shell",
@@ -1746,7 +1746,7 @@
 			},
 			{
 				"key":"§7Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death.",
-				"value":"§7Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death."
+				"value":"§7击杀增强你的防御，获得持续一分钟的随机数值护甲。获得的护甲在6到24之间不等。护甲值在额外的击杀时重置，在死亡后移除。"
 			},
 			{
 				"key":"§d☒ Rune:§f Phase Shift",
@@ -1766,7 +1766,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Health Frenzy",
-				"value":"§d☒ Rune:§f Health Frenzy"
+				"value":"§d☒符文：§f生命狂热"
 			},
 			{
 				"key":"§7Your Health Regeneration skill heals twice as fast while this item is held.",
@@ -1872,7 +1872,7 @@
 			},
 			{
 				"key":"§7- Effect: Deal +50% additional physical damage per empty armor slot.",
-				"value":"§7- Effect: Deal +50% additional physical damage per empty armor slot."
+				"value":"§7- 效果：每有一个空装备槽，造成的物理伤害额外+50%。"
 			},
 			{
 				"key":"§7- Effect: Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
@@ -1900,11 +1900,11 @@
 			},
 			{
 				"key":"§7- Effect: Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
-				"value":"§7- Effect: Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld."
+				"value":"§7-效果：持有此物品时受到致命伤害时记录你的位置。死亡后，你将被传送回受到致命伤害的地方。仅在主世界生效。"
 			},
 			{
 				"key":"§7- Effect: Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death.",
-				"value":"§7- Effect: Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death."
+				"value":"§7-效果：击杀会增强你的防御力，让你获得持续1分钟的随机护甲值。获得的护甲值在6到24之间不等。护甲值在额外的击杀时重置，在死亡后移除。"
 			},
 			{
 				"key":"§7- Effect: Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified.",
@@ -1946,7 +1946,7 @@
 			},
 			{
 				"key":"§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.",
-				"value":"§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this."
+				"value":"§cIf在局域网或基础服务器上游玩时，你可能会在§eOwlkin§c和§eVoid Wyvern§c上不断被踢出服务器。其他起源也可能被踢出服务器，但不会那么频繁。如果你在专用服务器上游玩，踢出不会发生，你可以忽略这个提示。"
 			}
 		]
 	}
