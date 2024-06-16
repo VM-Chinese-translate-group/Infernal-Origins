@@ -5,7 +5,7 @@
     "commands.wings.take.failed":"目标没有翅膀可移除",
     "commands.wings.take.success.multiple":"已从%s个目标移除翅膀",
     "commands.wings.take.success.single":"已从%s移除翅膀",
-    "effect.wings.wings":"飞翔",
+    "effect.wings.wings":"翅膀",
     "item.wings.angel_wings_bottle":"天使之翼瓶",
     "item.wings.bat_blood_bottle":"蝙蝠血瓶",
     "item.wings.bat_wings_bottle":"蝙蝠之翅瓶",

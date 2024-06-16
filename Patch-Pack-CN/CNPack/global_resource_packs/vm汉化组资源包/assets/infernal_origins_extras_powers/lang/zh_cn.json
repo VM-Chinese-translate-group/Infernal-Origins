@@ -61,7 +61,7 @@
     "class-tank-passive.name":"§e§n重装职业",
     "class-utility-passive.description":"§2➠职业被动效果：§7方块交互和攻击距离+2，使用的所有诅咒卷轴的成功几率+10%。该职业身高1.6格，比正常职业要矮得多。",
     "class-utility-passive.name":"§e§n综合职业",
-    "dragonknight-passive-damage-aura.description":"§3➠被动效果：§720格内的实体被击中时，会额外受到最多+100%的魔法伤害。击中后失效，1秒后重新生效。",
+    "dragonknight-passive-damage-aura.description":"§3➠被动效果：§720格内的实体被击中时，会额外受到最多+100%的魔法伤害。触发后失效，1秒后重新生效。",
     "dragonknight-passive-damage-aura.name":"§b§n龙之光环",
     "dragonknight-passive-heal-buff.description":"§3➠被动效果：§7受到1点及以上的伤害时，获得1层灼烧效果，持续10秒，最高10层。每层灼烧会让作用于自身，并且治疗量大于1点生命值的治疗效果+10%。",
     "dragonknight-passive-heal-buff.name":"§b§n创伤灼烧",
