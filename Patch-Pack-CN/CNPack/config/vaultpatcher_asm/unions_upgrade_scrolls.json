@@ -1,6 +1,6 @@
 [
 	{
-		"name":"VM汉化组汉化包",
+		"name":"unions-upgrade-scrolls",
 		"desc":"unions upgrade scrolls硬编码汉化",
 		"mods":"unions-upgrade-scrolls-v1.0.9.4-NoDamiFix",
 		"authors":"Litchiiiiiii",
@@ -14,6 +14,14 @@
 			},
 			{
 				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll0Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item$ItemCustom",
 				"method":""
 			},
 			{
@@ -54,54 +62,6 @@
 			},
 			{
 				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll1Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll14Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll14Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll15Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll15Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll16Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll16Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll17Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll17Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll18Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll18Item$ItemCustom",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll19Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll19Item$ItemCustom",
 				"method":""
 			},
 			{
@@ -175,48 +135,36 @@
 			{
 				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll8Item$ItemCustom",
 				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item",
-				"method":""
-			},
-			{
-				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item$ItemCustom",
-				"method":""
 			}
 		],
 		"pairs":[
 			{
 				"key":"§7- Right click while wearing any helmet",
-				"value":"§7-装备头盔时右击"
+				"value":"§7-装备头盔时右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7- Right click while holding any shield",
-				"value":"§7-主手持盾时右击"
+				"value":"§7-主手持盾时右击以随机更换词缀。"
 			},
 			{
 				"key":"§7- Right click while wearing any boots to",
-				"value":"§7-装备靴子时右击以"
-			},
-			{
-				"key":"§7- Right click while wearing any boots to",
-				"value":"§7-装备靴子时右击以"
+				"value":"§7-装备靴子时右击以随机更换词缀。"
 			},
 			{
 				"key":"§7- Right click while wearing any leggings to",
-				"value":"§7-装备护腿时右击以"
+				"value":"§7-装备护腿时右击以随机更换词缀。"
 			},
 			{
 				"key":"§7- Right click while wearing any helmet to",
-				"value":"§7-装备头盔时右击以"
+				"value":"§7-装备头盔时右击以随机更换词缀。"
 			},
 			{
 				"key":"§7- Right click while wearing any chestplate to",
-				"value":"§7-装备胸甲时右击以"
+				"value":"§7-装备胸甲时右击以随机更换词缀。"
 			},
 			{
 				"key":"§7roll a random affix.",
-				"value":"§7随机更换词缀。"
+				"value":""
 			},
 			{
 				"key":"§f* 30% Junk",
@@ -244,75 +192,67 @@
 			},
 			{
 				"key":"§0* ?% ???",
-				"value":"§0* ？%？？？"
+				"value":"§0* ?%？？？"
 			},
 			{
 				"key":"§7in your main hand to roll a random affix.",
-				"value":"§7以随机更换词缀。"
+				"value":""
 			},
 			{
 				"key":"§7- Affixes add additional stats and attributes",
-				"value":"§7-词缀可为物品添加额外的参数"
+				"value":"§7-词缀可为物品添加额外的参数和属性。"
 			},
 			{
 				"key":"§7to your items.",
-				"value":"§7和属性。"
+				"value":""
 			},
 			{
 				"key":"§7- Scroll of the Berserker deals +2.5% physical",
-				"value":"§7-狂战士卷轴每级+2.5%物理"
+				"value":"§7-狂战士卷轴每级+2.5%物理伤害，至多15级。"
 			},
 			{
 				"key":"§7- Right click to cause your next Cursed Scroll",
-				"value":"§7-右击使下一个诅咒卷轴"
+				"value":"§7-右击使下一个诅咒卷轴不会摧毁你的物品。"
 			},
 			{
 				"key":"§7fail to prevent destroying your item.",
-				"value":"§7不能阻止你的物品被破坏。"
+				"value":""
 			},
 			{
 				"key":"§7- If the item has a Golden Scroll applied it will",
-				"value":"§7-如果一个物品使用了金卷轴，在"
+				"value":"§7-如果该物品使用了金卷轴，在强化失败后就不会失去它的星标。"
 			},
 			{
 				"key":"§7prevent it's stars from resetting on fail instead.",
-				"value":"§7强化失败后就不会失去它的星标。"
-			},
-			{
-				"key":"§7- Right click to inscribe this scroll with a",
-				"value":"§7-右击在此卷轴上题写一个"
+				"value":""
 			},
 			{
 				"key":"§7random unbreakable spell that can empower",
-				"value":"§7随机的无法破坏咒语，"
+				"value":""
 			},
 			{
 				"key":"§7random powerful spell that can empower",
-				"value":"§7随机的强大的咒语，"
+				"value":""
 			},
 			{
 				"key":"§7your gear.",
-				"value":"§7将为你的装备赋予力量。"
+				"value":""
 			},
 			{
 				"key":"§7- Right click while wearing any chestplate",
-				"value":"§7-装备胸甲时右击"
+				"value":"§7-装备胸甲时右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7to attempt to roll a level of this",
-				"value":"§7以尝试叠加一级此"
+				"value":""
 			},
 			{
 				"key":"§7scroll's curse.",
-				"value":"§7卷轴的咒语。"
-			},
-			{
-				"key":"§7- Scroll of the Guardian adds +0.5 armor",
-				"value":"§7-守卫者卷轴每级+0.5%"
+				"value":""
 			},
 			{
 				"key":"§7per level, capping at level 15.",
-				"value":"§7护甲值，至多15级。"
+				"value":""
 			},
 			{
 				"key":"§7- Roll chances include:",
@@ -328,23 +268,23 @@
 			},
 			{
 				"key":"§7- Right click while wearing any leggings",
-				"value":"§7-装备护腿时右击"
+				"value":"§7-装备护腿时右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7- Right click while wearing any boots",
-				"value":"§7-装备靴子时右击"
+				"value":"§7-装备靴子时右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7- Right click while holding any shield in your",
-				"value":"§7-主手持盾时右击"
+				"value":"§7-主手持盾时右击以尝试叠加一级此卷轴的咒语。"
 			},
 			{
 				"key":"§7toughness per level, capping at level 15.",
-				"value":"§7盔甲韧性，至多15级。"
+				"value":""
 			},
 			{
 				"key":"§7main hand to attempt to roll a level of this",
-				"value":"§7以尝试叠加一级此"
+				"value":""
 			},
 			{
 				"key":"§7- Right click while holding any weapon or",
@@ -356,55 +296,15 @@
 			},
 			{
 				"key":"§7a level of this scroll's curse.",
-				"value":"§7此卷轴的咒语。"
+				"value":""
 			},
 			{
 				"key":"§7- Scroll of the Magician deals +2.5% magic",
-				"value":"§7-魔法师卷轴每级+2.5%魔法"
+				"value":"§7-魔法师卷轴每级+2.5%魔法7伤害，至多15级。"
 			},
 			{
 				"key":"§7damage per level, capping at level 15.",
-				"value":"§7伤害，至多15级。"
-			},
-			{
-				"key":"§7- Right click while holding any weapon or tool",
-				"value":"§7-主手持武器或工具右击"
-			},
-			{
-				"key":"§7in your main hand to make it unbreakable.",
-				"value":"§7以使其无法破坏。"
-			},
-			{
-				"key":"§7- Unbreakable prevents your items from being",
-				"value":"§7-无法破坏可以防止你的物品"
-			},
-			{
-				"key":"§7destroyed by scrolls or durability loss.",
-				"value":"§7被卷轴摧毁或耗尽耐久。"
-			},
-			{
-				"key":"§7main hand to make it unbreakable.",
-				"value":"§7以使其无法被破坏。"
-			},
-			{
-				"key":"§7it unbreakable.",
-				"value":"§7无法破坏。"
-			},
-			{
-				"key":"§7- Right click while wearing any helmet to make",
-				"value":"§7-装备头盔时右击以使其"
-			},
-			{
-				"key":"§7- Right click while wearing any chestplate to make",
-				"value":"§7-装备胸甲时右击以使其"
-			},
-			{
-				"key":"§7- Right click while wearing any leggings to make",
-				"value":"§7-装备护腿时右击以使其"
-			},
-			{
-				"key":"§7- Right click while wearing any boots to make",
-				"value":"§7-装备靴子时右击以使其"
+				"value":""
 			}
 		]
 	},
@@ -594,7 +494,7 @@
 			},
 			{
 				"key":" §e has perfected their ",
-				"value":"§e has perfected their "
+				"value":" §e得到了完美的"
 			},
 			{
 				"key":"§e at Berserker +",
@@ -606,7 +506,7 @@
 			},
 			{
 				"key":"§eYour Golden Scroll saved your item from blowing up!",
-				"value":"§e金卷轴避免了你的物品爆炸！"
+				"value":"§e金卷轴避免了你的物品被摧毁！"
 			},
 			{
 				"key":"§aYour Holy Scroll prevented your item's stars resetting!",
@@ -626,7 +526,7 @@
 			},
 			{
 				"key":"§aYour Holy Scroll saved your item from blowing up!",
-				"value":"§e神圣卷轴避免了你的物品爆炸！"
+				"value":"§e神圣卷轴避免了你的物品被摧毁！"
 			},
 			{
 				"key":"§cYou can't combine Berserker and Magician scrolls on one item.",
@@ -679,6 +579,186 @@
 			{
 				"key":"§c has blown up their ",
 				"value":"§c摧毁了Ta的"
+			}
+		]
+	},
+	{
+		"target_classes":[
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll14Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll14Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll15Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll15Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll16Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll16Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll17Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll17Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll18Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll18Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll19Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll19Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll9Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll10Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll10Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll11Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll11Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll12Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll12Item$ItemCustom",
+				"method":""
+			}
+		],
+		"pairs":[
+			{
+				"key":"§7- Right click while holding any weapon or tool",
+				"value":"§7-主手持武器或工具右击以使其无法破坏。"
+			},
+			{
+				"key":"§7- Right click while holding any shield in your",
+				"value":"§7-主手持盾时右击以使其无法被破坏。"
+			},
+			{
+				"key":"§7- Right click while wearing any helmet to make",
+				"value":"§7-装备头盔时右击以使其无法破坏。"
+			},
+			{
+				"key":"§7- Right click while wearing any chestplate to make",
+				"value":"§7-装备胸甲时右击以使其无法破坏。"
+			},
+			{
+				"key":"§7- Right click while wearing any leggings to make",
+				"value":"§7-装备护腿时右击以使其无法破坏。"
+			},
+			{
+				"key":"§7- Right click while wearing any boots to make",
+				"value":"§7-装备靴子时右击以使其无法破坏。"
+			},
+			{
+				"key":"§7in your main hand to make it unbreakable.",
+				"value":""
+			},
+			{
+				"key":"§7- Unbreakable prevents your items from being",
+				"value":"§7-无法破坏可以防止你的物品被卷轴摧毁或耗尽耐久。"
+			},
+			{
+				"key":"§7destroyed by scrolls or durability loss.",
+				"value":""
+			},
+			{
+				"key":"§7it unbreakable.",
+				"value":""
+			},
+			{
+				"key":"§7main hand to make it unbreakable.",
+				"value":""
+			},
+			{
+				"key":"§7- Right click to inscribe this scroll with a",
+				"value":"§7-右击在此卷轴上题写一个随机的无法破坏咒语，将为你的装备赋予力量。"
+			},
+			{
+				"key":"§7- Scroll of the Guardian adds +0.5 armor",
+				"value":"§7-守卫者卷轴每级+0.5%护甲值，至多15级。"
+			}
+		]
+	},
+	{
+		"target_classes":[
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll3Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll3Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll0Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll0Item$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll13Item",
+				"method":""
+			},
+			{
+				"name":"net.union.unionsupgradescrolls.item.UpgradeScroll13Item$ItemCustom",
+				"method":""
+			}
+		],
+		"pairs":[
+			{
+				"key":"§7- Right click while holding any weapon or tool",
+				"value":"§7-主手持武器或工具右击以随机更换词缀。"
+			},
+			{
+				"key":"§7- Right click to inscribe this scroll with a",
+				"value":"§7-右击在此卷轴上题写一个随机的强大的咒语，将为你的装备赋予力量。"
+			},
+			{
+				"key":"§7- Scroll of the Guardian adds +0.5 armor",
+				"value":"§7-守卫者卷轴每级+0.5%盔甲韧性，至多15级。"
 			}
 		]
 	}
