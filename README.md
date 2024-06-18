@@ -1,8 +1,8 @@
 # Infernal Origins简体中文翻译
 
-整合包下载地址|加载器|整合包版本|MC版本|状态
-:-|:-|:-|:-|:-
-[下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|v2.0.0-Patch 2|1.16.5|*翻译中*|
+整合包下载地址|加载器|整合包版本|MC版本|状态|汉化教程
+:-|:-|:-|:-|:-|:-
+[下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|v2.0.0-Patch 2|1.16.5|*翻译中*|[点我跳转](#1)|
 
 ---
 这是一个极具挑战性的整合包，从MMO游戏玩法中汲取了大量灵感。这里有大量的自定义起源、具有突袭机制的 Boss 和快节奏。当然，还有大量专门为这个包定制的内容，你在其他任何地方都找不到。
@@ -84,3 +84,7 @@
 * 龙降落：X键
 * 龙击：B键
 * 龙息：V键
+
+<p id="1"></p>
+
+## 汉化教程
