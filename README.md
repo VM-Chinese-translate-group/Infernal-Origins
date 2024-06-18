@@ -2,7 +2,7 @@
 
 整合包下载地址|加载器|整合包版本|状态
 :-|:-|:-|:-
-[链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|mc1.16.5 v2.0.0-Patch 2|*翻译中*|
+[下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|mc1.16.5 v2.0.0-Patch 2|*翻译中*|
 
 ---
 进入一个以科技为主宰的世界，体验精心设计的FTB Neotech整合包。无论你是经验丰富的工程师、足智多谋的冒险者，还是富有创意的建筑师，FTB Neotech都能为你带来数小时的模组娱乐时光。
