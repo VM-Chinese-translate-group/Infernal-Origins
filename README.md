@@ -1,4 +1,4 @@
-# FTB Neotech简体中文翻译
+# Infernal Origins简体中文翻译
 
 FTB官网|加载器|整合包版本|状态
 :-|:-|:-|:-
