@@ -36,7 +36,7 @@ jobs:
           git reset --hard main
       - name: Paratranz To zh_cn
         run: |
-          python ./workflowScript/translationToGitHub.py
+          python translationToGitHub.py
       - name: Upload To Develop
         run: |
            git config --global pull.rebase false
