@@ -34,7 +34,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyGithub
           pip install requests
-          pip install json
       - name: Config Ident
         run: |
            git init
