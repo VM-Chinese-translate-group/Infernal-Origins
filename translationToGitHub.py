@@ -29,7 +29,7 @@ def translate(file_id):
         keys.append(item["key"])
         translation = item["translation"]
         original = item["original"]
-        values.append(translation if translation else original)
+        values.append(translation if translation and (item["stage"]==0 or item["stage"] == -1) else original)
 
     return keys, values
 
