@@ -8,7 +8,7 @@ jobs:
     name: Check Issue
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.7
+      - uses: actions/checkout@v4
       - name: issue check
         run: |
           echo "检测成功："${{github.event.issue.labels.*.name}}
@@ -24,11 +24,11 @@ jobs:
       PROJECT_ID: ${{vars.ID}}
       GIT_PATH: ${{vars.G_PATH}}
     steps:
-      - uses: actions/checkout@v4.1.7
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v5.1.0
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.12"
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -70,7 +70,7 @@ jobs:
              git push origin --delete develop
            fi
       - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v4.3.3
+        uses: actions/upload-artifact@v4
         with:
           name: CNPack
           path: ${{ github.workspace }}/Patch-Pack-CN/CNPack
@@ -80,7 +80,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Close Issue
-        uses: peter-evans/close-issue@v3.0.1
+        uses: peter-evans/close-issue@v3
         with:
           comment: |
             此模板仅由内部人员使用，已自动关闭。
