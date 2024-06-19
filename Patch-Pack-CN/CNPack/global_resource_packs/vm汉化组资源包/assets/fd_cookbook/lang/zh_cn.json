@@ -1,4 +1,4 @@
 {
-    "item.fd_cookbook.cook_book":"食谱",
-    "text.fd_cookbook.cook_book.landing_text":"这本书有助于为你了解有关农夫乐事模组的所有应该知道的知识，如果你要进一步提问请访问$(l:https://discord.gg/eFsz5SK)Discord服务器$()。如果你发现错写或语法错误，请在$(l:https://www.curseforge.com/minecraft/mc-mods/farmers-delight-cookbook-addon)模组页面$()评论。"
+    "item.fd_cookbook.cook_book":"Cookbook",
+    "text.fd_cookbook.cook_book.landing_text":"This Book Will hopefully Explain everything you should know about FarmersDelight, if you have further questions please visit the $(l:https://discord.gg/eFsz5SK)Discord Server$(). If you find any Typos/bad grammar please comment on the $(l:https://www.curseforge.com/minecraft/mc-mods/farmers-delight-cookbook-addon)modpage$()"
 }
