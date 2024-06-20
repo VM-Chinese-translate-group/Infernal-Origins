@@ -39,9 +39,25 @@
 			{
 				"name":"net.union.infernaloriginsextras.procedures.GuiButtonSlayerTaskCancelProcedure",
 				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionSpeedIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionSpeedIncreaseItem$ItemCustom",
+				"method":""
 			}
 		],
 		"pairs":[
+			{
+				"key":"§7- Right click to temporarily increase your",
+				"value":"§7-右击暂时使你的速度+0.0025"
+			},
+			{
+				"key":"§7speed by +0.0025.",
+				"value":""
+			},
 			{
 				"key":"§7Skill Points: §e",
 				"value":"   §7技能点：§e"
@@ -1313,9 +1329,25 @@
 			{
 				"name":"net.union.infernaloriginsextras.procedures.RandomPassTooltipsProcedure",
 				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionLuckIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionLuckIncreaseItem$ItemCustom",
+				"method":""
 			}
 		],
 		"pairs":[
+			{
+				"key":"§7- Right click to temporarily increase your",
+				"value":"§7-右击暂时使你的幸运+0.25"
+			},
+			{
+				"key":"§7luck by +0.25.",
+				"value":""
+			},
 			{
 				"key":"§cThe boss enrages, and their scales harden!",
 				"value":"§c首领被激怒了，它们的鳞片变得坚硬无比！"
@@ -1843,9 +1875,133 @@
 			{
 				"name":"net.union.infernaloriginsextras.procedures.RunePassiveTooltipsProcedure",
 				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemBandageWoundsItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemBandageWoundsItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionArmorIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionArmorIncreaseItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionHealthIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionHealthIncreaseItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionLuckIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionLuckIncreaseItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionSpeedIncreaseItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.PotionSpeedIncreaseItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.SackGearItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.SackGearItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemRockCakeItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemRockCakeItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemHardcoreReviveStoneItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.ItemHardcoreReviveStoneItem$ItemCustom",
+				"method":""
 			}
 		],
 		"pairs":[
+			{
+				"key":"§7- Right click to resurrect fallen hardcore friends. Players must be at least 10 blocks close to the one using this stone to resurrect.",
+				"value":"§7-右击复活死去的好兄弟。你必须靠近好兄弟10个方块以内才能复活。"
+			},
+			{
+				"key":"§7- Right click to 'attempt' to eat this cake, causing you to take 10% of your max health as damage.",
+				"value":"§7-右击'尝试'吃掉这块蛋糕，受到10%最大生命值的伤害。"
+			},
+			{
+				"key":"§7- Right click to open this bag, obtaining 4",
+				"value":"§7-右击开启袋子，获得4件随机武器/盔甲，10瓶生命灵药，25个神秘卷轴，一个末地传送门之眼，还有25%的概率获得镀金神秘卷轴"
+			},
+			{
+				"key":"§7random weapons/armor, 10 Health Elixirs,",
+				"value":""
+			},
+			{
+				"key":"§725 Mystery Scrolls, 1 Portal Eye, and a",
+				"value":""
+			},
+			{
+				"key":"§725% chance for 1 Golden Mystery Scroll.",
+				"value":""
+			},
+			{
+				"key":"§7- Right click to permanently increase your",
+				"value":"§7-右击永久使你的生命值+4"
+			},
+			{
+				"key":"§7health by +4.",
+				"value":""
+			},
+			{
+				"key":"§7- Right click to temporarily increase your",
+				"value":"§7-右击暂时使你的护甲值+0.5"
+			},
+			{
+				"key":"§7armor by +0.5.",
+				"value":""
+			},
+			{
+				"key":"§7- Elixirs can be consumed more than once",
+				"value":"§7-灵药可以使用多次，但效果不是永久的，死亡会重置效果。"
+			},
+			{
+				"key":"§7but will not be permanent, causing this stat",
+				"value":""
+			},
+			{
+				"key":"§7to be reset on death.",
+				"value":""
+			},
+			{
+				"key":"§7- Right click to bandage yourself to remove",
+				"value":"§7-右击绷带为自己移除重伤效果。"
+			},
+			{
+				"key":"§7the Critical Wounds effect.",
+				"value":""
+			},
 			{
 				"key":"§cYou cannot add the same rune to one item.",
 				"value":"§c你不能在一个物品上添加相同的符文。"
@@ -1947,6 +2103,162 @@
 			{
 				"key":"§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.",
 				"value":"§c在局域网或基础服务器上游玩时，§e鸮人§c和§e虚空飞龙§c起源会不断被踢出服务器。其他起源也可能被踢出服务器，但不会那么频繁。如果你在专用服务器上游玩，则不会出现这个情况，你可以忽略这个提示。"
+			}
+		]
+	},
+	{
+		"target_classes":[
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneBerserkerItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneBerserkerItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneBossRipperItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneBossRipperItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneCombatMedicItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneCombatMedicItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneDarkPactItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneDarkPactItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneDeathTollItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneDeathTollItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneGlassCannonItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneGlassCannonItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneHealthFrenzyItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneHealthFrenzyItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneInitiativeItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneInitiativeItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneMetalShellItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneMetalShellItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RunePhaseShiftItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RunePhaseShiftItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RunePlagueBombItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RunePlagueBombItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSkillfulItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSkillfulItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSlayerMasterItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSlayerMasterItem",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSmolderingItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneSmolderingItem",
+				"method":""
+			}
+		],
+		"pairs":[
+			{
+				"key":"§7- Right click while holding a weapon or",
+				"value":"§7-当主手持有武器或盾牌时右击该符文使之镶嵌于该物品上。"
+			},
+			{
+				"key":"§7shield in your main hand to apply this",
+				"value":""
+			},
+			{
+				"key":"§7rune to it.",
+				"value":""
+			}
+		]
+	},
+	{
+		"target_classes":[
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneRemoveItem$ItemCustom",
+				"method":""
+			},
+			{
+				"name":"net.union.infernaloriginsextras.item.RuneRemoveItem",
+				"method":""
+			}
+		],
+		"pairs":[
+			{
+				"key":"§7- Right click while holding a weapon or",
+				"value":"§7-当主手持有武器或盾牌时右击移除所有符文。"
+			},
+			{
+				"key":"§7shield in your main hand to delete all",
+				"value":""
+			},
+			{
+				"key":"§7currently applied runes from it.",
+				"value":""
 			}
 		]
 	}
