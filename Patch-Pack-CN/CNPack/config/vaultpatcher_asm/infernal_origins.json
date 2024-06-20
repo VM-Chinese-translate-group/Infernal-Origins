@@ -1,6 +1,6 @@
 [
 	{
-		"name":"infernal-origins-extras",
+		"name":"infernal_origins_extras",
 		"desc":"infernal origins 硬编码汉化",
 		"mods":"infernal-origins-extras-v1.0.0-EXP1359",
 		"authors":"Litchiiiiiii",
@@ -148,43 +148,43 @@
 			},
 			{
 				"key":"§f<Slayer Master> Need a new task? I've got a job for you.",
-				"value":"§f<资深杀手> 想要一个新任务？我正好有一份任务给你。"
+				"value":"§f<资深杀手>想要一个新任务？我正好有一份任务给你。"
 			},
 			{
 				"key":"§f<Slayer Master> New threats have been spotted, I need you to wipe them out.",
-				"value":"§f<资深杀手> 发现新的敌人，我需要你消灭它们。"
+				"value":"§f<资深杀手>发现新的敌人，我需要你消灭它们。"
 			},
 			{
 				"key":"§f<Slayer Master> You know the drill. Kill them until the job is done.",
-				"value":"§f<资深杀手> 你知道该怎么做，击杀它们直到任务完成。"
+				"value":"§f<资深杀手>你知道该怎么做，击杀它们直到任务完成。"
 			},
 			{
 				"key":"§f<Slayer Master> Fresh blood's been scented. Get it done.",
-				"value":"§f<资深杀手> 鲜血散发着香味，快干掉它。"
+				"value":"§f<资深杀手>鲜血散发着香味，快干掉它。"
 			},
 			{
 				"key":"§f<Slayer Master> I've got a new task for you. Good luck.",
-				"value":"§f<资深杀手> 我有一个新任务要给你，祝你好运。"
+				"value":"§f<资深杀手>我有一个新任务要给你，祝你好运。"
 			},
 			{
 				"key":"§f<Slayer Master> What do you want? You've got a job to do.",
-				"value":"§f<资深杀手> 你还想要什么？你的任务还没完成呢。"
+				"value":"§f<资深杀手>你还想要什么？你的任务还没完成呢。"
 			},
 			{
 				"key":"§f<Slayer Master> Stop bothering me. Get to the task.",
-				"value":"§f<资深杀手> 别再烦我了，快去做任务。"
+				"value":"§f<资深杀手>别再烦我了，快去做任务。"
 			},
 			{
 				"key":"§f<Slayer Master> You're not getting another task until you finish this one.",
-				"value":"§f<资深杀手> 你不能开始新任务，除非你完成当前任务。"
+				"value":"§f<资深杀手>你不能开始新任务，除非你完成当前任务。"
 			},
 			{
 				"key":"§f<Slayer Master> Complete your mission, then come back to me.",
-				"value":"§f<资深杀手> 完成你的任务之后再回来找我。"
+				"value":"§f<资深杀手>完成你的任务之后再回来找我。"
 			},
 			{
 				"key":"§f<Slayer Master> I'm not going to give you another task until this one is done. Get to it.",
-				"value":"§f<资深杀手> 我不想给你新任务，除非你完成当前任务，快去做。"
+				"value":"§f<资深杀手>我不想给你新任务，除非你完成当前任务，快去做。"
 			},
 			{
 				"key":"§eMobs left to kill: §6",
@@ -250,39 +250,39 @@
 		"pairs":[
 			{
 				"key":"§c<Wither> We've been waiting.",
-				"value":"§c<凋灵> 我们一直在等待。"
+				"value":"§c<凋灵>我们一直在等待。"
 			},
 			{
 				"key":"§c<Wither> We've been watching.",
-				"value":"§c<凋灵> 我们一直在注视着。"
+				"value":"§c<凋灵>我们一直在注视着。"
 			},
 			{
 				"key":"§c<Wither> Join us.",
-				"value":"§c<凋灵> 加入我们。"
+				"value":"§c<凋灵>加入我们。"
 			},
 			{
 				"key":"§c<Wither> Death has arrived.",
-				"value":"§c<凋灵> 死亡已经到来。"
+				"value":"§c<凋灵>死亡已经到来。"
 			},
 			{
 				"key":"§c<Wither> Your end is near.",
-				"value":"§c<凋灵> 你的末日即将来临。"
+				"value":"§c<凋灵>你的末日即将来临。"
 			},
 			{
 				"key":"§c<Wither> Darkness surrounds you.",
-				"value":"§c<凋灵> 黑暗包围着你。"
+				"value":"§c<凋灵>黑暗包围着你。"
 			},
 			{
 				"key":"§c<Wither> We will not fall.",
-				"value":"§c<凋灵> 我们不会陨落。"
+				"value":"§c<凋灵>我们不会陨落。"
 			},
 			{
 				"key":"§c<Wither> We will not be consumed.",
-				"value":"§c<凋灵> 我们不会被耗尽。"
+				"value":"§c<凋灵>我们不会被耗尽。"
 			},
 			{
 				"key":"§c<Wither> We will be reborn.",
-				"value":"§c<凋灵> 我们重获新生。"
+				"value":"§c<凋灵>我们重获新生。"
 			},
 			{
 				"key":"§dCorruption Level: ",
@@ -290,23 +290,23 @@
 			},
 			{
 				"key":"§c<Wither> Trapped in an eternal hell.",
-				"value":"§c<凋灵> 困于永恒的地狱中吧。"
+				"value":"§c<凋灵>困于永恒的地狱中吧。"
 			},
 			{
 				"key":"§c<Wither> An unmoving tortuous fate.",
-				"value":"§c<凋灵> 你的曲折命运永远不会改变。"
+				"value":"§c<凋灵>你的曲折命运永远不会改变。"
 			},
 			{
 				"key":"§c<Wither> Stopped by destiny.",
-				"value":"§c<凋灵> 失败是命中注定的。"
+				"value":"§c<凋灵>失败是命中注定的。"
 			},
 			{
 				"key":"§c<Wither> Share our pain.",
-				"value":"§c<凋灵> 体会一下我的痛苦吧。"
+				"value":"§c<凋灵>分担我们的痛苦吧。"
 			},
 			{
 				"key":"§c<Wither> Our retribution follows.",
-				"value":"§c<凋灵> 我们的惩戒随之而来。"
+				"value":"§c<凋灵>我们的惩戒随之而来。"
 			},
 			{
 				"key":"§4The Wither is charging up! Prepare to block!",
@@ -314,15 +314,15 @@
 			},
 			{
 				"key":"§c<Wither> Death is inevitable.",
-				"value":"§c<凋灵> 死亡是不可避免的。"
+				"value":"§c<凋灵>死亡是不可避免的。"
 			},
 			{
 				"key":"§c<Wither> I will be your unmaker.",
-				"value":"§c<凋灵> 我将彻底毁灭你。"
+				"value":"§c<凋灵>我将彻底毁灭你。"
 			},
 			{
 				"key":"§c<Wither> Your corruption feeds me.",
-				"value":"§c<凋灵> 你的腐坏就是我的养料。"
+				"value":"§c<凋灵>你的腐坏就是我的养料。"
 			},
 			{
 				"key":"§cWhat have you done...",
@@ -344,31 +344,31 @@
 		"pairs":[
 			{
 				"key":"§c<Elder Guardian> My domain will not be challenged!",
-				"value":"§c<远古守卫者> 我的领域不会受到挑战！"
+				"value":"§c<远古守卫者>我的领域不会受到挑战！"
 			},
 			{
 				"key":"§c<Elder Guardian> My domain will not be challenged!",
-				"value":"§c<远古守卫者> 我的领域不会受到挑战！"
+				"value":"§c<远古守卫者>我的领域不会受到挑战！"
 			},
 			{
 				"key":"§c<Elder Guardian> Drown to my power!",
-				"value":"§c<远古守卫者> 淹没在我的力量中吧！"
+				"value":"§c<远古守卫者>淹没在我的力量中吧！"
 			},
 			{
 				"key":"§c<Elder Guardian> The waves will crush you!",
-				"value":"§c<远古守卫者> 海浪会将你拍碎！"
+				"value":"§c<远古守卫者>海浪会将你拍碎！"
 			},
 			{
 				"key":"§c<Elder Guardian> Minions, protect me!",
-				"value":"§c<远古守卫者> 仆从们，保护我！"
+				"value":"§c<远古守卫者>仆从们，保护我！"
 			},
 			{
 				"key":"§c<Elder Guardian> Protect your prince!",
-				"value":"§c<远古守卫者> 保护你们的王！"
+				"value":"§c<远古守卫者>保护你们的王！"
 			},
 			{
 				"key":"§c<Elder Guardian> This is treachery!",
-				"value":"§c<远古守卫者> 这是背叛！"
+				"value":"§c<远古守卫者>这是背叛！"
 			},
 			{
 				"key":"§4The Elder Guardian has become enraged!",
@@ -376,27 +376,27 @@
 			},
 			{
 				"key":"§c<Elder Guardian> I will not die like this!",
-				"value":"§c<远古守卫者> 我不会就这样死去！"
+				"value":"§c<远古守卫者>我不会就这样死去！"
 			},
 			{
 				"key":"§c<Elder Guardian> I was promised to rule!",
-				"value":"§c<远古守卫者> 我一直都统治着这里！"
+				"value":"§c<远古守卫者>我永远统治此地！"
 			},
 			{
 				"key":"§c<Elder Guardian> My kingdom will conquer!",
-				"value":"§c<远古守卫者> 王国必胜！"
+				"value":"§c<远古守卫者>王国必胜！"
 			},
 			{
 				"key":"§c<Elder Guardian> Beacon! Heal me immediately!",
-				"value":"§c<远古守卫者> 信标！快治愈我！"
+				"value":"§c<远古守卫者>信标！快治愈我！"
 			},
 			{
 				"key":"§c<Elder Guardian> Beacon! I require healing!",
-				"value":"§c<远古守卫者> 信标！我需要治疗！"
+				"value":"§c<远古守卫者>信标！我需要治疗！"
 			},
 			{
 				"key":"§c<Elder Guardian> Beacon! Heal your prince!",
-				"value":"§c<远古守卫者> 信标！治愈你的王！"
+				"value":"§c<远古守卫者>信标！治愈你的王！"
 			},
 			{
 				"key":"§4Kill the Elder Guardian's summoned beacon before it heals!",
@@ -404,19 +404,19 @@
 			},
 			{
 				"key":"§c<Elder Guardian> Damage yourself, filth!",
-				"value":"§c<远古守卫者> 自残吧，渣滓！"
+				"value":"§c<远古守卫者>自刎吧，渣滓！"
 			},
 			{
 				"key":"§c<Elder Guardian> Hands off your prince!",
-				"value":"§c<远古守卫者> 放开你的王！"
+				"value":"§c<远古守卫者>放开你的王！"
 			},
 			{
 				"key":"§c<Elder Guardian> Die to your own blade!",
-				"value":"§c<远古守卫者> 死于你自己的刀下吧！"
+				"value":"§c<远古守卫者>死于你的刀下！"
 			},
 			{
 				"key":"§c<Elder Guardian> Overcharge your core!",
-				"value":"§c<远古守卫者> 你的心脏即将过载！"
+				"value":"§c<远古守卫者>你的心脏即将过载！"
 			},
 			{
 				"key":"§4Get away from your friends, you're about to overcharge!",
@@ -458,27 +458,27 @@
 		"pairs":[
 			{
 				"key":"§c<Ender Guardian> Whispers of the void...",
-				"value":"§c<远古守卫者> 虚空的低语……"
+				"value":"§c<末影守卫>虚空的低语……"
 			},
 			{
 				"key":"§c<Ender Guardian> Come closer...",
-				"value":"§c<末影守卫> 在靠近些……"
+				"value":"§c<末影守卫>再靠近些……"
 			},
 			{
 				"key":"§c<Ender Guardian> Hear me from the shadows...",
-				"value":"§c<末影守卫> 在暗影中聆听我的声音……"
+				"value":"§c<末影守卫>在暗影中聆听我的声音……"
 			},
 			{
 				"key":"§c<Ender Guardian> They are watching us...",
-				"value":"§c<末影守卫> 他在看着我们……"
+				"value":"§c<末影守卫>他们在凝视我们……"
 			},
 			{
 				"key":"§c<Ender Guardian> Every move we make they see...",
-				"value":"§c<末影守卫> 他能看到的我们的每个动作……"
+				"value":"§c<末影守卫>他们能看的到我们的一举一动……"
 			},
 			{
 				"key":"§c<Ender Guardian> We cannot hide...",
-				"value":"§c<末影守卫> 我们无法逃避……"
+				"value":"§c<末影守卫>我们无法逃避……"
 			},
 			{
 				"key":"§4The Ender Guardian has become enraged!",
@@ -486,51 +486,51 @@
 			},
 			{
 				"key":"§c<Ender Guardian> You will not know their pain...",
-				"value":"§c<末影守卫> 你不会知道他们有多痛苦……"
+				"value":"§c<末影守卫>你不会知道他们有多痛苦……"
 			},
 			{
 				"key":"§c<Ender Guardian> Their suffering will continue...",
-				"value":"§c<末影守卫> 他们一直在被折磨着……"
+				"value":"§c<末影守卫>他们一直备受磨难……"
 			},
 			{
 				"key":"§c<Ender Guardian> Not even I could help them...",
-				"value":"§c<末影守卫> 但就连我也无能为力……"
+				"value":"§c<末影守卫>但就连我也无能为力……"
 			},
 			{
 				"key":"§c<Ender Guardian> Let your sins be cleansed.",
-				"value":"§c<末影守卫> 除去你的罪恶吧。"
+				"value":"§c<末影守卫>除去你的罪恶吧。"
 			},
 			{
 				"key":"§c<Ender Guardian> Purge yourself from your sins.",
-				"value":"§c<末影守卫> 净化你自己，除去你的罪恶吧。"
+				"value":"§c<末影守卫>净化你自己，除去你的罪恶吧。"
 			},
 			{
 				"key":"§c<Ender Guardian> Fate will cleanse you.",
-				"value":"§c<末影守卫> 命运会将你净化的。"
+				"value":"§c<末影守卫>命运会将你净化的。"
 			},
 			{
 				"key":"§c<Ender Guardian> Your shadows reveal themselves.",
-				"value":"§c<末影守卫> 你的阴暗面会逐渐显露出来。"
+				"value":"§c<末影守卫>你的阴暗面会逐渐显露出来。"
 			},
 			{
 				"key":"§c<Ender Guardian> The shadows come for revenge.",
-				"value":"§c<末影守卫> 它们为了复仇而来。"
+				"value":"§c<末影守卫>它们为了复仇而来。"
 			},
 			{
 				"key":"§c<Ender Guardian> Shadows from the void.",
-				"value":"§c<末影守卫> 它们来自虚空。"
+				"value":"§c<末影守卫>它们来自虚空。"
 			},
 			{
 				"key":"§c<Ender Guardian> Each of you... colors in this blank void?",
-				"value":"§c<末影守卫> 你们每个人……都给这片空白的虚空染了色吗？"
+				"value":"§c<末影守卫>你们每个人……都给这片空白的虚空染了色吗？"
 			},
 			{
 				"key":"§c<Ender Guardian> Curious, your souls are different...",
-				"value":"§c<末影守卫> 很奇怪，你们的灵魂都不相同……"
+				"value":"§c<末影守卫>很奇怪，你们的灵魂都不相同……"
 			},
 			{
 				"key":"§c<Ender Guardian> Beautiful colors... I've missed them so...",
-				"value":"§c<末影守卫> 多美丽的颜色啊……我想起它们了，所以……"
+				"value":"§c<末影守卫>多美丽的颜色啊……我想它们了，所以……"
 			},
 			{
 				"key":"§f§lYour color is white.",
@@ -550,23 +550,23 @@
 			},
 			{
 				"key":"§c<Ender Guardian> 5",
-				"value":"§c<远古守卫者> 5"
+				"value":"§c<末影守卫>5"
 			},
 			{
 				"key":"§c<Ender Guardian> 4",
-				"value":"§c<远古守卫者> 4"
+				"value":"§c<末影守卫>4"
 			},
 			{
 				"key":"§c<Ender Guardian> 3",
-				"value":"§c<远古守卫者> 3"
+				"value":"§c<末影守卫>3"
 			},
 			{
 				"key":"§c<Ender Guardian> 2",
-				"value":"§c<远古守卫者> 2"
+				"value":"§c<末影守卫>2"
 			},
 			{
 				"key":"§c<Ender Guardian> 1",
-				"value":"§c<远古守卫者> 1"
+				"value":"§c<末影守卫>1"
 			}
 		]
 	},
@@ -584,7 +584,7 @@
 		"pairs":[
 			{
 				"key":"§c<Frostmaw> RAAAARGH!",
-				"value":"§c<霜冻巨兽> 呜啊啊啊！"
+				"value":"§c<霜冻巨兽>呜啊啊啊！"
 			},
 			{
 				"key":"§4Frostmaw has become enraged!",
@@ -592,15 +592,15 @@
 			},
 			{
 				"key":"§c<Frostmaw> GRAAAH!",
-				"value":"§c<霜冻巨兽> 咯啊啊啊！"
+				"value":"§c<霜冻巨兽>咯啊啊啊！"
 			},
 			{
 				"key":"§c<Frostmaw> URGH!",
-				"value":"§c<霜冻巨兽> 呃啊！"
+				"value":"§c<霜冻巨兽>呃啊！"
 			},
 			{
 				"key":"§c<Frostmaw> UROOO!",
-				"value":"§c<霜冻巨兽> 呃噢！"
+				"value":"§c<霜冻巨兽>呃噢！"
 			}
 		]
 	},
@@ -618,27 +618,27 @@
 		"pairs":[
 			{
 				"key":"§c<Hoar Frost> Fall t' the throne o' ice!",
-				"value":"§c<白霜之主> 坠死在冰之王座上吧！"
+				"value":"§c<白霜之主>坠死在冰之王座上吧！"
 			},
 			{
 				"key":"§c<Hoar Frost> Ye dare attack the cap'n o' winter's bane!?",
-				"value":"§c<白霜之主> 你竟然胆敢攻击冬之灾厄的船长？！"
+				"value":"§c<白霜之主>你胆敢攻击冬之灾厄的船长！？"
 			},
 			{
 				"key":"§c<Hoar Frost> Davy jones' locker couldn't stop me, wha' makes ye reckon ye can!?",
-				"value":"§c<白霜之主> 戴维·琼斯都不能阻止我，你凭什么认为你能？！"
+				"value":"§c<白霜之主>戴维·琼斯都不能阻止我，你凭什么认为你能！？"
 			},
 			{
 				"key":"§c<Hoar Frost> Get out here 'n help yer cap'n!",
-				"value":"§c<白霜之主> 快出来帮帮你们的船长！"
+				"value":"§c<白霜之主>快出来帮帮你们的船长！"
 			},
 			{
 				"key":"§c<Hoar Frost> Avast ye maties!",
-				"value":"§c<白霜之主> 停下！伙伴们！"
+				"value":"§c<白霜之主>停下！伙伴们！"
 			},
 			{
 				"key":"§c<Hoar Frost> Ye'll nah be leavin' here alive!",
-				"value":"§c<白霜之主> 你不可能活着离开这里！"
+				"value":"§c<白霜之主>你不可能活着离开这里！"
 			},
 			{
 				"key":"§4Hoar Frost has become enraged!",
@@ -646,55 +646,55 @@
 			},
 			{
 				"key":"§c<Hoar Frost> Ye'll ne'er scuttle me ye yellow-bellied cur!",
-				"value":"§c<白霜之主> 你永远也打不垮我，你这黄皮狗！"
+				"value":"§c<白霜之主>你永远也打不垮我，你这黄皮狗！"
 			},
 			{
 				"key":"§c<Hoar Frost> I'll fight till me last breath!",
-				"value":"§c<白霜之主> 我将战斗到最后一口气！"
+				"value":"§c<白霜之主>我将战斗到最后一口气！"
 			},
 			{
 				"key":"§c<Hoar Frost> I've come closer t' death than this!",
-				"value":"§c<白霜之主> 我比这更接近死亡！"
+				"value":"§c<白霜之主>我曾比这更接近死亡！"
 			},
 			{
 				"key":"§c<Hoar Frost> Ye'll freeze where ye stand!",
-				"value":"§c<白霜之主> 你将会冻僵在那里！"
+				"value":"§c<白霜之主>你会被冰封在你所站的地方！"
 			},
 			{
 				"key":"§c<Hoar Frost> Fall t' me frost!",
-				"value":"§c<白霜之主> 给我降霜吧！"
+				"value":"§c<白霜之主>给我降霜！"
 			},
 			{
 				"key":"§c<Hoar Frost> The sea be mine t' freeze!",
-				"value":"§c<白霜之主> 大海将被我冻结！"
+				"value":"§c<白霜之主>大海将被我冻结！"
 			},
 			{
 				"key":"§c<Hoar Frost> Rain 'em wit' cannonballs whelps!",
-				"value":"§c<白霜之主> 小崽子们！用炮弹如暴雨般轰击他们！"
+				"value":"§c<白霜之主>小崽子们！用炮弹雨轰击他们！"
 			},
 			{
 				"key":"§c<Hoar Frost> Rip 'em apart, shoot the cannons!",
-				"value":"§c<白霜之主> 把他们撕成碎片，大炮发射！"
+				"value":"§c<白霜之主>把他们轰成碎片，大炮发射！"
 			},
 			{
 				"key":"§c<Hoar Frost> All cannons fire fore!",
-				"value":"§c<白霜之主> 倾泻所有炮火！"
+				"value":"§c<白霜之主>倾泻所有炮火！"
 			},
 			{
 				"key":"§c<Hoar Frost> Me crystal will make quick work o' ye!",
-				"value":"§c<白霜之主> 我的水晶将很快砸向你们！"
+				"value":"§c<白霜之主>我的水晶将很快砸向你们！"
 			},
 			{
 				"key":"§c<Hoar Frost> See if ye can handle me crystal bomb ye wee scallywag!",
-				"value":"§c<白霜之主> 看看你能不能搞定我的水晶炸弹，你这个小混蛋！"
+				"value":"§c<白霜之主>看看你能不能搞定我的水晶炸弹，你这个小混蛋！"
 			},
 			{
 				"key":"§c<Hoar Frost> Ye bore me! Hit 'em wit' the crystal bomb!",
-				"value":"§c<白霜之主> 你让我厌烦了！用水晶炸弹打他们！"
+				"value":"§c<白霜之主>你真是让我感到烦躁！用水晶炸弹轰击他们！"
 			},
 			{
 				"key":"§4Kill Hoar Frost's summoned crystal before it explodes!",
-				"value":"§4在白霜召唤的水晶炸弹爆炸前杀死它！"
+				"value":"§4在白霜之主召唤的水晶炸弹爆炸前杀死它！"
 			}
 		]
 	},
@@ -708,39 +708,39 @@
 		"pairs":[
 			{
 				"key":"§c<Ferrous Wroughtnaut> You dare challenge me!?",
-				"value":"§c<钢铁守护者> 你竟敢挑战我？"
+				"value":"§c<钢铁守护者>你竟敢挑战我？"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> The high throne will hear of this treason!",
-				"value":"§c<钢铁守护者> 王庭会意识到这是背叛！"
+				"value":"§c<钢铁守护者>王庭会意识到这是背叛！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Slumber be damned!",
-				"value":"§c<Ferrous Wroughtnaut> Slumber be damned!"
+				"value":"§c<钢铁守护者>该死的休眠！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> HERETIC!",
-				"value":"§c<钢铁守护者> 异端！！"
+				"value":"§c<钢铁守护者>异端！！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Fall to the throne's guard!",
-				"value":"§c<钢铁守护者> 臣服于王位的护卫之下！"
+				"value":"§c<钢铁守护者>臣服于王位的护卫之下！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Ha! Weakling!",
-				"value":"§c<钢铁守护者> 哈！细狗！"
+				"value":"§c<钢铁守护者>呵！懦夫！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> I will not fall!",
-				"value":"§c<钢铁守护者> 我不会阵亡的！"
+				"value":"§c<钢铁守护者>我不会倒下的！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Throne give me strength!",
-				"value":"§c<钢铁守护者> 王位给予我力量！"
+				"value":"§c<钢铁守护者>王位给予我力量！"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> KNEEL!",
-				"value":"§c<钢铁守护者> 跪下！！"
+				"value":"§c<钢铁守护者>跪下！！"
 			}
 		]
 	},
@@ -758,27 +758,27 @@
 		"pairs":[
 			{
 				"key":"§c<Ignis> Your death will be swift!",
-				"value":"§c<焰魔> 快受死吧！"
+				"value":"§c<焰魔>快受死吧！"
 			},
 			{
 				"key":"§c<Ignis> You dare hit your king!?",
-				"value":"§c<焰魔> 你竟敢打你的王！？"
+				"value":"§c<焰魔>你竟敢打你的王！？"
 			},
 			{
 				"key":"§c<Ignis> Die to my blade!",
-				"value":"§c<焰魔> 死在我的剑刃下吧！"
+				"value":"§c<焰魔>死在我的剑刃下吧！"
 			},
 			{
 				"key":"§c<Ignis> War is in my blood!",
-				"value":"§c<焰魔> 战斗是我的天性！"
+				"value":"§c<焰魔>战斗是我的天性！"
 			},
 			{
 				"key":"§c<Ignis> Nothing but a scratch!",
-				"value":"§c<焰魔> 不痛不痒！"
+				"value":"§c<焰魔>不痛不痒！"
 			},
 			{
 				"key":"§c<Ignis> Feed my blade!",
-				"value":"§c<焰魔> 吃我一剑！"
+				"value":"§c<焰魔>吃我一剑！"
 			},
 			{
 				"key":"§4Ignis has become enraged!",
@@ -786,51 +786,51 @@
 			},
 			{
 				"key":"§c<Ignis> Honor the throne!",
-				"value":"§c<焰魔> 向王位致敬！"
+				"value":"§c<焰魔>向王位致敬！"
 			},
 			{
 				"key":"§c<Ignis> I still stand!",
-				"value":"§c<焰魔> 我还站立着！"
+				"value":"§c<焰魔>我还坚持着！"
 			},
 			{
 				"key":"§c<Ignis> For glory!",
-				"value":"§c<焰魔> 为了荣耀！"
+				"value":"§c<焰魔>为了荣耀！"
 			},
 			{
 				"key":"§c<Ignis> Taste true power!",
-				"value":"§c<焰魔> 尝尝真正的力量吧！"
+				"value":"§c<焰魔>尝尝真正的力量吧！"
 			},
 			{
 				"key":"§c<Ignis> Dragon's rage be free!",
-				"value":"§c<焰魔> 释放吧，龙之怒！"
+				"value":"§c<焰魔>释放吧，龙之怒！"
 			},
 			{
 				"key":"§c<Ignis> Stand and die!",
-				"value":"§c<焰魔> 站在那里受死！"
+				"value":"§c<焰魔>站在那里受死！"
 			},
 			{
 				"key":"§c<Ignis> Back off!",
-				"value":"§c<焰魔> 退下！"
+				"value":"§c<焰魔>退下！"
 			},
 			{
 				"key":"§c<Ignis> Away from me!",
-				"value":"§c<焰魔> 离我远点！"
+				"value":"§c<焰魔>离我远点！"
 			},
 			{
 				"key":"§c<Ignis> Be gone!",
-				"value":"§c<焰魔> 走开！"
+				"value":"§c<焰魔>走开！"
 			},
 			{
 				"key":"§c<Ignis> Run while you still can!",
-				"value":"§c<焰魔> 趁你还能跑，赶紧跑吧！"
+				"value":"§c<焰魔>劝你看清局势，早点逃跑！"
 			},
 			{
 				"key":"§c<Ignis> I will shatter you from your core!",
-				"value":"§c<焰魔> 我会把你从骨子里粉碎！"
+				"value":"§c<焰魔>我会把你打的粉身碎骨！"
 			},
 			{
 				"key":"§c<Ignis> Get closer if you dare!",
-				"value":"§c<焰魔> 你敢的话就再过来一点！"
+				"value":"§c<焰魔>有本事你就再靠近点！"
 			}
 		]
 	},
@@ -860,27 +860,27 @@
 		"pairs":[
 			{
 				"key":"§c<Netherite Monstrosity> [ENGAGE: MOVEMENT DETECTED]",
-				"value":"§c<下界合金巨兽> [战斗：检测到移动]"
+				"value":"§c<下界合金巨兽>[战斗：检测到移动]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [ENGAGE: ENEMIES APPROACHING]",
-				"value":"§c<下界合金巨兽> [战斗：敌人逼近]"
+				"value":"§c<下界合金巨兽>[战斗：敌人逼近]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [ENGAGE: HOSTILES ENCOUNTERED]",
-				"value":"§c<下界合金巨兽> [战斗：发现敌人]"
+				"value":"§c<下界合金巨兽>[战斗：发现敌人]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BACKUP: DAMAGE SUSTAINED]",
-				"value":"§c<下界合金巨兽> [辅助：受到伤害]"
+				"value":"§c<下界合金巨兽>[辅助：受到伤害]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BACKUP: INTERNAL MALFUNCTION]",
-				"value":"§c<下界合金巨兽> [辅助：内部故障]"
+				"value":"§c<下界合金巨兽>[辅助：内部故障]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BACKUP: REQUESTED]",
-				"value":"§c<下界合金巨兽> [辅助：请求]"
+				"value":"§c<下界合金巨兽>[辅助：请求]"
 			},
 			{
 				"key":"§4Netherite Monstrosity has become enraged!",
@@ -888,67 +888,67 @@
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CRITICAL: IMPENDING SHUTDOWN]",
-				"value":"§c<下界合金巨兽> [紧急：即将停机]"
+				"value":"§c<下界合金巨兽>[紧急：即将停机]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CRITICAL: POWER LOW]",
-				"value":"§c<下界合金巨兽> [紧急：能量极低]"
+				"value":"§c<下界合金巨兽>[紧急：能量极低]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CRITICAL: MELTDOWN DETECTED]",
-				"value":"§c<下界合金巨兽> [紧急：检测到熔毁]"
+				"value":"§c<下界合金巨兽>[紧急：检测到熔毁]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CORE: EXPLOSIVE IMPLANTED]",
-				"value":"§c<下界合金巨兽> [核心：爆炸物置入]"
+				"value":"§c<下界合金巨兽>[核心：爆炸物置入]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CORE: COMBUSTION TRANSFERRED]",
-				"value":"§c<下界合金巨兽> [核心：燃烧转移]"
+				"value":"§c<下界合金巨兽>[核心：燃烧转移]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [CORE: INJECTION SUCCESSFUL]",
-				"value":"§c<下界合金巨兽> [核心：注入成功]"
+				"value":"§c<下界合金巨兽>[核心：注入成功]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [EXECUTE: SHATTER]",
-				"value":"§c<下界合金巨兽> [执行：粉碎]"
+				"value":"§c<下界合金巨兽>[执行：粉碎]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [EXAMINATION: DISTANCE REQUIRED]",
-				"value":"§c<下界合金巨兽> [检查：距离过远]"
+				"value":"§c<下界合金巨兽>[检查：距离过远]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [EXAMINATION: CLOSE PROXIMITY]",
-				"value":"§c<下界合金巨兽> [检查：距离过近]"
+				"value":"§c<下界合金巨兽>[检查：距离过近]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [EXAMINATION: TELEPORTATION]",
-				"value":"§c<下界合金巨兽> [检查：传送]"
+				"value":"§c<下界合金巨兽>[检查：传送]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [3]",
-				"value":"§c<下界合金巨兽> [3]"
+				"value":"§c<下界合金巨兽>[3]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [2]",
-				"value":"§c<下界合金巨兽> [2]"
+				"value":"§c<下界合金巨兽>[2]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [1]",
-				"value":"§c<下界合金巨兽> [1]"
+				"value":"§c<下界合金巨兽>[1]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BOMBARDMENT: LOCKING]",
-				"value":"§c<下界合金巨兽> [轰炸：锁定目标]"
+				"value":"§c<下界合金巨兽>[轰炸：锁定目标]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BOMBARDMENT: ACQUIRING TARGET]",
-				"value":"§c<下界合金巨兽> [轰炸：获取目标]"
+				"value":"§c<下界合金巨兽>[轰炸：瞄准目标]"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [BOMBARDMENT: SEEKING]",
-				"value":"§c<下界合金巨兽> [轰炸：探查目标]"
+				"value":"§c<下界合金巨兽>[轰炸：探查目标]"
 			}
 		]
 	},
@@ -990,27 +990,27 @@
 		"pairs":[
 			{
 				"key":"§c<The Big One> TINY CREATURE HIT ME??",
-				"value":"§c<大块头> 小小生物竟敢打我？"
+				"value":"§c<大块头>小东西竟敢打我？？"
 			},
 			{
 				"key":"§c<The Big One> SO SMALL HAHA!",
-				"value":"§c<大块头> 太小了！哈哈哈！"
+				"value":"§c<大块头>哈哈哈，这么小啊！"
 			},
 			{
 				"key":"§c<The Big One> GRAAAAAAAHH",
-				"value":"§c<大块头> 啊啊啊——！！"
+				"value":"§c<大块头>啊啊啊——！！"
 			},
 			{
 				"key":"§c<The Big One> ME CRUSH TINY CREATURE!",
-				"value":"§c<大块头> 我会碾碎你这些小生物！"
+				"value":"§c<大块头>我将摧毁那微小的生物！"
 			},
 			{
 				"key":"§c<The Big One> ANT BITE ME HAHA!",
-				"value":"§c<大块头> 蚂蚁在咬我哈哈！"
+				"value":"§c<大块头>哈哈哈，这群蚂蚁在给我挠痒！"
 			},
 			{
 				"key":"§c<The Big One> AAAAAGGH",
-				"value":"§c<大块头> 啊啊——！"
+				"value":"§c<大块头>啊啊——！"
 			},
 			{
 				"key":"§4The Big One has become enraged!",
@@ -1018,55 +1018,55 @@
 			},
 			{
 				"key":"§c<The Big One> SMALL THING STRONG??",
-				"value":"§c<大块头> 小垃圾，强？"
+				"value":"§c<大块头>小东西，你能强到哪里去？？"
 			},
 			{
 				"key":"§c<The Big One> ME HATE TINY CREATURE!",
-				"value":"§c<大块头> 我讨厌微小的生物！"
+				"value":"§c<大块头>我讨厌你们这些蝼蚁！"
 			},
 			{
 				"key":"§c<The Big One> FIGHT NO FAIR!",
-				"value":"§c<大块头> 这不是一场公平的战斗！"
+				"value":"§c<大块头>这不是一场公平的战斗！"
 			},
 			{
 				"key":"§c<The Big One> TINY CREATURE GO UP!",
-				"value":"§c<大块头> 小东西继续啊！"
+				"value":"§c<大块头>小东西继续啊！"
 			},
 			{
 				"key":"§c<The Big One> UP UP!",
-				"value":"§c<大块头> 来啊！来啊！"
+				"value":"§c<大块头>来啊！来啊！"
 			},
 			{
 				"key":"§c<The Big One> HAHAHA WEE!",
-				"value":"§c<大块头> 哈哈哈！呼！"
+				"value":"§c<大块头>哈哈哈！呼！"
 			},
 			{
 				"key":"§c<The Big One> FE!",
-				"value":"§c<大块头> 嘿！"
+				"value":"§c<大块头>嘿！"
 			},
 			{
 				"key":"§c<The Big One> FI!",
-				"value":"§c<大块头> 哎！"
+				"value":"§c<大块头>哎！"
 			},
 			{
 				"key":"§c<The Big One> FO!",
-				"value":"§c<大块头> 嚯！"
+				"value":"§c<大块头>嚯！"
 			},
 			{
 				"key":"§c<The Big One> FUM!",
-				"value":"§c<大块头> 吼！"
+				"value":"§c<大块头>吼！"
 			},
 			{
 				"key":"§c<The Big One> HAHAHA!",
-				"value":"§c<大块头> 哈哈哈！"
+				"value":"§c<大块头>哈哈哈！"
 			},
 			{
 				"key":"§c<The Big One> C'MERE TASTY!",
-				"value":"§c<大块头> 快来这儿，可口的食物！"
+				"value":"§c<大块头>乖乖过来，我的盘中餐！"
 			},
 			{
 				"key":"§c<The Big One> SO HUNGRY!",
-				"value":"§c<大块头> 我好饿！"
+				"value":"§c<大块头>我好饿！"
 			},
 			{
 				"key":"The Big One",
@@ -1096,23 +1096,23 @@
 			},
 			{
 				"key":"§c<Land Golem> You dare challenge me!?",
-				"value":"§c<大地傀儡> 你胆敢挑战我！？"
+				"value":"§c<大地傀儡>你胆敢挑战我！？"
 			},
 			{
 				"key":"§c<Land Golem> You are nothing!",
-				"value":"§c<大地傀儡> 你什么都不是！"
+				"value":"§c<大地傀儡>你什么都不是！"
 			},
 			{
 				"key":"§c<Land Golem> I will not be killed so easily!",
-				"value":"§c<大地傀儡> 我不会这么轻易的被杀死的！"
+				"value":"§c<大地傀儡>我不会这么轻易的被杀死的！"
 			},
 			{
 				"key":"§c<Land Golem> My minions will protect me!",
-				"value":"§c<大地傀儡> 我的随从会保护我！"
+				"value":"§c<大地傀儡>我的随从会保护我！"
 			},
 			{
 				"key":"§c<Land Golem> Quit messing around, get them!",
-				"value":"§c<大地傀儡> 别瞎搞了，抓住他们！"
+				"value":"§c<大地傀儡>别瞎搞了，抓住他们！"
 			},
 			{
 				"key":"§4The Land Golem has become enraged!",
@@ -1120,15 +1120,15 @@
 			},
 			{
 				"key":"§c<Land Golem> This tower will not fall!",
-				"value":"§c<大地傀儡> 这座塔不会倒塌！"
+				"value":"§c<大地傀儡>这座塔不会倒塌！"
 			},
 			{
 				"key":"§c<Land Golem> Your efforts are meaningless!",
-				"value":"§c<大地傀儡> 你的努力毫无意义！"
+				"value":"§c<大地傀儡>你的努力毫无意义！"
 			},
 			{
 				"key":"§c<Land Golem> NO, THIS CANNOT BE!",
-				"value":"§c<大地傀儡> 不，这不可能！！"
+				"value":"§c<大地傀儡>不，这不可能！！"
 			}
 		]
 	},
@@ -1322,7 +1322,7 @@
 			},
 			{
 				"key":"§cYour life is ticking...",
-				"value":"§cYour life is ticking..."
+				"value":"§c你的生命之钟在滴答作响……"
 			},
 			{
 				"key":"§cYou notice a command block floating high above the portal... it looks mineable?",
@@ -1410,31 +1410,31 @@
 			},
 			{
 				"key":"§c<Infori> *shakes butt*",
-				"value":"§c<Infori> *shakes butt*"
+				"value":"§c<Infori> *扭屁股*"
 			},
 			{
 				"key":"§c<Infori> L",
-				"value":"§c<Infori> L"
+				"value":"§c<Infori> 失败者"
 			},
 			{
 				"key":"§c<Infori> Nuh uh",
-				"value":"§c<Infori> Nuh uh"
+				"value":"§c<Infori> 呃不"
 			},
 			{
 				"key":"§c<Infori> GUH",
-				"value":"§c<Infori> GUH"
+				"value":"§c<Infori> 嗝"
 			},
 			{
 				"key":"§c<Infori> Don't care, didn't ask.",
-				"value":"§c<Infori> Don't care, didn't ask."
+				"value":"§c<Infori> 不感兴趣，别问。"
 			},
 			{
 				"key":"§c<Infori> Oh look who joined... the creator of Infernal Origins.",
-				"value":"§c<Infori> Oh look who joined... the creator of Infernal Origins."
+				"value":"§c<Infori> 哦看看谁加入游戏里了……地狱起源的创作者。"
 			},
 			{
 				"key":" §4was injected with a bomb! Get away from them!",
-				"value":" §4was injected with a bomb! Get away from them!"
+				"value":" §4被注入了一个炸弹！远离它们！"
 			},
 			{
 				"key":"§4You were hit by the bomb from ",
@@ -1442,19 +1442,19 @@
 			},
 			{
 				"key":"§c<Hoar Frost> Fair winds t' ye in Davy Jones' locker! Hahaha!",
-				"value":"§c<Hoar Frost> Fair winds t' ye in Davy Jones' locker! Hahaha!"
+				"value":"§c<白霜之主>顺风把送到你葬身海底之地！哈哈哈！"
 			},
 			{
 				"key":"§c<Ignis> Not even a worthy challenge.",
-				"value":"§c<焰魔> 甚至不值得挑战。"
+				"value":"§c<焰魔>甚至不值得挑战。"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [MISSION: COMPLETE]",
-				"value":"§c<下界合金巨兽> [任务：完成]"
+				"value":"§c<下界合金巨兽>[任务：完成]"
 			},
 			{
 				"key":"§c<Frostmaw> GRUHUHU!",
-				"value":"§c<Frostmaw> GRUHUHU!"
+				"value":"§c<霜冻巨兽>呃吼吼吼！"
 			},
 			{
 				"key":"§c<The Big One> SCAREDY CAT! HAHAHA!",
@@ -1466,55 +1466,55 @@
 			},
 			{
 				"key":"§c<Ender Guardian> As expected.",
-				"value":"§c<末影守卫> 不出所料。"
+				"value":"§c<末影守卫>不出所料。"
 			},
 			{
 				"key":"§c<Elder Guardian> Know your place!",
-				"value":"§c<远古守卫者> 认清你的地位！"
+				"value":"§c<远古守卫者>认清你的地位！"
 			},
 			{
 				"key":"§c<Land Golem> The tower remains.",
-				"value":"§c<大地傀儡> 这座塔仍矗立着。"
+				"value":"§c<大地傀儡>这座塔仍矗立着。"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> Your weakness disgusts me!",
-				"value":"§c<钢铁守护者> 你的弱小令我恶心！"
+				"value":"§c<钢铁守护者>你的懦弱令我唾弃！"
 			},
 			{
 				"key":"§c<Hoar Frost> All o' that power... gone t' waste...",
-				"value":"§c<Hoar Frost> All o' that power... gone t' waste..."
+				"value":"§c<白霜之主>所有的力量……都流失了……"
 			},
 			{
 				"key":"§c<Ignis> YOU KNOW NOT OF WHAT YOU HAVE DONE!",
-				"value":"§c<焰魔> 你根本就不知道你做了什么！！"
+				"value":"§c<焰魔>你根本就不知道你做了什么！！"
 			},
 			{
 				"key":"§c<Netherite Monstrosity> [MISSION: FAILURE]",
-				"value":"§c<下界合金巨兽> [任务：失败]"
+				"value":"§c<下界合金巨兽>[任务：失败]"
 			},
 			{
 				"key":"§c<Frostmaw> AROOOOO!",
-				"value":"§c<霜冻巨兽> 嗷呜呜呜呜！"
+				"value":"§c<霜冻巨兽>嗷呜呜呜呜！"
 			},
 			{
 				"key":"§c<The Big One> NOOOOOOOOOO!! ME NO LOSE!",
-				"value":"§c<大块头> 不！！！！！！！！我从不会输！"
+				"value":"§c<大块头> 不！！！我从不会输！"
 			},
 			{
 				"key":"§c<Wither> One with death... once again...",
-				"value":"§c<Wither> One with death... once again..."
+				"value":"§c<凋灵>带来死亡的人……再一次……"
 			},
 			{
 				"key":"§c<Ender Guardian> Void... claim my soul...",
-				"value":"§c<末影守卫> 虚空……夺走了我的灵魂……"
+				"value":"§c<末影守卫>虚空……夺走了我的灵魂……"
 			},
 			{
 				"key":"§c<Elder Guardian> My... kingdom...",
-				"value":"§c<远古守卫者> 我的……王国……"
+				"value":"§c<远古守卫者>我的……王国……"
 			},
 			{
 				"key":"§c<Land Golem> Crumble... as I do...",
-				"value":"§c<大地傀儡> 崩塌了……就像我一样……"
+				"value":"§c<大地傀儡>崩塌了……就像我一样……"
 			},
 			{
 				"key":"§c<Ferrous Wroughtnaut> I wasn't... strong... enough..",
@@ -1574,15 +1574,15 @@
 			},
 			{
 				"key":"§eYou are currently experiencing moderate heat.",
-				"value":"§e你正在经历中等的高温。"
+				"value":"§e你正在感受中等高温。"
 			},
 			{
 				"key":"§cHunger 10 is consuming you...",
-				"value":"§c饥饿10正在消耗你……"
+				"value":"§c饥饿Ⅹ正在消耗你……"
 			},
 			{
 				"key":"§eYou are currently experiencing extreme heat!",
-				"value":"§e你正在经历极端的高温！"
+				"value":"§e你正在忍受极端高温！"
 			},
 			{
 				"key":"§cSprinting will cause massive damage.",
@@ -1590,15 +1590,15 @@
 			},
 			{
 				"key":"§eYou are currently experiencing a moderate cold.",
-				"value":"§e你正在经历中等的寒冷。"
+				"value":"§e你正在感受中等寒冷。"
 			},
 			{
 				"key":"§cYour arms grow weary with Mining Fatigue 4...",
-				"value":"§c你的手臂由于挖掘疲劳4而变得疲惫不堪……"
+				"value":"§c你的手臂由于挖掘疲劳Ⅳ而变得疲惫不堪……"
 			},
 			{
 				"key":"§eYou are currently experiencing extreme frost!",
-				"value":"§e你正在经历极端的严寒！"
+				"value":"§e你正在忍受极端严寒！"
 			},
 			{
 				"key":"§cEvery 6 seconds you have a 33% chance to become frozen for 2 seconds.",
@@ -1606,7 +1606,7 @@
 			},
 			{
 				"key":"§cYou are dying!",
-				"value":"§c你进入濒死状态了！"
+				"value":"§c你快死了！"
 			},
 			{
 				"key":"§eYou break open the treasure crate.",
@@ -1638,7 +1638,7 @@
 			},
 			{
 				"key":"§eYou consume the elixir, increasing your armor by +0.5.",
-				"value":"§e你饮用了一瓶灵药，你的盔甲值增加了0.5。"
+				"value":"§e你饮用了一瓶灵药，你的护甲值增加了0.5。"
 			},
 			{
 				"key":"§eYou consume the elixir, increasing your health.",
@@ -1654,11 +1654,11 @@
 			},
 			{
 				"key":"§d[Hold to check for runes!]",
-				"value":"§d[按住查看符文!]"
+				"value":"§d[按住查看符文！]"
 			},
 			{
 				"key":"§7☐ Empty Rune",
-				"value":"§7☐ 空符文"
+				"value":"§7☐空符文"
 			},
 			{
 				"key":"§d☒ Rune:§f Smoldering",
@@ -1670,7 +1670,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Glass Cannon",
-				"value":"§d☒ 符文：§f玻璃大炮"
+				"value":"§d☒符文：§f玻璃大炮"
 			},
 			{
 				"key":"§7Deal +50% additional physical damage per empty armor slot.",
@@ -1694,7 +1694,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Initiative",
-				"value":"§d☒ 符文:§f 先发制人"
+				"value":"§d☒符文:§f 先发制人"
 			},
 			{
 				"key":"§7Attacking entities with at least 90% health deals 4x additional physical damage.",
@@ -1714,7 +1714,7 @@
 			},
 			{
 				"key":"§7Kills apply Wither 10 for 5 seconds to all entities within 8 blocks.",
-				"value":"§7击杀可对周围8格内的所有实体施加5秒的凋零10效果。"
+				"value":"§7击杀可对周围8格内的所有实体施加5秒的凋零Ⅹ效果。"
 			},
 			{
 				"key":"§d☒ Rune:§f Dark Pact",
@@ -1734,7 +1734,7 @@
 			},
 			{
 				"key":"§d☒ Rune:§f Death Toll",
-				"value":"§d☒ 符文:§f 死亡通行证"
+				"value":"§d☒符文:§f 死亡通行证"
 			},
 			{
 				"key":"§7Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
@@ -1746,7 +1746,7 @@
 			},
 			{
 				"key":"§7Kills enhance your defence, causing you to gain a random amount of armor for 1 minute. Armor received varies between 6 and 24. Value rerolls on additional kills and will remove on death.",
-				"value":"§7击杀增强你的防御，获得持续一分钟的随机数值护甲。获得的护甲在6到24之间不等。护甲值在额外的击杀时重置，在死亡后移除。"
+				"value":"§7击杀增强你的防御，获得持续1分钟的随机数值护甲。获得的护甲值在6到24之间不等。护甲值在额外的击杀时重置，在死亡后移除。"
 			},
 			{
 				"key":"§d☒ Rune:§f Phase Shift",
@@ -1762,7 +1762,7 @@
 			},
 			{
 				"key":"§7Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities.",
-				"value":"§7击杀有5%的概率获得当前杀手任务连胜数x5点的技能点。只有击杀怪物实体可以触发。"
+				"value":"§7击杀有5%的概率获得当前（杀手任务连胜数x5）点的技能点。只有击杀怪物实体可以触发。"
 			},
 			{
 				"key":"§d☒ Rune:§f Health Frenzy",
@@ -1868,35 +1868,35 @@
 			},
 			{
 				"key":"§7- Effect: Attacking burning entities deals 100% additional AOE fire damage to all entities within an 8 block range.",
-				"value":"§7- 效果：攻击燃烧的实体可对周围8格内的所有实体造成100%的额外AOE火焰伤害。"
+				"value":"§7-效果：攻击燃烧的实体可对周围8格内的所有实体造成100%的额外AOE火焰伤害。"
 			},
 			{
 				"key":"§7- Effect: Deal +50% additional physical damage per empty armor slot.",
-				"value":"§7- 效果：每有一个空装备槽，造成的物理伤害额外+50%。"
+				"value":"§7-效果：每有一个空装备槽，造成的物理伤害额外+50%。"
 			},
 			{
 				"key":"§7- Effect: Kills apply Strength for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
-				"value":"§7- 效果：击杀可对周围15格内的所有玩家施加30秒的力量效果。效果可以叠加，至多叠至30级。只有击杀怪物实体可以触发。"
+				"value":"§7-效果：击杀可对周围15格内的所有玩家施加30秒的力量效果。效果可以叠加，至多叠至30级。只有击杀怪物实体可以触发。"
 			},
 			{
 				"key":"§7- Effect: Kills apply Regeneration for 30 seconds to all players within 15 blocks. Effect stacks with additional kills, capping at level 30. Can only proc from monster entities.",
-				"value":"§7- 效果：击杀可对周围15格内的所有玩家施加30秒的生命恢复效果。效果可以叠加，至多叠至30级。只有击杀怪物实体可以触发。"
+				"value":"§7-效果：击杀可对周围15格内的所有玩家施加30秒的生命恢复效果。效果可以叠加，至多叠至30级。只有击杀怪物实体可以触发。"
 			},
 			{
 				"key":"§7- Effect: Attacking entities with at least 90% health deals 4x additional physical damage.",
-				"value":"§7- 效果：攻击生命值在90%以上的实体可造成4x额外的物理伤害。"
+				"value":"§7-效果：攻击生命值在90%以上的实体可造成4x额外的物理伤害。"
 			},
 			{
 				"key":"§7- Effect: Deal additional magic damage based on your current Slayer Task streak.",
-				"value":"§7- 效果：基于你现在的杀手任务连胜数造成额外的魔法伤害。"
+				"value":"§7-效果：基于你现在的杀手任务连胜数造成额外的魔法伤害。"
 			},
 			{
 				"key":"§7- Effect: Kills apply Wither 10 for 5 seconds to all entities within 8 blocks.",
-				"value":"§7- 效果：击杀可对周围8格内的所有实体施加5秒的凋零10效果。"
+				"value":"§7-效果：击杀可对周围8格内的所有实体施加5秒的凋零Ⅹ效果。"
 			},
 			{
 				"key":"§7- Effect: Deal 3x additional damage to bosses. Damage dealt is typeless and pierces defence.",
-				"value":"§7- 效果：对首领造成3x无类型且穿透防御的额外伤害。"
+				"value":"§7-效果：对首领造成3x无类型且穿透防御的额外伤害。"
 			},
 			{
 				"key":"§7- Effect: Taking critical damage while holding this item will save your location. Upon dying, you'll be teleported back to where the critical damage was received. Will only work in the Overworld.",
@@ -1908,19 +1908,19 @@
 			},
 			{
 				"key":"§7- Effect: Dodging an attack from the Dodge skill will cause you to heal the amount you would have taken. Healing received is fixed and cannot be amplified.",
-				"value":"§7- 效果：使用躲避技能躲避一次攻击，则该攻击本应造成的伤害会转变为等血量的治疗。治疗的量是固定的，无法被放大。"
+				"value":"§7-效果：使用躲避技能躲避一次攻击，则该攻击本应造成的伤害会转变为等血量的治疗。治疗的量是固定的，无法被放大。"
 			},
 			{
 				"key":"§7- Effect: Kills have a 5% chance to grant skill points based on your current Slayer Task streak x 5. Can only proc from monster entities.",
-				"value":"§7- 效果：击杀有5%的概率获得当前杀手任务连胜数x5点的技能点。只有击杀怪物实体可以触发。"
+				"value":"§7-效果：击杀有5%的概率获得当前（杀手任务连胜数x5）点的技能点。只有击杀怪物实体可以触发。"
 			},
 			{
 				"key":"§7- Effect: Your Health Regeneration skill heals twice as fast while this item is held.",
-				"value":"§7- 效果：手持此物品时，你的生命恢复技能的治疗速度翻倍。"
+				"value":"§7-效果：手持此物品时，你的生命恢复技能的治疗速度翻倍。"
 			},
 			{
 				"key":"§7- Effect: Kills have a 20% chance to summon a friendly Vindicator to attack nearby entities for 30 seconds. Can only proc from monster entities.",
-				"value":"§7- 效果：击杀有20%的概率召唤一个友好的卫道士攻击附近的实体，持续30秒。只有击杀怪物实体可以触发。"
+				"value":"§7-效果：击杀有20%的概率召唤一个友好的卫道士攻击附近的实体，持续30秒。只有击杀怪物实体可以触发。"
 			}
 		]
 	},
@@ -1946,7 +1946,7 @@
 			},
 			{
 				"key":"§cIf playing on LAN or Essential servers, you may experience constant kicks on §eOwlkin §cand §eVoid Wyvern§c. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.",
-				"value":"§cIf在局域网或基础服务器上游玩时，你可能会在§eOwlkin§c和§eVoid Wyvern§c上不断被踢出服务器。其他起源也可能被踢出服务器，但不会那么频繁。如果你在专用服务器上游玩，踢出不会发生，你可以忽略这个提示。"
+				"value":"§c在局域网或基础服务器上游玩时，§e鸮人§c和§e虚空飞龙§c起源会不断被踢出服务器。其他起源也可能被踢出服务器，但不会那么频繁。如果你在专用服务器上游玩，则不会出现这个情况，你可以忽略这个提示。"
 			}
 		]
 	}
