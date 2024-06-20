@@ -2,10 +2,11 @@ name: Translation To GitHub
 on:
   issues:
     types: [opened]
-
+  schedule:
+    - cron: "0 16,4 * * *"
 jobs:
   check-issue:
-    if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github')
+    if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github') && github.event_name != 'schedule'
     name: Check Issue
     runs-on: ubuntu-latest
     steps:
@@ -80,6 +81,7 @@ jobs:
   close-issue:
     name: Close Issue
     needs: Translation-To-GitHub
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - name: Close Issue
