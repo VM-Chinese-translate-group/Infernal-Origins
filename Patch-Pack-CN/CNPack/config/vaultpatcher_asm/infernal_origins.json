@@ -1952,11 +1952,11 @@
 			},
 			{
 				"key":"§7- Right click to open this bag, obtaining 4",
-				"value":"§7-右击开启袋子，获得4件随机武器/盔甲，10瓶生命灵药，25个神秘卷轴，一个末地传送门之眼，还有25%的概率获得镀金神秘卷轴"
+				"value":"§7-右击开启袋子，获得4件随机武器/盔甲，10瓶生命灵药，"
 			},
 			{
 				"key":"§7random weapons/armor, 10 Health Elixirs,",
-				"value":""
+				"value":"25个神秘卷轴，一个末地传送门之眼，还有25%的概率获得镀金神秘卷轴。"
 			},
 			{
 				"key":"§725 Mystery Scrolls, 1 Portal Eye, and a",
