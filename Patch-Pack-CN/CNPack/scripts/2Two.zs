@@ -813,168 +813,168 @@ import crafttweaker.api.util.text.MCTextComponent;
 
 <item:skillcloaks:agility_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1987"));
 <item:skillcloaks:agility_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1988"));
-<item:skillcloaks:agility_cloak>.anyDamage().removeTooltip("You get exhausted slower");
+<item:skillcloaks:agility_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u8017\u5c3d\u4f53\u529b\u7684\u901f\u5ea6\u4f1a\u6162\u4e9b\u00a7r");
 <item:skillcloaks:agility_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1990"));
 <item:skillcloaks:agility_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1991"));
 <item:skillcloaks:agility_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.agility_cloak.1992"));
 
 <item:skillcloaks:attack_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.attack_cloak.1993"));
 <item:skillcloaks:attack_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.attack_cloak.1994"));
-<item:skillcloaks:attack_cloak>.anyDamage().removeTooltip("Your armor loses less durability");
+<item:skillcloaks:attack_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u7684\u62a4\u7532\u4f1a\u6d88\u8017\u66f4\u5c11\u7684\u8010\u4e45\u503c\u00a7r");
 <item:skillcloaks:attack_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.attack_cloak.1996"));
 <item:skillcloaks:attack_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.attack_cloak.1997"));
 <item:skillcloaks:attack_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.attack_cloak.1998"));
 
 <item:skillcloaks:construction_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.construction_cloak.1999"));
 <item:skillcloaks:construction_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.construction_cloak.2000"));
-<item:skillcloaks:construction_cloak>.anyDamage().removeTooltip("Using the ability teleports you home");
+<item:skillcloaks:construction_cloak>.anyDamage().removeTooltip("\u00a77\u4f7f\u7528\u80fd\u529b\u5c06\u4f60\u4f20\u9001\u56de\u5bb6\u00a7r");
 <item:skillcloaks:construction_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.construction_cloak.2002"));
 <item:skillcloaks:construction_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.construction_cloak.2003"));
 <item:skillcloaks:construction_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.construction_cloak.2004"));
 
 <item:skillcloaks:cooking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.cooking_cloak.2005"));
 <item:skillcloaks:cooking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.cooking_cloak.2006"));
-<item:skillcloaks:cooking_cloak>.anyDamage().removeTooltip("You can cook food in your hands while holding a flint and steel");
+<item:skillcloaks:cooking_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u5728\u624b\u6301\u6253\u706b\u77f3\u7684\u65f6\u5019\u70f9\u996a\u4f60\u624b\u4e0a\u7684\u98df\u7269\u00a7r");
 <item:skillcloaks:cooking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.cooking_cloak.2008"));
 <item:skillcloaks:cooking_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.cooking_cloak.2009"));
 <item:skillcloaks:cooking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.cooking_cloak.2010"));
 
 <item:skillcloaks:crafting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.crafting_cloak.2011"));
 <item:skillcloaks:crafting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.crafting_cloak.2012"));
-<item:skillcloaks:crafting_cloak>.anyDamage().removeTooltip("Using the ability opens a crafting window for you");
+<item:skillcloaks:crafting_cloak>.anyDamage().removeTooltip("\u00a77\u4f7f\u7528\u80fd\u529b\u4e3a\u4f60\u6253\u5f00\u4e00\u4e2a\u5408\u6210\u754c\u9762\u00a7r");
 <item:skillcloaks:crafting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.crafting_cloak.2014"));
 <item:skillcloaks:crafting_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.crafting_cloak.2015"));
 <item:skillcloaks:crafting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.crafting_cloak.2016"));
 
 <item:skillcloaks:defence_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.defence_cloak.2017"));
 <item:skillcloaks:defence_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.defence_cloak.2018"));
-<item:skillcloaks:defence_cloak>.anyDamage().removeTooltip("Prevents your death, has a cooldown of one Minecraft day");
+<item:skillcloaks:defence_cloak>.anyDamage().removeTooltip("\u00a77\u9632\u6b62\u4f60\u6b7b\u4ea1\uff0c\u51b7\u5374\u65f6\u95f4\u4e3a1Minecraft\u5929\u00a7r");
 <item:skillcloaks:defence_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.defence_cloak.2020"));
 <item:skillcloaks:defence_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.defence_cloak.2021"));
 <item:skillcloaks:defence_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.defence_cloak.2022"));
 
 <item:skillcloaks:farming_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.farming_cloak.2023"));
 <item:skillcloaks:farming_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.farming_cloak.2024"));
-<item:skillcloaks:farming_cloak>.anyDamage().removeTooltip("Your Bone Meal affects a larger area");
+<item:skillcloaks:farming_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u4f7f\u7528\u9aa8\u7c89\u65f6\u5f71\u54cd\u7684\u533a\u57df\u4f1a\u66f4\u5927\u00a7r");
 <item:skillcloaks:farming_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.farming_cloak.2026"));
 <item:skillcloaks:farming_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.farming_cloak.2027"));
 <item:skillcloaks:farming_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.farming_cloak.2028"));
 
 <item:skillcloaks:firemaking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.firemaking_cloak.2029"));
 <item:skillcloaks:firemaking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.firemaking_cloak.2030"));
-<item:skillcloaks:firemaking_cloak>.anyDamage().removeTooltip("You can place down sticks and they will turn into torches");
+<item:skillcloaks:firemaking_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u653e\u7f6e\u6728\u68cd\uff0c\u800c\u5b83\u4eec\u4f1a\u53d8\u6210\u706b\u628a\u00a7r");
 <item:skillcloaks:firemaking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.firemaking_cloak.2032"));
 <item:skillcloaks:firemaking_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.firemaking_cloak.2033"));
 <item:skillcloaks:firemaking_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.firemaking_cloak.2034"));
 
 <item:skillcloaks:fishing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fishing_cloak.2035"));
 <item:skillcloaks:fishing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fishing_cloak.2036"));
-<item:skillcloaks:fishing_cloak>.anyDamage().removeTooltip("You are more lucky while fishing");
+<item:skillcloaks:fishing_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u5728\u9493\u9c7c\u65f6\u66f4\u5e78\u8fd0\u00a7r");
 <item:skillcloaks:fishing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fishing_cloak.2038"));
 <item:skillcloaks:fishing_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fishing_cloak.2039"));
 <item:skillcloaks:fishing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fishing_cloak.2040"));
 
 <item:skillcloaks:fletching_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fletching_cloak.2041"));
 <item:skillcloaks:fletching_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fletching_cloak.2042"));
-<item:skillcloaks:fletching_cloak>.anyDamage().removeTooltip("Loading an arrow into a crossbow has a chance to give you a copy of the arrow");
+<item:skillcloaks:fletching_cloak>.anyDamage().removeTooltip("\u00a77\u4e3a\u5f29\u88c5\u586b\u7bad\u65f6\uff0c\u6709\u6982\u7387\u8fd4\u8fd8\u4f60\u4e00\u6839\u540c\u6837\u7684\u7bad\u00a7r");
 <item:skillcloaks:fletching_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fletching_cloak.2044"));
 <item:skillcloaks:fletching_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fletching_cloak.2045"));
 <item:skillcloaks:fletching_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.fletching_cloak.2046"));
 
 <item:skillcloaks:herblore_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.herblore_cloak.2047"));
 <item:skillcloaks:herblore_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.herblore_cloak.2048"));
-<item:skillcloaks:herblore_cloak>.anyDamage().removeTooltip("You can make potions with your hands");
+<item:skillcloaks:herblore_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u4f7f\u7528\u4e3b\u624b\u548c\u526f\u624b\u5236\u4f5c\u836f\u6c34\u00a7r");
 <item:skillcloaks:herblore_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.herblore_cloak.2050"));
 <item:skillcloaks:herblore_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.herblore_cloak.2051"));
 <item:skillcloaks:herblore_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.herblore_cloak.2052"));
 
 <item:skillcloaks:hitpoints_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hitpoints_cloak.2053"));
 <item:skillcloaks:hitpoints_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hitpoints_cloak.2054"));
-<item:skillcloaks:hitpoints_cloak>.anyDamage().removeTooltip("All healing on you is doubled");
+<item:skillcloaks:hitpoints_cloak>.anyDamage().removeTooltip("\u00a77\u5728\u4f60\u8eab\u4e0a\u7684\u6240\u6709\u6cbb\u7597\u90fd\u53cc\u500d\u751f\u6548\u4e86\u00a7r");
 <item:skillcloaks:hitpoints_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hitpoints_cloak.2056"));
 <item:skillcloaks:hitpoints_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hitpoints_cloak.2057"));
 <item:skillcloaks:hitpoints_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hitpoints_cloak.2058"));
 
 <item:skillcloaks:hunter_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hunter_cloak.2059"));
 <item:skillcloaks:hunter_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hunter_cloak.2060"));
-<item:skillcloaks:hunter_cloak>.anyDamage().removeTooltip("Killing an enemy brings their loot and xp to you");
+<item:skillcloaks:hunter_cloak>.anyDamage().removeTooltip("\u00a77\u5f53\u4f60\u6740\u6b7b\u4e00\u540d\u654c\u4eba\uff0c\u4f60\u4f1a\u7acb\u523b\u83b7\u5f97\u5b83\u7684\u6218\u5229\u54c1\u548c\u7ecf\u9a8c\u00a7r");
 <item:skillcloaks:hunter_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hunter_cloak.2062"));
 <item:skillcloaks:hunter_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hunter_cloak.2063"));
 <item:skillcloaks:hunter_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.hunter_cloak.2064"));
 
 <item:skillcloaks:magic_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.magic_cloak.2065"));
 <item:skillcloaks:magic_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.magic_cloak.2066"));
-<item:skillcloaks:magic_cloak>.anyDamage().removeTooltip("You can transfer enchantments and curses from items into books with your hands");
+<item:skillcloaks:magic_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u5c06\u624b\u4e0a\u7684\u6b66\u5668\u7684\u9b54\u5492\u548c\u8bc5\u5492\u8f6c\u79fb\u5230\u53e6\u4e00\u53ea\u624b\u4e0a\u7684\u4e66\u91cc\u00a7r");
 <item:skillcloaks:magic_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.magic_cloak.2068"));
 <item:skillcloaks:magic_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.magic_cloak.2069"));
 <item:skillcloaks:magic_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.magic_cloak.2070"));
 
 <item:skillcloaks:mining_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.mining_cloak.2071"));
 <item:skillcloaks:mining_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.mining_cloak.2072"));
-<item:skillcloaks:mining_cloak>.anyDamage().removeTooltip("You are more fortunate while mining");
+<item:skillcloaks:mining_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u5728\u6316\u77ff\u65f6\u66f4\u5e78\u8fd0\u00a7r");
 <item:skillcloaks:mining_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.mining_cloak.2074"));
 <item:skillcloaks:mining_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.mining_cloak.2075"));
 <item:skillcloaks:mining_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.mining_cloak.2076"));
 
 <item:skillcloaks:prayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.prayer_cloak.2077"));
 <item:skillcloaks:prayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.prayer_cloak.2078"));
-<item:skillcloaks:prayer_cloak>.anyDamage().removeTooltip("You don't lose any experience or your Cloak on death");
+<item:skillcloaks:prayer_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u6b7b\u4ea1\u65f6\u4e0d\u4f1a\u4e22\u5931\u4efb\u4f55\u7ecf\u9a8c\u6216\u6597\u7bf7\u00a7r");
 <item:skillcloaks:prayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.prayer_cloak.2080"));
 <item:skillcloaks:prayer_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.prayer_cloak.2081"));
 <item:skillcloaks:prayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.prayer_cloak.2082"));
 
 <item:skillcloaks:ranging_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.ranging_cloak.2083"));
 <item:skillcloaks:ranging_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.ranging_cloak.2084"));
-<item:skillcloaks:ranging_cloak>.anyDamage().removeTooltip("Shooting an arrow with a bow has a chance to give you a copy of the arrow");
+<item:skillcloaks:ranging_cloak>.anyDamage().removeTooltip("\u00a77\u7528\u5f13\u5c04\u7bad\u65f6\uff0c\u6709\u6982\u7387\u8fd4\u8fd8\u4f60\u4e00\u6839\u540c\u6837\u7684\u7bad\u00a7r");
 <item:skillcloaks:ranging_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.ranging_cloak.2086"));
 <item:skillcloaks:ranging_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.ranging_cloak.2087"));
 <item:skillcloaks:ranging_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.ranging_cloak.2088"));
 
 <item:skillcloaks:runecraft_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.runecraft_cloak.2089"));
 <item:skillcloaks:runecraft_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.runecraft_cloak.2090"));
-<item:skillcloaks:runecraft_cloak>.anyDamage().removeTooltip("Your tools lose less durability");
+<item:skillcloaks:runecraft_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u7684\u5de5\u5177\u4f1a\u6d88\u8017\u66f4\u5c11\u7684\u8010\u4e45\u503c\u00a7o");
 <item:skillcloaks:runecraft_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.runecraft_cloak.2092"));
 <item:skillcloaks:runecraft_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.runecraft_cloak.2093"));
 <item:skillcloaks:runecraft_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.runecraft_cloak.2094"));
 
 <item:skillcloaks:slayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.slayer_cloak.2095"));
 <item:skillcloaks:slayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.slayer_cloak.2096"));
-<item:skillcloaks:slayer_cloak>.anyDamage().removeTooltip("Your attacks execute low health monsters");
+<item:skillcloaks:slayer_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u7684\u653b\u51fb\u4f1a\u5904\u51b3\u4f4e\u8840\u91cf\u7684\u602a\u7269\u00a7r");
 <item:skillcloaks:slayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.slayer_cloak.2098"));
 <item:skillcloaks:slayer_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.slayer_cloak.2099"));
 <item:skillcloaks:slayer_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.slayer_cloak.2100"));
 
 <item:skillcloaks:smithing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.smithing_cloak.2101"));
 <item:skillcloaks:smithing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.smithing_cloak.2102"));
-<item:skillcloaks:smithing_cloak>.anyDamage().removeTooltip("You can smelt ores in your hands while holding a flint and steel");
+<item:skillcloaks:smithing_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u5728\u624b\u6301\u6253\u706b\u77f3\u7684\u65f6\u5019\u7194\u70bc\u4f60\u624b\u4e0a\u7684\u77ff\u7269\u00a7r");
 <item:skillcloaks:smithing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.smithing_cloak.2104"));
 <item:skillcloaks:smithing_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.smithing_cloak.2105"));
 <item:skillcloaks:smithing_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.smithing_cloak.2106"));
 
 <item:skillcloaks:strength_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.strength_cloak.2107"));
 <item:skillcloaks:strength_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.strength_cloak.2108"));
-<item:skillcloaks:strength_cloak>.anyDamage().removeTooltip("You are way more resistant to knockback");
+<item:skillcloaks:strength_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u5bf9\u51fb\u9000\u66f4\u6709\u62b5\u6297\u529b\u00a7r");
 <item:skillcloaks:strength_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.strength_cloak.2110"));
 <item:skillcloaks:strength_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.strength_cloak.2111"));
 <item:skillcloaks:strength_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.strength_cloak.2112"));
 
 <item:skillcloaks:thieving_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.thieving_cloak.2113"));
 <item:skillcloaks:thieving_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.thieving_cloak.2114"));
-<item:skillcloaks:thieving_cloak>.anyDamage().removeTooltip("You are much more discrete");
+<item:skillcloaks:thieving_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u7684\u5b58\u5728\u611f\u964d\u4f4e\u00a7r");
 <item:skillcloaks:thieving_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.thieving_cloak.2116"));
 <item:skillcloaks:thieving_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.thieving_cloak.2117"));
 <item:skillcloaks:thieving_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.thieving_cloak.2118"));
 
 <item:skillcloaks:woodcutting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.woodcutting_cloak.2119"));
 <item:skillcloaks:woodcutting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.woodcutting_cloak.2120"));
-<item:skillcloaks:woodcutting_cloak>.anyDamage().removeTooltip("You can cut down whole trees by destroying one block from it");
+<item:skillcloaks:woodcutting_cloak>.anyDamage().removeTooltip("\u00a77\u4f60\u53ef\u4ee5\u901a\u8fc7\u6467\u6bc1\u5176\u4e2d\u4e00\u4e2a\u65b9\u5757\u6765\u780d\u5012\u6574\u68f5\u6811\u00a7r");
 <item:skillcloaks:woodcutting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.woodcutting_cloak.2122"));
 <item:skillcloaks:woodcutting_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.woodcutting_cloak.2123"));
 <item:skillcloaks:woodcutting_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.woodcutting_cloak.2124"));
 
 <item:skillcloaks:max_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.max_cloak.2125"));
 <item:skillcloaks:max_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.max_cloak.2126"));
-<item:skillcloaks:max_cloak>.anyDamage().removeTooltip("Has the effects of all the other Cloaks. Use the ability key while crouching to change mode");
+<item:skillcloaks:max_cloak>.anyDamage().removeTooltip("\u00a77\u5177\u6709\u6240\u6709\u5176\u4ed6\u6597\u7bf7\u7684\u6548\u679c\u3002\u8e72\u4e0b\u65f6\u4f7f\u7528\u80fd\u529b\u952e\u66f4\u6539\u6a21\u5f0f\u00a7r");
 <item:skillcloaks:max_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.max_cloak.2128"));
 <item:skillcloaks:max_cloak>.anyDamage().addShiftTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.max_cloak.2129"));
 <item:skillcloaks:max_cloak>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.max_cloak.2130"));
@@ -1446,24 +1446,24 @@ import crafttweaker.api.util.text.MCTextComponent;
 <item:infernal_origins_extras:item_enchantment_book_mythical>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.infernal_origins_extras.item_enchantment_book_mythical.2455"));
 
 
-<item:skillcloaks:brown_sack>.anyDamage().removeTooltip("Hold SHIFT to see possible items:");
+<item:skillcloaks:brown_sack>.anyDamage().removeTooltip("\u00a77\u6309\u4f4f SHIFT \u67e5\u770b\u53ef\u80fd\u5f97\u5230\u7684\u7269\u54c1\uff1a\u00a7r");
 <item:skillcloaks:brown_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.brown_sack.2457"));
 <item:skillcloaks:brown_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.brown_sack.2458"));
 
-<item:skillcloaks:green_sack>.anyDamage().removeTooltip("Hold SHIFT to see possible items:");
+<item:skillcloaks:green_sack>.anyDamage().removeTooltip("\u00a77\u6309\u4f4f SHIFT \u67e5\u770b\u53ef\u80fd\u5f97\u5230\u7684\u7269\u54c1\uff1a\u00a7r");
 <item:skillcloaks:green_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.green_sack.2460"));
 <item:skillcloaks:green_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.green_sack.2461"));
 
-<item:skillcloaks:red_sack>.anyDamage().removeTooltip("Hold SHIFT to see possible items:");
+<item:skillcloaks:red_sack>.anyDamage().removeTooltip("\u00a77\u6309\u4f4f SHIFT \u67e5\u770b\u53ef\u80fd\u5f97\u5230\u7684\u7269\u54c1\uff1a\u00a7r");
 <item:skillcloaks:red_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.red_sack.2463"));
 <item:skillcloaks:red_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.red_sack.2464"));
 
-<item:skillcloaks:blue_sack>.anyDamage().removeTooltip("Hold SHIFT to see possible items:");
+<item:skillcloaks:blue_sack>.anyDamage().removeTooltip("\u00a77\u6309\u4f4f SHIFT \u67e5\u770b\u53ef\u80fd\u5f97\u5230\u7684\u7269\u54c1\uff1a\u00a7r");
 <item:skillcloaks:blue_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.blue_sack.2466"));
 <item:skillcloaks:blue_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.blue_sack.2467"));
 
 
-<item:skillcloaks:black_sack>.anyDamage().removeTooltip("Takes Cloaks from your inventory");
+<item:skillcloaks:black_sack>.anyDamage().removeTooltip("\u00a77\u4ece\u4f60\u7684\u80cc\u5305\u62ff\u8d70\u6597\u7bf7\u3002\u6309\u4f4f SHIFT \u67e5\u770b\u7f3a\u5c11\u7684\u6597\u7bf7\u00a7r");
 <item:skillcloaks:black_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.black_sack.2469"));
 <item:skillcloaks:black_sack>.anyDamage().addTooltip(MCTextComponent.createTranslationTextComponent("item.skillcloaks.black_sack.2470"));
 
