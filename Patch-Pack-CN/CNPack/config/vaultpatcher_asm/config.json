@@ -1,7 +1,8 @@
 {
     "mods": [
-        "infernal_origins",
-        "unions_upgrade_scrolls"
+        "infernal_origins_extras",
+        "unions_upgrade_scrolls",
+        "skillcloaks"
     ],
     "classes": [
 

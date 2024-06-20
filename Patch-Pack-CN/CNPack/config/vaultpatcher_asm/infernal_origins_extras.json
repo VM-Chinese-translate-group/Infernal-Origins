@@ -1,9 +1,9 @@
 [
 	{
-		"name":"infernal_origins_extras",
-		"desc":"infernal origins 硬编码汉化",
+		"name":"infernal_origins_extras硬编码汉化",
+		"desc":"vp1.4.1+可启用，VPGS开源，1.16.5",
 		"mods":"infernal-origins-extras-v1.0.0-EXP1359",
-		"authors":"Litchiiiiiii",
+		"authors":"Litchiiiiiii,VM汉化组",
 		"dynamic":false
 	},
 	{
@@ -1956,11 +1956,11 @@
 			},
 			{
 				"key":"§7random weapons/armor, 10 Health Elixirs,",
-				"value":"25个神秘卷轴，一个末地传送门之眼，还有25%的概率获得镀金神秘卷轴。"
+				"value":"§725个神秘卷轴，一个末地传送门之眼，"
 			},
 			{
 				"key":"§725 Mystery Scrolls, 1 Portal Eye, and a",
-				"value":""
+				"value":"§7还有25%的概率获得镀金神秘卷轴。"
 			},
 			{
 				"key":"§725% chance for 1 Golden Mystery Scroll.",

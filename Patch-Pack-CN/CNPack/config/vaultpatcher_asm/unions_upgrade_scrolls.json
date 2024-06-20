@@ -1,9 +1,9 @@
 [
 	{
-		"name":"unions-upgrade-scrolls",
-		"desc":"unions upgrade scrolls硬编码汉化",
+		"name":"unions upgrade scrolls硬编码汉化",
+		"desc":"vp1.4.1+可启用，VPGS开源，1.16.5",
 		"mods":"unions-upgrade-scrolls-v1.0.9.4-NoDamiFix",
-		"authors":"Litchiiiiiii",
+		"authors":"Litchiiiiiii,VM汉化组",
 		"dynamic":false
 	},
 	{
