@@ -46,7 +46,8 @@ jobs:
           git fetch origin
           git branch develop
           git push -u origin develop
-          git checkout develop 
+          git checkout develop
+          git reset --hard main
       - name: Paratranz To zh_cn
         run: |
           python translationToGitHub.py
