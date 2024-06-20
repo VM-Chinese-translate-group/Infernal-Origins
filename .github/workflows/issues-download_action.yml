@@ -2,6 +2,7 @@ name: Translation To GitHub
 on:
   issues:
     types: [opened]
+
 jobs:
   check-issue:
     if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github')
@@ -9,20 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: issue check
+      - name: Issue Check
         run: |
-          echo "检测成功："${{github.event.issue.labels.*.name}}
+          echo "检测成功：${{ github.event.issue.labels.*.name }}"
+
   Translation-To-GitHub:
     name: Translation To GitHub
     needs: check-issue
     runs-on: ubuntu-latest
     environment: PARATRANZ_ENV
     env:
-      API_TOKEN: ${{secrets.API_KEY}}
+      API_TOKEN: ${{ secrets.API_KEY }}
       FILE_PATH: ./
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      PROJECT_ID: ${{vars.ID}}
-      GIT_PATH: ${{vars.G_PATH}}
+      PROJECT_ID: ${{ vars.ID }}
+      GIT_PATH: ${{ vars.G_PATH }}
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python 3.12
@@ -32,48 +34,46 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install PyGithub
-          pip install requests
-      - name: Config Ident
+          pip install PyGithub requests
+      - name: Configure Git
         run: |
-           git init
-           git fetch origin
-           git config --global user.email "1592282237@qq.com"
-           git config --global user.name "Litchiiiiiii"
-           git branch develop
-           git push -u origin develop
-           git checkout develop 
-           git reset --hard main
+          git config --global user.email "1592282237@qq.com"
+          git config --global user.name "Litchiiiiiii"
+          git config --global pull.rebase false
+      - name: Initialize and Checkout Branch
+        run: |
+          git init
+          git fetch origin
+          git checkout -b develop origin/main
       - name: Paratranz To zh_cn
         run: |
           python translationToGitHub.py
       - name: Upload To develop
         run: |
-           git config --global pull.rebase false
-           git add .
-           if [[ -n $(git status -s)  ]]
-           then
-             echo '译文更改'
-             git commit -m 'paratranz上传'
-             git pull origin develop --allow-unrelated-histories
-             git push -u origin develop
-             gh pr create --title 'paratranz上传' --body '自动PR'
-             sleep 1
-             gh pr merge develop --merge
-             git checkout main
-             git branch -D develop
-             git push origin --delete develop
-           else
-             echo '译文未更改'
-             git checkout main
-             git branch -D develop
-             git push origin --delete develop
-           fi
+          git add .
+          if [[ -n $(git status -s) ]]; then
+            echo '译文更改'
+            git commit -m 'paratranz上传'
+            git pull origin develop --allow-unrelated-histories
+            git push origin develop
+            gh pr create --title 'paratranz上传' --body '自动PR'
+            sleep 1
+            gh pr merge develop --merge
+            git checkout main
+            git branch -D develop
+            git push origin --delete develop
+          else
+            echo '译文未更改'
+            git checkout main
+            git branch -D develop
+            git push origin --delete develop
+          fi
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4
         with:
           name: CNPack
           path: ${{ github.workspace }}/Patch-Pack-CN/CNPack
+
   close-issue:
     name: Close Issue
     needs: Translation-To-GitHub
