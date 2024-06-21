@@ -14,10 +14,10 @@ jobs:
       - name: Issue Check
         run: |
           echo "检测成功：${{ github.event.issue.labels.*.name }}"
-
   Translation-To-GitHub:
     name: Translation To GitHub
     runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, '自动化:paratranz→Github') || github.event_name == 'schedule'
     environment: PARATRANZ_ENV
     env:
       API_TOKEN: ${{ secrets.API_KEY }}
@@ -80,7 +80,6 @@ jobs:
   close-issue:
     name: Close Issue
     needs: check-issue
-    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - name: Close Issue
