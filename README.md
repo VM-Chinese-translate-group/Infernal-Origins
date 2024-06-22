@@ -85,7 +85,7 @@
 * 龙击：B键
 * 龙息：V键
 
-<p id = "#1"></p>
+<p id = "1"></p>
 
 ## 汉化教程
 把该CNPack文件夹下的所有文件复制于游戏.minecraft文件夹（未启用版本隔离）或version文件夹下的infernal Origins文件夹内（启用版本隔离）
