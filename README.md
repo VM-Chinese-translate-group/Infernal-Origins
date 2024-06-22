@@ -3,6 +3,7 @@
 整合包下载地址|加载器|整合包版本|MC版本|状态|汉化教程
 :-|:-|:-|:-|:-|:-
 [下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|v2.0.0-Patch 2|1.16.5|*维护中*|[点我跳转](#1)|
+
 汉化发布：[VM汉化组官网](https://beta.vmct-cn.top/modpacks/infernal)
 
 项目主管 [@Litchiiiiii](https://github.com/Litchiiiiii) [@PigeonFish](https://github.com/PigeonFish)
