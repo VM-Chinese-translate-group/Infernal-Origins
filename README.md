@@ -3,7 +3,15 @@
 整合包下载地址|加载器|整合包版本|MC版本|状态|汉化教程
 :-|:-|:-|:-|:-|:-
 [下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|v2.0.0-Patch 2|1.16.5|*维护中*|[点我跳转](#1)|
+汉化发布：[VM汉化组官网](https://beta.vmct-cn.top/modpacks/infernal)
 
+项目主管 [@Litchiiiiii](https://github.com/Litchiiiiii) [@PigeonFish](https://github.com/PigeonFish)
+
+技术规范修正：[@Wulian233](https://github.com/Wulian233)
+
+审核：[@Cactusstudent](https://github.com/Cactusstudent)
+
+译者：[查看贡献者名单]()
 ---
 这是一个极具挑战性的整合包，从MMO游戏玩法中汲取了大量灵感。这里有大量的自定义起源、具有突袭机制的 Boss 和快节奏。还有大量专门为这个包定制的内容，你在其他任何地方都找不到。
 
@@ -90,6 +98,12 @@
 ## 汉化教程
 把该CNPack文件夹下的所有文件复制于游戏.minecraft文件夹（未启用版本隔离）或version文件夹下的infernal Origins文件夹内（启用版本隔离）
 
-若出是否替换选项框请选择是（代表汉化成功）
+若出现是否替换选项框请选择是（代表汉化成功）
 
 若未出现请认真按上述操作执行直至出现替换选项框
+
+<p id = "2"></p>
+
+## 译者名单
+
+Litchiiiiiii、PigeonFish、Cactusstudent、Wulian233、冰琳、3093FengMing、Crimvael、WsLhh、Cat酱、luyixs、望、kressety、Jh0v0、yinzi
