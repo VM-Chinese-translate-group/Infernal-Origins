@@ -1,0 +1,27 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.CreateWorldScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -181
+  action = addtext
+  actionid = ab953565-51b4-40b3-bba2-61babe8b4ddc1661998841114
+  y = 82
+  scale = 1.0
+  alignment = left
+  value = §4如果你的世界因崩溃而丢失，请重启游戏。因为它并没有消失！
+}
+
