@@ -1,6 +1,6 @@
 # Infernal Origins简体中文翻译
 
-整合包下载地址|加载器|整合包版本|MC版本|状态|汉化教程
+整合包下载地址|加载器|整合包版本|MC版本|状态|汉化教程|
 :-|:-|:-|:-|:-|:-
 [下载链接](https://www.curseforge.com/minecraft/modpacks/infernal-rpg)|Forge|v2.0.0-Patch 2|1.16.5|*维护中*|[点我跳转](#1)|
 
@@ -102,6 +102,12 @@
 若出现是否替换选项框请选择是（代表汉化成功）
 
 若未出现请认真按上述操作执行直至出现替换选项框
+
+注：若需完全汉化请下载i18n自动汉化更新模组、硬编码汉化VP模组补全汉化
+
+点击下载[i18n自动汉化更新模组](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)
+
+点击下载[硬编码汉化VP模组](https://www.curseforge.com/minecraft/mc-mods/vault-patcher)
 
 <p id = "2"></p>
 
