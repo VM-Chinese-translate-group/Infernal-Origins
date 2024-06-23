@@ -1,0 +1,15 @@
+autoSwitchLanguage = false
+checkModPackTranslationUpdate = true
+autoDownloadVMTranslationPack = false
+autoInstallVMTranslationPack = false
+displayTips = true
+playerNameCheck = true
+switchLanguage = "zh_cn"
+modPackTranslationUpdateCheckUrl = "https://vmct-cn.top/modpacks/infernal/update.txt"
+modPackTranslationUrl = "https://beta.vmct-cn.top/modpacks/infernal"
+tipsUrl = "https://vmct-cn.top/tips.txt"
+modPackTranslationVersion = "1.0.0"
+tipsMinutes = 20
+translationPackName = "VM汉化组模组汉化包1.16"
+translationPackUrl = "https://cdn.modrinth.com/data/IDWIdXwS/versions/G2F45m19/"
+nameUrl = "https://vmct-cn.top/name.json"
