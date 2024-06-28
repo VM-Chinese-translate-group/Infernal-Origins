@@ -2,7 +2,7 @@
     "mods": [
         "infernal_origins_extras",
         "unions_upgrade_scrolls",
-        "skillcloaks"
+	    "skillcloaks"
     ],
     "classes": [
 
@@ -15,5 +15,6 @@
         "output_mode": 0,
         "export_class": false,
         "use_cache": false
-    }
+    },
+     "class_patch": true
 }
